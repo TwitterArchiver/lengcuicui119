@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003113586164436992"
+      ],
+      "media_source_tweet_id": [
+        "2003113632331378713"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2003145693125575026",
+    "created_at": "2025-12-22T16:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003145693125575026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827014551163858944",
+          "start": 3,
+          "username": "iiueef"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lRVK5RQtC",
+          "end": 35,
+          "expanded_url": "https://x.com/iiueef/status/2003113632331378713/photo/1",
+          "media_key": "3_2003113586164436992",
+          "start": 12,
+          "url": "https://t.co/6lRVK5RQtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003145693125575026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003113632331378713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiueef: https://t.co/6lRVK5RQtC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003145693125575026].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003145693125575026",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003145693125575026"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2003113586164436992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8x9MZQXEAAoeaa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003113586164436992"
+          ]
+        },
+        "author_id": "1827014551163858944",
+        "conversation_id": "2003113632331378713",
+        "created_at": "2025-12-22T14:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003113632331378713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lRVK5RQtC",
+              "end": 23,
+              "expanded_url": "https://x.com/iiueef/status/2003113632331378713/photo/1",
+              "media_key": "3_2003113586164436992",
+              "start": 0,
+              "url": "https://t.co/6lRVK5RQtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003113632331378713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12945,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6lRVK5RQtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "讨厌玉米，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 407,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T16:06:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/ierrsu",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/ierrsu",
+                "start": 0,
+                "url": "https://t.co/nFOoim2ovN"
+              }
+            ]
+          }
+        },
+        "id": "1827014551163858944",
+        "name": "Étoile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914524359928025088/DfFvTQjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8934,
+          "following_count": 26,
+          "like_count": 2262,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/nFOoim2ovN",
+        "username": "iiueef",
+        "verified": false
+      }
+    ]
+  }
+}

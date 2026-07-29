@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2032953535558726103",
+    "created_at": "2026-03-14T22:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T23:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032953535558726103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917890381104271361",
+          "start": 3,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032953535558726103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032834020783042597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AV1O492: 亲爱的们可以点一下帮我转发吗？我是新中国第一毒枭DizzyRichter，因邮箱不稳前段日子封了一个又一个号\n现在就稳定就用这个号了，要是再无缘无故封禁我给你们办转抽发钱，麻烦大家一遍一遍关注我了\n以前一起玩的朋友们你们回来吧你们不在的时候我老癫痫\nl…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032953535558726103].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032953535558726103",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032953535558726103"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2032833996313473027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTv82aMAMEoRn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032833995411697667",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTv5faMAMR2y0.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 8893,
+        "height": 1280,
+        "media_key": "7_2032833996556750848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032833996556750848/pu/img/p6EXh2bV49y_zBNZ.jpg",
+        "public_metrics": {
+          "view_count": 698
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/320x568/2bOxCFSDcvXaHcCd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/480x852/ydk5V8fASR7eVbin.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/720x1280/_sFGXTabkLoAiJmD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/pl/UEf4QEmnriTGzIE1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032833998909747206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTwGhaMAYlc_h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032833996313473027",
+            "3_2032833995411697667",
+            "7_2032833996556750848",
+            "3_2032833998909747206"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032834020783042597",
+        "created_at": "2026-03-14T14:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032834020783042597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 151,
+              "start": 145,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833996313473027",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833995411697667",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "7_2032833996556750848",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833998909747206",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032834020783042597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2760,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的们可以点一下帮我转发吗？我是新中国第一毒枭DizzyRichter，因邮箱不稳前段日子封了一个又一个号\n现在就稳定就用这个号了，要是再无缘无故封禁我给你们办转抽发钱，麻烦大家一遍一遍关注我了\n以前一起玩的朋友们你们回来吧你们不在的时候我老癫痫\nlove y'all\n#drugtwt #shtwt https://t.co/XUHPBoSa56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 636,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 36,
+          "like_count": 1887,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

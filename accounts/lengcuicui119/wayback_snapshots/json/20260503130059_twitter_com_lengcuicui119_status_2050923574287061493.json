@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2050911272556986579",
+    "created_at": "2026-05-03T13:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050923574287061493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643490407094030338",
+          "start": 0,
+          "username": "Usam8964"
+        },
+        {
+          "end": 18,
+          "id": "1900779126245769216",
+          "start": 10,
+          "username": "fawpv25"
+        },
+        {
+          "end": 33,
+          "id": "1536716629505359872",
+          "start": 19,
+          "username": "cigsafterdrug"
+        },
+        {
+          "end": 47,
+          "id": "1817803292875083776",
+          "start": 34,
+          "username": "utlramanzero"
+        },
+        {
+          "end": 57,
+          "id": "2013321876224057344",
+          "start": 48,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050923574287061493",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050915628589228360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usam8964 @fawpv25 @cigsafterdrug @utlramanzero @OTxiashu 来了宝宝😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2050911272556986579",
+        "created_at": "2026-05-03T13:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050923574287061493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 18,
+              "id": "1900779126245769216",
+              "start": 10,
+              "username": "fawpv25"
+            },
+            {
+              "end": 33,
+              "id": "1536716629505359872",
+              "start": 19,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 47,
+              "id": "1817803292875083776",
+              "start": 34,
+              "username": "utlramanzero"
+            },
+            {
+              "end": 57,
+              "id": "2013321876224057344",
+              "start": 48,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050923574287061493",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050915628589228360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @fawpv25 @cigsafterdrug @utlramanzero @OTxiashu 来了宝宝😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2050911272556986579",
+        "created_at": "2026-05-03T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050915628589228360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            },
+            {
+              "end": 23,
+              "id": "1900779126245769216",
+              "start": 15,
+              "username": "fawpv25"
+            },
+            {
+              "end": 38,
+              "id": "1536716629505359872",
+              "start": 24,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 52,
+              "id": "1817803292875083776",
+              "start": 39,
+              "username": "utlramanzero"
+            },
+            {
+              "end": 62,
+              "id": "2013321876224057344",
+              "start": 53,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050915628589228360",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050911272556986579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 @fawpv25 @cigsafterdrug @utlramanzero @OTxiashu ！？妈咪我来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，有问题请私信，评论发不出去，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 820,
+          "like_count": 2734,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 1201,
+          "like_count": 56008,
+          "listed_count": 6,
+          "media_count": 490,
+          "tweet_count": 6827
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 263,
+          "like_count": 16384,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 4595
+        },
+        "username": "fawpv25",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 371,
+          "like_count": 23709,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1910
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "90顺直男老登/肥宅丑比/焦虑型话唠/四处嘴贱评论抖机灵/不发文，查成分的看推文没用得看回复",
+        "id": "1817803292875083776",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 113,
+          "like_count": 10816,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 3799
+        },
+        "username": "utlramanzero",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011 妈妈:@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 550,
+          "like_count": 10516,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

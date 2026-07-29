@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2034798800100003862",
+    "created_at": "2026-03-20T01:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034808695390183813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1682585579442274305",
+          "start": 0,
+          "username": "ichuOuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034808695390183813",
+    "in_reply_to_user_id": "1682585579442274305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034807934467871142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichuOuO 可以联用，pr先吃的话，药效过去会显得安非他酮药效更明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2034798800100003862",
+        "created_at": "2026-03-20T01:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034808695390183813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1682585579442274305",
+              "start": 0,
+              "username": "ichuOuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034808695390183813",
+        "in_reply_to_user_id": "1682585579442274305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034807934467871142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichuOuO 可以联用，pr先吃的话，药效过去会显得安非他酮药效更明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682585579442274305",
+        "conversation_id": "2034798800100003862",
+        "created_at": "2026-03-20T01:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034807934467871142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034807934467871142",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034798800100003862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 安非他酮能和pr一起连用吗 已经2400mg的pr了 ´ᯅ`"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 654,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T02:57:29.000Z",
+        "description": "SOSA PAIN／狂热自恋同时自毁／行为诡谲／严重躯体化",
+        "id": "1682585579442274305",
+        "name": "Narcissus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022959338755936256/6lvvq9uz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 26,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 117
+        },
+        "username": "ichuOuO",
+        "verified": false
+      }
+    ]
+  }
+}

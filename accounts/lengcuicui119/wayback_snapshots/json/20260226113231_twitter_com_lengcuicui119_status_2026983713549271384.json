@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2026950816192659490",
+    "created_at": "2026-02-26T11:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026983713549271384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026983713549271384",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026950816192659490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 老师，问问怎么溶解🙋🏻‍♀️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5168,
+        "height": 1280,
+        "media_key": "13_2026950758315474944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026950758315474944/img/95ganqBYUFEgJk5Z.jpg",
+        "public_metrics": {
+          "view_count": 251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026950758315474944/vid/avc1/320x568/O5VcBUtG6pIXQZBt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026950758315474944/vid/avc1/480x852/qmwNSAtHTnOiE8Tu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026950758315474944/vid/avc1/720x1280/svUOWj-jafIWjtBt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026950758315474944/pl/eaNHgojjlqLAXQBv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2026950816192659490",
+        "created_at": "2026-02-26T11:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026983713549271384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026983713549271384",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026950816192659490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 老师，问问怎么溶解🙋🏻‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026950758315474944"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2026950816192659490",
+        "created_at": "2026-02-26T09:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026950816192659490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7o4q83Kl1",
+              "end": 66,
+              "expanded_url": "https://x.com/pyke2076/status/2026950816192659490/video/1",
+              "media_key": "13_2026950758315474944",
+              "start": 43,
+              "url": "https://t.co/j7o4q83Kl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026950816192659490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏毒性药物+dpt测试，下一次单独测麻醉剂，然后就是End了，不过最好是没有下次了 https://t.co/j7o4q83Kl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 427,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8350,
+          "following_count": 1222,
+          "like_count": 64188,
+          "listed_count": 8,
+          "media_count": 2981,
+          "tweet_count": 17942
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

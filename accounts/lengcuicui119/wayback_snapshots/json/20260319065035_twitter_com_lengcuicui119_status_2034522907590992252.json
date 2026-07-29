@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2034450717126348955",
+    "created_at": "2026-03-19T06:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034522907590992252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034522907590992252",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034450717126348955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 好萌！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 1280,
+        "media_key": "13_2034450656308891649",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034450656308891649/img/1Y2oVXZUy5p7Ms1r.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034450656308891649/vid/avc1/320x568/Q4URx_JzelnraVw0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034450656308891649/vid/avc1/480x852/9Q0y8QRcRdfqvnHV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034450656308891649/vid/avc1/720x1280/fX5DJKJ-eUBtmi4p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034450656308891649/pl/wDajtfNsaohHuCho.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2034450717126348955",
+        "created_at": "2026-03-19T06:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034522907590992252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034522907590992252",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034450717126348955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 好萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034450656308891649"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2034450717126348955",
+        "created_at": "2026-03-19T02:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T03:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034450717126348955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQXNEC5Q0d",
+              "end": 30,
+              "expanded_url": "https://x.com/n_ne373/status/2034450717126348955/video/1",
+              "media_key": "13_2034450656308891649",
+              "start": 7,
+              "url": "https://t.co/AQXNEC5Q0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034450717126348955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实长这样 https://t.co/AQXNEC5Q0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 653,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "373｜这里好像只有碎碎念｜直fo就是喜欢你｜查成分互fo\n不会混圈不懂各种规则先道个歉TT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 23,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 0,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52",
+        "name": "みず",
+        "pinned_tweet_id": "2034451123617292379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 112,
+          "like_count": 2247,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/VRxGbV6kFb",
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

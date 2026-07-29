@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2021398093493915662",
+    "created_at": "2026-02-11T23:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021726005061464521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671372665402060801",
+          "start": 0,
+          "username": "HomerArcinoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021726005061464521",
+    "in_reply_to_user_id": "1671372665402060801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021468898709864833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HomerArcinoma 哇，我第一次也吃了8t，直接瘫床上一直笑，笑到没力气了睡着了。。很难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2021398093493915662",
+        "created_at": "2026-02-11T23:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021726005061464521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671372665402060801",
+              "start": 0,
+              "username": "HomerArcinoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021726005061464521",
+        "in_reply_to_user_id": "1671372665402060801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021468898709864833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomerArcinoma 哇，我第一次也吃了8t，直接瘫床上一直笑，笑到没力气了睡着了。。很难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671372665402060801",
+        "conversation_id": "2021398093493915662",
+        "created_at": "2026-02-11T06:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021468898709864833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021468898709864833",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021398093493915662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 我第一次吃就吃了8t，除了輕微的內部幻覺就啥也沒有了，然後因為抽菸引發了神經性的呼吸困難⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 392,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T04:21:34.000Z",
+        "description": "The important thing is not to cure, but to live with the pain. -Albert Camus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/homerarcinoma",
+                "end": 23,
+                "expanded_url": "https://t.me/homerarcinoma",
+                "start": 0,
+                "url": "https://t.co/XbJ5nuJV6A"
+              }
+            ]
+          }
+        },
+        "id": "1671372665402060801",
+        "location": "Earth",
+        "name": "Homer Arcinoma",
+        "pinned_tweet_id": "2005624671329517996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004355049632284672/Aopr2_bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 125,
+          "like_count": 6598,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/XbJ5nuJV6A",
+        "username": "HomerArcinoma",
+        "verified": false
+      }
+    ]
+  }
+}

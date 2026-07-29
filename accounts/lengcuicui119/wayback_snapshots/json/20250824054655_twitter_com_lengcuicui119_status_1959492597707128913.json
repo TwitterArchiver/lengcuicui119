@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959206441870598144"
+      ],
+      "media_source_tweet_id": [
+        "1959206530634678519"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1959492597707128913",
+    "created_at": "2025-08-24T05:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959492597707128913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831526124146585601",
+          "start": 3,
+          "username": "ha9siro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uoLNm3bIUK",
+          "end": 36,
+          "expanded_url": "https://x.com/ha9siro/status/1959206530634678519/photo/1",
+          "media_key": "3_1959206441870598144",
+          "start": 13,
+          "url": "https://t.co/uoLNm3bIUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959492597707128913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959206530634678519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ha9siro: https://t.co/uoLNm3bIUK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1959206441870598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzB_4OlaoAAfK5f.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959206441870598144"
+          ],
+          "media_source_tweet_id": [
+            "1959206530634678519"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "1959492597707128913",
+        "created_at": "2025-08-24T05:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959492597707128913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831526124146585601",
+              "start": 3,
+              "username": "ha9siro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoLNm3bIUK",
+              "end": 36,
+              "expanded_url": "https://x.com/ha9siro/status/1959206530634678519/photo/1",
+              "media_key": "3_1959206441870598144",
+              "start": 13,
+              "url": "https://t.co/uoLNm3bIUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959492597707128913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959206530634678519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ha9siro: https://t.co/uoLNm3bIUK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959206441870598144"
+          ]
+        },
+        "author_id": "1831526124146585601",
+        "conversation_id": "1959206530634678519",
+        "created_at": "2025-08-23T10:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959206530634678519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoLNm3bIUK",
+              "end": 23,
+              "expanded_url": "https://x.com/ha9siro/status/1959206530634678519/photo/1",
+              "media_key": "3_1959206441870598144",
+              "start": 0,
+              "url": "https://t.co/uoLNm3bIUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959206530634678519",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 13711,
+          "like_count": 848,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uoLNm3bIUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 335,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T02:53:59.000Z",
+        "description": "Niji・journeyで制作したイラスト(AI)をそのまま投稿してます😊自由気ままその日の気分で垂れ流して行きます😙無断転載❌商用利用❌",
+        "id": "1831526124146585601",
+        "name": "白",
+        "pinned_tweet_id": "1959481909760979301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913231886601818113/56ExRDNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10693,
+          "following_count": 343,
+          "like_count": 23439,
+          "listed_count": 52,
+          "media_count": 1664,
+          "tweet_count": 16700
+        },
+        "username": "ha9siro",
+        "verified": true
+      }
+    ]
+  }
+}

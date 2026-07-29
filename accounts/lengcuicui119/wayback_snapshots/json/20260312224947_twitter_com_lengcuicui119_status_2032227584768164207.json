@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2031990158846042223",
+    "created_at": "2026-03-12T22:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T23:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032227584768164207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2019355322541043720",
+          "start": 0,
+          "username": "zznaah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032227584768164207",
+    "in_reply_to_user_id": "2019355322541043720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031990158846042223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zznaah 蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2031990158846042223",
+        "created_at": "2026-03-12T22:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032227584768164207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2019355322541043720",
+              "start": 0,
+              "username": "zznaah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032227584768164207",
+        "in_reply_to_user_id": "2019355322541043720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031990158846042223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zznaah 蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019355322541043720",
+        "conversation_id": "2031990158846042223",
+        "created_at": "2026-03-12T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031990158846042223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031990158846042223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2785,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "互fo转帖抽奖∽\n一等奖：52r✖️1\n二等奖：愈美片✖️2（可折现\n三等奖：5.2r✖️5\n参与奖：1.88r✖️20\n3.18开奖，直接关注就好了我会回关哦∽❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 500,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:21:23.000Z",
+        "description": "互fo直接关注就好，我会回关的\n当朋友圈发，v🚪5.2纯绿只加女孩子",
+        "id": "2019355322541043720",
+        "location": "上海",
+        "name": "全网最懵逼账号。",
+        "pinned_tweet_id": "2031990158846042223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031787398733115393/cZGMh5vV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 85,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "zznaah",
+        "verified": false
+      }
+    ]
+  }
+}

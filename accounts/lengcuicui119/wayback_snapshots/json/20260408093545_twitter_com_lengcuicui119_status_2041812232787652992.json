@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2041812232787652992",
+    "created_at": "2026-04-08T09:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041812232787652992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2041802674862223827",
+          "start": 14,
+          "url": "https://t.co/XRQ0SPRHsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041812232787652992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041802674862223827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮班主任来分忧，极速申请！ https://t.co/XRQ0SPRHsb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2041802670454009858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXwtfna8AI95R6.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2041812232787652992",
+        "created_at": "2026-04-08T09:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041812232787652992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2041802674862223827",
+              "start": 14,
+              "url": "https://t.co/XRQ0SPRHsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041812232787652992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041802674862223827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮班主任来分忧，极速申请！ https://t.co/XRQ0SPRHsb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041802670454009858"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2041802674862223827",
+        "created_at": "2026-04-08T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041802674862223827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMFypBnmBP",
+              "end": 155,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041802674862223827/photo/1",
+              "media_key": "3_2041802670454009858",
+              "start": 132,
+              "url": "https://t.co/PMFypBnmBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041802674862223827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家喜欢叫我十七老师，那不如我就开设一个班级吧！！\n名字是：17班の致幻晚自习\n是禁止营销等一切违规行为的纯娱乐纯讨论tg群组哦，暂时先分布职位，后面再邀请同学们加入\n现在开始招聘课代表们或者其他职位啦\n私我申请哦，什么职位都可以，自由根据能力考虑\n当下职位有： https://t.co/PMFypBnmBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 670,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 909,
+          "like_count": 2242,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

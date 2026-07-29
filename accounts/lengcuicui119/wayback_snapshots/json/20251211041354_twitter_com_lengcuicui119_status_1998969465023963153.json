@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998753795376054272"
+      ],
+      "media_source_tweet_id": [
+        "1998753803332628737"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1998969465023963153",
+    "created_at": "2025-12-11T04:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998969465023963153"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "별정직공무원"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1229606843380404225",
+          "start": 3,
+          "username": "_chamuring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xi2qoZfMPv",
+          "end": 52,
+          "expanded_url": "https://x.com/_chamuring/status/1998753803332628737/photo/1",
+          "media_key": "3_1998753795376054272",
+          "start": 29,
+          "url": "https://t.co/xi2qoZfMPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998969465023963153",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6877
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998753803332628737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @_chamuring: #별정직공무원 \n제철🐟 https://t.co/xi2qoZfMPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998753795376054272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7z__K7agAArN4X.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998753795376054272"
+          ],
+          "media_source_tweet_id": [
+            "1998753803332628737"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "1998969465023963153",
+        "created_at": "2025-12-11T04:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998969465023963153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "별정직공무원"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1229606843380404225",
+              "start": 3,
+              "username": "_chamuring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xi2qoZfMPv",
+              "end": 52,
+              "expanded_url": "https://x.com/_chamuring/status/1998753803332628737/photo/1",
+              "media_key": "3_1998753795376054272",
+              "start": 29,
+              "url": "https://t.co/xi2qoZfMPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998969465023963153",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6877
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998753803332628737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @_chamuring: #별정직공무원 \n제철🐟 https://t.co/xi2qoZfMPv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998753795376054272"
+          ]
+        },
+        "author_id": "1229606843380404225",
+        "conversation_id": "1998753803332628737",
+        "created_at": "2025-12-10T13:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998753803332628737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "별정직공무원"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xi2qoZfMPv",
+              "end": 36,
+              "expanded_url": "https://x.com/_chamuring/status/1998753803332628737/photo/1",
+              "media_key": "3_1998753795376054272",
+              "start": 13,
+              "url": "https://t.co/xi2qoZfMPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998753803332628737",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2578,
+          "impression_count": 417846,
+          "like_count": 41778,
+          "quote_count": 1048,
+          "reply_count": 0,
+          "retweet_count": 6877
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#별정직공무원 \n제철🐟 https://t.co/xi2qoZfMPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 394,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-18T03:26:14.000Z",
+        "description": "🇰🇷 차무링",
+        "id": "1229606843380404225",
+        "location": "i: 엿장수",
+        "name": "ch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642183442426388487/UtGh3YiZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478817,
+          "following_count": 368,
+          "like_count": 6740,
+          "listed_count": 1380,
+          "media_count": 310,
+          "tweet_count": 506
+        },
+        "username": "_chamuring",
+        "verified": false
+      }
+    ]
+  }
+}

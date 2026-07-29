@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953693622203035652"
+      ],
+      "media_source_tweet_id": [
+        "1953693737982558342"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1955847445545689346",
+    "created_at": "2025-08-14T04:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T05:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955847445545689346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "射满小穴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1129074303658409984",
+          "start": 3,
+          "username": "MaomiQvQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1DxZSg0okS",
+          "end": 51,
+          "expanded_url": "https://x.com/MaomiQvQ/status/1953693737982558342/video/1",
+          "media_key": "13_1953693622203035652",
+          "start": 28,
+          "url": "https://t.co/1DxZSg0okS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955847445545689346",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4609
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953693737982558342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaomiQvQ: Wataa💦💦\n#射满小穴 https://t.co/1DxZSg0okS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955847445545689346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955847445545689346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955847445545689346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100133,
+        "height": 708,
+        "media_key": "13_1953693622203035652",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953693622203035652/img/MuFvoUWiirRX0iC_.jpg",
+        "public_metrics": {
+          "view_count": 740443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953693622203035652/vid/avc1/486x270/VGRFztmjr-mIS-Zw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953693622203035652/vid/avc1/648x360/-a-V9TAjEB5eT5Qf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953693622203035652/vid/avc1/1278x708/pHPMnIoMigcyBNXd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953693622203035652/pl/HpvOqDOz_WaxAN-p.m3u8"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953693622203035652"
+          ]
+        },
+        "author_id": "1129074303658409984",
+        "conversation_id": "1953693737982558342",
+        "created_at": "2025-08-08T05:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953693737982558342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "射满小穴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DxZSg0okS",
+              "end": 37,
+              "expanded_url": "https://x.com/MaomiQvQ/status/1953693737982558342/video/1",
+              "media_key": "13_1953693622203035652",
+              "start": 14,
+              "url": "https://t.co/1DxZSg0okS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953693737982558342",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15202,
+          "impression_count": 1881365,
+          "like_count": 37604,
+          "quote_count": 28,
+          "reply_count": 79,
+          "retweet_count": 4609
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa💦💦\n#射满小穴 https://t.co/1DxZSg0okS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 330,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T17:21:05.000Z",
+        "description": "淫荡小嘴喜欢被塞满🌿更喜欢被哥哥舔👅关注不迷路🐾 cos 圈天花板请认准奶妈🍼@dfsy5566 | 十年资深外围导师七喜@qqqixiyule | 💯最真实高端COS外围认准👉🏻@hml_good | 全球高质量独家c圈外围@beizhecos02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "dfsy5566"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "qqqixiyule"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "hml_good"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "beizhecos02"
+              }
+            ]
+          }
+        },
+        "id": "1129074303658409984",
+        "location": "评论区报坐标随机抽粉🌿",
+        "name": "樱桃小嘴ღ",
+        "pinned_tweet_id": "1955634701873676503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656673167224741889/tKMJcSs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125603,
+          "following_count": 8,
+          "like_count": 490,
+          "listed_count": 2858,
+          "media_count": 164,
+          "tweet_count": 396
+        },
+        "username": "MaomiQvQ",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

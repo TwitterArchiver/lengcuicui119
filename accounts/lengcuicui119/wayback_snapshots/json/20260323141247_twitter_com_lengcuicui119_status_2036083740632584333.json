@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2036083740632584333",
+    "created_at": "2026-03-23T14:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036083740632584333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phonyr42250/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/phonyr42250/status/2036073777856164082",
+          "start": 2,
+          "url": "https://t.co/qGzEaclP77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036083740632584333",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036073777856164082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐴 https://t.co/qGzEaclP77"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2036083740632584333",
+        "created_at": "2026-03-23T14:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036083740632584333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phonyr42250/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/phonyr42250/status/2036073777856164082",
+              "start": 2,
+              "url": "https://t.co/qGzEaclP77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036083740632584333",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036073777856164082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐴 https://t.co/qGzEaclP77"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763878677522337792",
+        "conversation_id": "2036073777856164082",
+        "created_at": "2026-03-23T13:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:24:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036071530288103582",
+          "2036073777856164082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036073777856164082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "⭐警⭐钟⭐撅⭐烂⭐\n\n以下是会阻断或显著减弱4-HO-MET药效的常见物质和行为列表（按常见强度和使用频率排序，不解释原理）：\n强阻断类（通常大幅取消或几乎完全阻断迷幻效果）\n喹硫平\n奥氮平\n利培酮\n齐拉西酮\n阿立哌唑\n曲唑酮\n米氮平\n米安色林\n氯氮平\n酮色林\n\n中等减弱类\n苯二氮卓类：阿普唑仑、地西泮、劳拉西泮、氯硝西泮等，大麻\n\n慢性使用导致减弱的物质\nSSRIs：氟西汀、舍曲林、帕罗西汀、艾司西酞普兰等\nSNRIs：文拉法辛、度洛西汀等\n其他抗抑郁药：奈法唑酮、依托哌酮\n\n其他行为/因素（明显减弱体验）\n近期使用其他经典致幻剂（LSD、psilocybin、DMT等）导致的交叉耐受（几天到一周内）\n极度疲劳或严重睡眠不足\n酒精（高剂量时通常减弱迷幻部分）\n\n这些是基于药理和用户报告最常提到的。如果你在服某种具体药物或有特定组合，补充细节我可以更针对性列出。安全第一，别自行实验停药。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "⭐警⭐钟⭐撅⭐烂⭐\n\n以下是会阻断或显著减弱4-HO-MET药效的常见物质和行为列表（按常见强度和使用频率排序，不解释原理）：\n强阻断类（通常大幅取消或几乎完全阻断迷幻效果）\n喹硫平\n奥氮平\n利培酮\n齐拉西酮\n阿立哌唑\n曲唑酮\n米氮平\n米安色林\n氯氮平\n酮色林\n\n中等减弱类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 721,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T10:47:13.000Z",
+        "description": "⭐只是旅行者罢了，把我说过的一切都当做梦呓吧⭐\n⭐无性别者⭐\n⭐对象@sunset__3000美工很好有需要可以找她⭐\n⭐#odtwt⭐\n⭐#shtwt⭐\n⭐TG:HsHnFR⭐\n⭐🌵🍄售卖中⭐\n⭐上升售卖中⭐\n⭐dpt售卖中⭐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "odtwt"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "1763878677522337792",
+        "name": "ヰ世界优泠#参宿七#五代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035476029503090688/8ywyug9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 24,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "username": "PhonyR42250",
+        "verified": true
+      }
+    ]
+  }
+}

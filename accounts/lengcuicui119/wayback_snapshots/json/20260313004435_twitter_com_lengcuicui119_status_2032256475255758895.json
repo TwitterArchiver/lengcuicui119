@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032178310860718080",
+        "3_2032178341659492352",
+        "3_2032178466427392000"
+      ],
+      "media_source_tweet_id": [
+        "2032178507309355256",
+        "2032178507309355256",
+        "2032178507309355256"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2032256475255758895",
+    "created_at": "2026-03-13T00:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032256475255758895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822447334749614080",
+          "start": 3,
+          "username": "chenwai29719"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7yYRMHujfX",
+          "end": 115,
+          "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+          "media_key": "3_2032178310860718080",
+          "start": 92,
+          "url": "https://t.co/7yYRMHujfX"
+        },
+        {
+          "display_url": "pic.x.com/7yYRMHujfX",
+          "end": 115,
+          "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+          "media_key": "3_2032178341659492352",
+          "start": 92,
+          "url": "https://t.co/7yYRMHujfX"
+        },
+        {
+          "display_url": "pic.x.com/7yYRMHujfX",
+          "end": 115,
+          "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+          "media_key": "3_2032178466427392000",
+          "start": 92,
+          "url": "https://t.co/7yYRMHujfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032256475255758895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032178507309355256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenwai29719: 新增笑气业务！\n降价了！补充一点常识性的东西，大家都来转这个帖，之前的作废（还是15号开奖，在这个帖子的转帖里面抽1t dpt和一盒笑气（不包邮） https://t.co/7yYRMHujfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2032178310860718080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO_aCMbQAAKKED.jpg",
+        "width": 691
+      },
+      {
+        "height": 734,
+        "media_key": "3_2032178341659492352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO_b07bQAAHL3k.jpg",
+        "width": 668
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2032178466427392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO_jFuaUAADk8n.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032178310860718080",
+            "3_2032178341659492352",
+            "3_2032178466427392000"
+          ],
+          "media_source_tweet_id": [
+            "2032178507309355256",
+            "2032178507309355256",
+            "2032178507309355256"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2032256475255758895",
+        "created_at": "2026-03-13T00:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032256475255758895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822447334749614080",
+              "start": 3,
+              "username": "chenwai29719"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 115,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178310860718080",
+              "start": 92,
+              "url": "https://t.co/7yYRMHujfX"
+            },
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 115,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178341659492352",
+              "start": 92,
+              "url": "https://t.co/7yYRMHujfX"
+            },
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 115,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178466427392000",
+              "start": 92,
+              "url": "https://t.co/7yYRMHujfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032256475255758895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032178507309355256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chenwai29719: 新增笑气业务！\n降价了！补充一点常识性的东西，大家都来转这个帖，之前的作废（还是15号开奖，在这个帖子的转帖里面抽1t dpt和一盒笑气（不包邮） https://t.co/7yYRMHujfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032178310860718080",
+            "3_2032178341659492352",
+            "3_2032178466427392000"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "2032178507309355256",
+        "created_at": "2026-03-12T19:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032178507309355256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 97,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178310860718080",
+              "start": 74,
+              "url": "https://t.co/7yYRMHujfX"
+            },
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 97,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178341659492352",
+              "start": 74,
+              "url": "https://t.co/7yYRMHujfX"
+            },
+            {
+              "display_url": "pic.x.com/7yYRMHujfX",
+              "end": 97,
+              "expanded_url": "https://x.com/chenwai29719/status/2032178507309355256/photo/1",
+              "media_key": "3_2032178466427392000",
+              "start": 74,
+              "url": "https://t.co/7yYRMHujfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032178507309355256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "新增笑气业务！\n降价了！补充一点常识性的东西，大家都来转这个帖，之前的作废（还是15号开奖，在这个帖子的转帖里面抽1t dpt和一盒笑气（不包邮） https://t.co/7yYRMHujfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 505,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "dpt全网最低价/小瓶笑气3r一瓶/07INFP/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/adhd+asd /精神病\n忘记回fo请私信   「诗」在小号@waichen187098",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "waichen187098"
+              }
+            ]
+          }
+        },
+        "id": "1822447334749614080",
+        "location": "🚪52",
+        "name": "尘外(买dpt和笑气找我)",
+        "pinned_tweet_id": "2032178507309355256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005744135614128135/F2BQ5yAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 219,
+          "like_count": 153,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 661
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

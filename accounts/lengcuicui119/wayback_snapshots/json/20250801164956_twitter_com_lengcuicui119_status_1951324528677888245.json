@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1949852498355007488"
+      ],
+      "media_source_tweet_id": [
+        "1949856904093618490"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1951324528677888245",
+    "created_at": "2025-08-01T16:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T17:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951324528677888245"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "手冲实录"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "男喘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917927232905052160",
+          "start": 3,
+          "username": "Xy000812"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6tErrmY1S",
+          "end": 105,
+          "expanded_url": "https://x.com/Xy000812/status/1949856904093618490/video/1",
+          "media_key": "13_1949852498355007488",
+          "start": 82,
+          "url": "https://t.co/C6tErrmY1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951324528677888245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949856904093618490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xy000812: 《许愿的幻想时刻》游戏连败了\n  有点黏黏糊糊的\n  录完人也黏黏糊糊的了\n 不知道说什么了 脑子冲懵了\n  \n  #手冲实录 #男喘 https://t.co/C6tErrmY1S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951324528677888245].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951324528677888245",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951324528677888245"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3311083,
+        "height": 480,
+        "media_key": "13_1949852498355007488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949852498355007488/img/JN_iYkhQj95dGq7a.jpg",
+        "public_metrics": {
+          "view_count": 86289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949852498355007488/vid/avc1/270x270/iBibyAssL4s9VZf0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949852498355007488/vid/avc1/360x360/hIGT3lh1W-m07cXN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949852498355007488/vid/avc1/482x480/Gf7T7VPDBs4kLx_X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949852498355007488/pl/KxwSVIlzdLV9tGkM.m3u8?v=c58"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949852498355007488"
+          ]
+        },
+        "author_id": "1917927232905052160",
+        "conversation_id": "1949856904093618490",
+        "created_at": "2025-07-28T15:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949856904093618490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "男喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6tErrmY1S",
+              "end": 91,
+              "expanded_url": "https://x.com/Xy000812/status/1949856904093618490/video/1",
+              "media_key": "13_1949852498355007488",
+              "start": 68,
+              "url": "https://t.co/C6tErrmY1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949856904093618490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1040,
+          "impression_count": 279750,
+          "like_count": 3457,
+          "quote_count": 31,
+          "reply_count": 291,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "《许愿的幻想时刻》游戏连败了\n  有点黏黏糊糊的\n  录完人也黏黏糊糊的了\n 不知道说什么了 脑子冲懵了\n  \n  #手冲实录 #男喘 https://t.co/C6tErrmY1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 310,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "日常@Shadow000812/没有🚪 饭盒https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Shadow000812"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 45,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1920857425625616848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90862,
+          "following_count": 27,
+          "like_count": 66,
+          "listed_count": 94,
+          "media_count": 123,
+          "tweet_count": 195
+        },
+        "username": "Xy000812",
+        "verified": false
+      }
+    ]
+  }
+}

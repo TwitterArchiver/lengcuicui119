@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1965015540864573440"
+      ],
+      "media_source_tweet_id": [
+        "1965015716568109302"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1965265524071579682",
+    "created_at": "2025-09-09T04:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965265524071579682"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "分享"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "动漫"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "变身"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "AV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1090413762736119808",
+          "start": 3,
+          "username": "xxxxxxzx8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0MarIeJzLg",
+          "end": 115,
+          "expanded_url": "https://x.com/xxxxxxzx8/status/1965015716568109302/video/1",
+          "media_key": "13_1965015540864573440",
+          "start": 92,
+          "url": "https://t.co/0MarIeJzLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965265524071579682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965015716568109302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxxxzx8: #分享 动漫AV\n#动漫 #变身 #AV\n我很少喜欢动漫的，况且又是AV\n但这段实在是太棒了\n突然get了为什么很多人爱动漫\n就是因为可以这么天马行空吧 https://t.co/0MarIeJzLg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965265524071579682].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965265524071579682",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965265524071579682"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 500922,
+        "height": 720,
+        "media_key": "13_1965015540864573440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965015540864573440/img/Oj1xc31E2JWyIKWx.jpg",
+        "public_metrics": {
+          "view_count": 16361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965015540864573440/vid/avc1/470x270/vfvY_ltN9hgbwkxJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965015540864573440/vid/avc1/628x360/NgjAyfsNk3PHbqdo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965015540864573440/vid/avc1/1256x720/hCmcZPL19E9QlRGd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965015540864573440/pl/h4vHNwzAlFivzpjN.m3u8"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965015540864573440"
+          ]
+        },
+        "author_id": "1090413762736119808",
+        "conversation_id": "1965015716568109302",
+        "created_at": "2025-09-08T11:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965015716568109302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "分享"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "动漫"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "变身"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "AV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MarIeJzLg",
+              "end": 100,
+              "expanded_url": "https://x.com/xxxxxxzx8/status/1965015716568109302/video/1",
+              "media_key": "13_1965015540864573440",
+              "start": 77,
+              "url": "https://t.co/0MarIeJzLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965015716568109302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 31514,
+          "like_count": 848,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "#分享 动漫AV\n#动漫 #变身 #AV\n我很少喜欢动漫的，况且又是AV\n但这段实在是太棒了\n突然get了为什么很多人爱动漫\n就是因为可以这么天马行空吧 https://t.co/0MarIeJzLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 350,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-30T00:57:54.000Z",
+        "description": "🔞解说分享一些喜欢的精液入口视频｜侵删｜🎬完整视频电报频道：https://t.co/tq9SdmWKsG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/koubaojunpro",
+                "end": 53,
+                "expanded_url": "https://t.me/koubaojunpro",
+                "start": 30,
+                "url": "https://t.co/tq9SdmWKsG"
+              }
+            ]
+          }
+        },
+        "id": "1090413762736119808",
+        "location": "7.3 km",
+        "name": "口爆菌💦（70%OFF）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586182964349530113/ccGEcboJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89602,
+          "following_count": 351,
+          "like_count": 1174,
+          "listed_count": 194,
+          "media_count": 346,
+          "tweet_count": 538
+        },
+        "username": "xxxxxxzx8",
+        "verified": false
+      }
+    ]
+  }
+}

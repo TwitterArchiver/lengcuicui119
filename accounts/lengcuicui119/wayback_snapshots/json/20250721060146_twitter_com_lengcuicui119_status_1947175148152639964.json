@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945763782073925632",
+        "3_1945763782535360512"
+      ],
+      "media_source_tweet_id": [
+        "1945763863737372923",
+        "1945763863737372923"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1947175148152639964",
+    "created_at": "2025-07-21T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947175148152639964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630535308113502209",
+          "start": 3,
+          "username": "Y59391325"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xctzVCvYgM",
+          "end": 131,
+          "expanded_url": "https://x.com/Y59391325/status/1945763863737372923/video/1",
+          "media_key": "7_1945763782073925632",
+          "start": 108,
+          "url": "https://t.co/xctzVCvYgM"
+        },
+        {
+          "display_url": "pic.x.com/xctzVCvYgM",
+          "end": 131,
+          "expanded_url": "https://x.com/Y59391325/status/1945763863737372923/video/1",
+          "media_key": "3_1945763782535360512",
+          "start": 108,
+          "url": "https://t.co/xctzVCvYgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947175148152639964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945763863737372923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y59391325: 宝宝求的：两根同时进入一个小穴\n⚠️不喜勿看哈，我纯属是满足小部分姐妹的性癖（我不爱看这种，感觉痛痛的）\n✅正好之前🈶姐妹分享过双龙入洞（这视频原主经常这样玩3p的，如果喜欢可以去看） https://t.co/xctzVCvYgM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947175148152639964].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947175148152639964",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947175148152639964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21826,
+        "height": 720,
+        "media_key": "7_1945763782073925632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945763782073925632/pu/img/Ovesl3i1wq4tHIkp.jpg",
+        "public_metrics": {
+          "view_count": 77087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945763782073925632/pu/vid/avc1/474x270/NsT1joEU5y42gdvJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945763782073925632/pu/vid/avc1/632x360/9TYBKVHnsJljrBBI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945763782073925632/pu/vid/avc1/1264x720/12P0aEk_Lep08Od3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945763782073925632/pu/pl/ZTRaRReHh5ousCHl.m3u8?tag=12"
+          }
+        ],
+        "width": 1264
+      },
+      {
+        "height": 1277,
+        "media_key": "3_1945763782535360512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC92eLXMAA5bnV.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945763782073925632",
+            "3_1945763782535360512"
+          ]
+        },
+        "author_id": "1630535308113502209",
+        "conversation_id": "1945763863737372923",
+        "created_at": "2025-07-17T08:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945763863737372923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xctzVCvYgM",
+              "end": 116,
+              "expanded_url": "https://x.com/Y59391325/status/1945763863737372923/video/1",
+              "media_key": "7_1945763782073925632",
+              "start": 93,
+              "url": "https://t.co/xctzVCvYgM"
+            },
+            {
+              "display_url": "pic.x.com/xctzVCvYgM",
+              "end": 116,
+              "expanded_url": "https://x.com/Y59391325/status/1945763863737372923/video/1",
+              "media_key": "3_1945763782535360512",
+              "start": 93,
+              "url": "https://t.co/xctzVCvYgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945763863737372923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 205532,
+          "like_count": 973,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝求的：两根同时进入一个小穴\n⚠️不喜勿看哈，我纯属是满足小部分姐妹的性癖（我不爱看这种，感觉痛痛的）\n✅正好之前🈶姐妹分享过双龙入洞（这视频原主经常这样玩3p的，如果喜欢可以去看） https://t.co/xctzVCvYgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 296,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T11:48:45.000Z",
+        "description": "🌷日常剪辑优质视频，视频来源于网络，侵则删\n唯一的小号：大姨 @ta_xiao24198\n🌷自用vpn👇https://t.co/PAmN9BwsbL很丝滑\n⚠️40万粉➕的才是真的小姨，其余都是假冒的。小姨剪辑的视频都直发推特，没有群，不会通过🔗引流进群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "ta_xiao24198"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.com/#/register?cod…",
+                "end": 75,
+                "expanded_url": "https://tw01.damoplane.com/#/register?code=phzszXwa",
+                "start": 52,
+                "url": "https://t.co/PAmN9BwsbL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ktt.pinduoduo.com/t/XoDX5iHV3i",
+                "end": 23,
+                "expanded_url": "https://ktt.pinduoduo.com/t/XoDX5iHV3i",
+                "start": 0,
+                "url": "https://t.co/E7TXbmTx9x"
+              }
+            ]
+          }
+        },
+        "id": "1630535308113502209",
+        "location": "🌷小姨在快团团卖小玩具，🛒戳👇（正品保障，保密发货）",
+        "name": "钮祜禄小姨",
+        "pinned_tweet_id": "1942586343911219432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930529953893974016/fjEv9LbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473340,
+          "following_count": 79,
+          "like_count": 277,
+          "listed_count": 697,
+          "media_count": 818,
+          "tweet_count": 2554
+        },
+        "url": "https://t.co/E7TXbmTx9x",
+        "username": "Y59391325",
+        "verified": false
+      }
+    ]
+  }
+}

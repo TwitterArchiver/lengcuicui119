@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "1951323096750956862",
+    "created_at": "2025-08-01T16:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T17:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951323096750956862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713526774158819328",
+          "start": 3,
+          "username": "l4960106383455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951323096750956862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921666189131907432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l4960106383455: 在派对被“妈妈”勾引\n又名：美沙酮中毒反应\n\n“妈妈，我有个好主意。”\n“待会儿见我哥的时候，让他也闻闻我的味道吧。”\n“都射进去了啊，还走吗？要夹着我的精液去见他吗？”\n\n关键词：1i/背德/争风吃醋/勾引/事后清理(男口女)/妈妈预警…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951323096750956862].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951323096750956862",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951323096750956862"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1085906,
+        "height": 1920,
+        "media_key": "13_1921665173426700288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921665173426700288/img/uxGHewY6I6QNnF7y.jpg",
+        "public_metrics": {
+          "view_count": 43948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921665173426700288/vid/avc1/480x640/IbBEAJTBLlqMWFyU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921665173426700288/vid/avc1/1440x1920/XZS7R38tV6yveq6v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921665173426700288/pl/kEzJ_wLit7xqK-fH.m3u8?v=89c"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921665173426700288/vid/avc1/320x426/deCenF219h8FfkzG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921665173426700288/vid/avc1/720x960/6g2adAUAquGG_TJB.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921665173426700288"
+          ]
+        },
+        "author_id": "1713526774158819328",
+        "conversation_id": "1921666189131907432",
+        "created_at": "2025-05-11T20:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T21:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921666189131907432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "女性向"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "男喘"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "剧情向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeIu6YjFxt",
+              "end": 158,
+              "expanded_url": "https://x.com/l4960106383455/status/1921666189131907432/video/1",
+              "media_key": "13_1921665173426700288",
+              "start": 135,
+              "url": "https://t.co/SeIu6YjFxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921666189131907432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 115000,
+          "like_count": 881,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "在派对被“妈妈”勾引\n又名：美沙酮中毒反应\n\n“妈妈，我有个好主意。”\n“待会儿见我哥的时候，让他也闻闻我的味道吧。”\n“都射进去了啊，还走吗？要夹着我的精液去见他吗？”\n\n关键词：1i/背德/争风吃醋/勾引/事后清理(男口女)/妈妈预警\n\n#女性向 #男喘 #剧情向 https://t.co/SeIu6YjFxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 310,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T12:06:39.000Z",
+        "description": "女性向音声博主 / 电子幽灵 / Switch / 直男/贩售音频见盒岛：19136W / 公开音频合集在fanbox/希望你感受到音频里的人在爱你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/19136W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/19136W",
+                "start": 0,
+                "url": "https://t.co/j9aqQnue1k"
+              }
+            ]
+          }
+        },
+        "id": "1713526774158819328",
+        "location": "更多音频见盒岛",
+        "name": "凌芝Violet",
+        "pinned_tweet_id": "1823808320131752381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744015613658583040/rLUAUHV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35722,
+          "following_count": 77,
+          "like_count": 455,
+          "listed_count": 67,
+          "media_count": 116,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/j9aqQnue1k",
+        "username": "l4960106383455",
+        "verified": false
+      }
+    ]
+  }
+}

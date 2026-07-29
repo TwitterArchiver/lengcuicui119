@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938188242245062659"
+      ],
+      "media_source_tweet_id": [
+        "1938188630826348756"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1961687959809491136",
+    "created_at": "2025-08-30T07:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961687959809491136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580955313448321025",
+          "start": 3,
+          "username": "MeiMo888"
+        },
+        {
+          "end": 32,
+          "id": "1891244345644462080",
+          "start": 21,
+          "username": "CutetoGirl"
+        },
+        {
+          "end": 44,
+          "id": "1899056009706151936",
+          "start": 33,
+          "username": "CutetoBaby"
+        },
+        {
+          "end": 56,
+          "id": "1926202833751203840",
+          "start": 45,
+          "username": "CutetoLori"
+        },
+        {
+          "end": 68,
+          "id": "1873919696158052352",
+          "start": 57,
+          "username": "CutetoMiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9iZAuMZsso",
+          "end": 92,
+          "expanded_url": "https://x.com/MeiMo888/status/1938188630826348756/video/1",
+          "media_key": "13_1938188242245062659",
+          "start": 69,
+          "url": "https://t.co/9iZAuMZsso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961687959809491136",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938188630826348756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeiMo888: Wataa🫦\n@CutetoGirl\n@CutetoBaby\n@CutetoLori\n@CutetoMiss https://t.co/9iZAuMZsso"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961687959809491136].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961687959809491136",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961687959809491136"
+    },
+    {
+      "detail": "User has been suspended: [CutetoLori].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "CutetoLori",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "CutetoLori"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 133466,
+        "height": 1080,
+        "media_key": "13_1938188242245062659",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938188242245062659/img/7wIzIiZ-EeuYaE9Q.jpg",
+        "public_metrics": {
+          "view_count": 110347
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938188242245062659/vid/avc1/1280x720/-uwCsjodA6LylJB6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938188242245062659/vid/avc1/1920x1080/6IJJk2bvtbHKJsGK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938188242245062659/pl/JW_x2D6j0K5Okt98.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938188242245062659/vid/avc1/480x270/Vz6Ic9noVvPS9bAV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938188242245062659/vid/avc1/640x360/5SXhfqTp5G8fQueR.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938188242245062659"
+          ]
+        },
+        "author_id": "1580955313448321025",
+        "conversation_id": "1938188630826348756",
+        "created_at": "2025-06-26T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938188630826348756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1891244345644462080",
+              "start": 7,
+              "username": "CutetoGirl"
+            },
+            {
+              "end": 30,
+              "id": "1899056009706151936",
+              "start": 19,
+              "username": "CutetoBaby"
+            },
+            {
+              "end": 42,
+              "id": "1926202833751203840",
+              "start": 31,
+              "username": "CutetoLori"
+            },
+            {
+              "end": 54,
+              "id": "1873919696158052352",
+              "start": 43,
+              "username": "CutetoMiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iZAuMZsso",
+              "end": 78,
+              "expanded_url": "https://x.com/MeiMo888/status/1938188630826348756/video/1",
+              "media_key": "13_1938188242245062659",
+              "start": 55,
+              "url": "https://t.co/9iZAuMZsso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938188630826348756",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2768,
+          "impression_count": 340196,
+          "like_count": 7059,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 1181
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa🫦\n@CutetoGirl\n@CutetoBaby\n@CutetoLori\n@CutetoMiss https://t.co/9iZAuMZsso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 344,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T16:15:15.000Z",
+        "description": "165/49kg/推特粉嫩天花板丨越粉嫩含水量越多💦💦——————————————————————————评论区报坐标年龄/每周末随机🌿粉（只抽粉丝）",
+        "id": "1580955313448321025",
+        "name": "魅小魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935687454763159552/SAzKIhb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3320,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "username": "MeiMo888",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T21:54:26.000Z",
+        "description": "接投稿，请关注我丨正文@CutetoGirl丨12h内未转请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "CutetoGirl"
+              }
+            ]
+          }
+        },
+        "id": "1891244345644462080",
+        "name": "娇女似水💞",
+        "pinned_tweet_id": "1932043197754003930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905959066037608448/rVCpA2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42862,
+          "following_count": 4,
+          "like_count": 38,
+          "listed_count": 60,
+          "media_count": 0,
+          "tweet_count": 120
+        },
+        "username": "CutetoGirl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T11:13:50.000Z",
+        "description": "接投稿，请关注我丨正文@CutetoBaby丨12h内未转请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "CutetoBaby"
+              }
+            ]
+          }
+        },
+        "id": "1899056009706151936",
+        "name": "娇女如云💞",
+        "pinned_tweet_id": "1932043360132366392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905955354690891776/-5g0EuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45806,
+          "following_count": 3,
+          "like_count": 54,
+          "listed_count": 61,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "CutetoBaby",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2024-12-31T02:30:56.000Z",
+        "description": "接投稿，请关注我丨正文 @CutetoMiss丨12h内未转请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "CutetoMiss"
+              }
+            ]
+          }
+        },
+        "id": "1873919696158052352",
+        "name": "娇女似玉💞",
+        "pinned_tweet_id": "1932038367258280000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932037189225111552/KdB_00HA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6929,
+          "following_count": 2,
+          "like_count": 4313,
+          "listed_count": 12,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "CutetoMiss",
+        "verified": false
+      }
+    ]
+  }
+}

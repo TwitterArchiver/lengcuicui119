@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998710824224079872"
+      ],
+      "media_source_tweet_id": [
+        "1998718804633985257"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1998970211601625545",
+    "created_at": "2025-12-11T04:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998970211601625545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299236351020154880",
+          "start": 3,
+          "username": "__abhishek_0001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CYGYYCll1",
+          "end": 50,
+          "expanded_url": "https://x.com/__abhishek_0001/status/1998718804633985257/video/1",
+          "media_key": "13_1998710824224079872",
+          "start": 27,
+          "url": "https://t.co/7CYGYYCll1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998970211601625545",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998718804633985257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @__abhishek_0001: wataa https://t.co/7CYGYYCll1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998970211601625545].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998970211601625545",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998970211601625545"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31973,
+        "height": 1080,
+        "media_key": "13_1998710824224079872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998710824224079872/img/R9-X2mD_azdDocHg.jpg",
+        "public_metrics": {
+          "view_count": 33320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998710824224079872/vid/avc1/480x270/AOBo4vt4kI4WoMAQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998710824224079872/vid/avc1/640x360/q3qaXmwhwIFsgv5c.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998710824224079872/vid/avc1/1280x720/fZiQ-tbgLG94w9sI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998710824224079872/pl/VwEqBIlqz9d5Ycuh.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998710824224079872"
+          ]
+        },
+        "author_id": "1299236351020154880",
+        "conversation_id": "1998718804633985257",
+        "created_at": "2025-12-10T11:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998718804633985257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CYGYYCll1",
+              "end": 29,
+              "expanded_url": "https://x.com/__abhishek_0001/status/1998718804633985257/video/1",
+              "media_key": "13_1998710824224079872",
+              "start": 6,
+              "url": "https://t.co/7CYGYYCll1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998718804633985257",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 58993,
+          "like_count": 1501,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 259
+        },
+        "reply_settings": "following",
+        "text": "wataa https://t.co/7CYGYYCll1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 394,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:44:30.000Z",
+        "description": "",
+        "id": "1299236351020154880",
+        "name": "小了个萝莉~~",
+        "pinned_tweet_id": "1998196960545952122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996416491697430529/esQJDn0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18164,
+          "following_count": 12,
+          "like_count": 10101,
+          "listed_count": 22,
+          "media_count": 32,
+          "tweet_count": 46
+        },
+        "username": "__abhishek_0001",
+        "verified": false
+      }
+    ]
+  }
+}

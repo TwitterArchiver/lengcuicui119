@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2008771947761725794",
+    "created_at": "2026-01-07T15:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008923048477647188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008923048477647188",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008771947761725794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 吃玉米第二天头好痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_2008771921199198209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CXa13bcAEv3iL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2008771947761725794",
+        "created_at": "2026-01-07T15:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008923048477647188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008923048477647188",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008771947761725794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 吃玉米第二天头好痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008771921199198209"
+          ]
+        },
+        "author_id": "1958896241158299650",
+        "conversation_id": "2008771947761725794",
+        "created_at": "2026-01-07T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008771947761725794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUKhVkzRjj",
+              "end": 36,
+              "expanded_url": "https://x.com/Cyb4rEnt1ty/status/2008771947761725794/photo/1",
+              "media_key": "3_2008771921199198209",
+              "start": 13,
+              "url": "https://t.co/BUKhVkzRjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008771947761725794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2207,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊我要笑死了…. https://t.co/BUKhVkzRjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容/二三涉/请自行避雷🥰/欢迎互fo",
+        "id": "1455784742922555395",
+        "name": "想死就o百草枯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 351,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 169
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006188962332000257/yv1ZFRts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 268,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1845
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

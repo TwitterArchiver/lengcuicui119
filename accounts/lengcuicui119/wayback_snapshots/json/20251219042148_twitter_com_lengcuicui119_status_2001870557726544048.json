@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001519426261377024"
+      ],
+      "media_source_tweet_id": [
+        "2001519484318941380"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2001870557726544048",
+    "created_at": "2025-12-19T04:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001870557726544048"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Ivan Braginsky",
+          "probability": 0.9855,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "744079303659261952",
+          "start": 3,
+          "username": "Ophirusia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BUnCYhip2X",
+          "end": 138,
+          "expanded_url": "https://x.com/Ophirusia/status/2001519484318941380/photo/1",
+          "media_key": "3_2001519426261377024",
+          "start": 115,
+          "url": "https://t.co/BUnCYhip2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001870557726544048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001519484318941380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ophirusia: Ivan Braginsky is a formidable presence. Even if his body is divided like this, he can still laugh. https://t.co/BUnCYhip2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2979,
+        "media_key": "3_2001519426261377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bTUE1aYAAVZgM.jpg",
+        "width": 3655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001519426261377024"
+          ],
+          "media_source_tweet_id": [
+            "2001519484318941380"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2001870557726544048",
+        "created_at": "2025-12-19T04:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001870557726544048"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Ivan Braginsky",
+              "probability": 0.9855,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "744079303659261952",
+              "start": 3,
+              "username": "Ophirusia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUnCYhip2X",
+              "end": 138,
+              "expanded_url": "https://x.com/Ophirusia/status/2001519484318941380/photo/1",
+              "media_key": "3_2001519426261377024",
+              "start": 115,
+              "url": "https://t.co/BUnCYhip2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001870557726544048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001519484318941380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ophirusia: Ivan Braginsky is a formidable presence. Even if his body is divided like this, he can still laugh. https://t.co/BUnCYhip2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001519426261377024"
+          ]
+        },
+        "author_id": "744079303659261952",
+        "conversation_id": "2001519484318941380",
+        "created_at": "2025-12-18T05:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001519484318941380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Ivan Braginsky",
+              "probability": 0.9854,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUnCYhip2X",
+              "end": 123,
+              "expanded_url": "https://x.com/Ophirusia/status/2001519484318941380/photo/1",
+              "media_key": "3_2001519426261377024",
+              "start": 100,
+              "url": "https://t.co/BUnCYhip2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001519484318941380",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 13376,
+          "like_count": 1371,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "Ivan Braginsky is a formidable presence. Even if his body is divided like this, he can still laugh. https://t.co/BUnCYhip2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 409,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-18T08:08:25.000Z",
+        "description": "Draw whatever I want ‖ Hetalia APH 🇷🇺x🇨🇳 Ivan Brakinsky x Wang Yao #rochu mainly ‖ Chinese/English/a little Russian ‖ Plz do not repost or use commercially",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "rochu"
+              }
+            ]
+          }
+        },
+        "id": "744079303659261952",
+        "location": "🇨🇳China",
+        "name": "灰烬颅",
+        "pinned_tweet_id": "1340917526008455169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918289544954429440/YX1TnYXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12355,
+          "following_count": 896,
+          "like_count": 3686,
+          "listed_count": 36,
+          "media_count": 86,
+          "tweet_count": 701
+        },
+        "username": "Ophirusia",
+        "verified": false
+      }
+    ]
+  }
+}

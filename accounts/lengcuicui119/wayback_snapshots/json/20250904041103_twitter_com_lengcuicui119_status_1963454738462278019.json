@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1833157330697113600"
+      ],
+      "media_source_tweet_id": [
+        "1833159647878136101"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1963454738462278019",
+    "created_at": "2025-09-04T04:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963454738462278019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1591030131606241281",
+          "start": 3,
+          "username": "luobao1221"
+        },
+        {
+          "end": 45,
+          "id": "1232857489747533824",
+          "start": 37,
+          "username": "DaFoer_"
+        },
+        {
+          "end": 56,
+          "id": "1069782809668149248",
+          "start": 46,
+          "username": "Daguidiyi"
+        },
+        {
+          "end": 69,
+          "id": "1238085448032866304",
+          "start": 57,
+          "username": "Fojiangnice"
+        },
+        {
+          "end": 83,
+          "id": "1443261851693768705",
+          "start": 70,
+          "username": "Xiaoxiaofoer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ClEyhDShh",
+          "end": 107,
+          "expanded_url": "https://x.com/luobao1221/status/1833159647878136101/video/1",
+          "media_key": "13_1833157330697113600",
+          "start": 84,
+          "url": "https://t.co/1ClEyhDShh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963454738462278019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3262
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833159647878136101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @luobao1221: zw喷水过程➕拔肛塞 这期洛宝好色色🥵\n\n@DaFoer_\n@Daguidiyi\n@Fojiangnice\n@Xiaoxiaofoer https://t.co/1ClEyhDShh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963454738462278019].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963454738462278019",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963454738462278019"
+    },
+    {
+      "detail": "User has been suspended: [DaFoer_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "DaFoer_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "DaFoer_"
+    },
+    {
+      "detail": "User has been suspended: [Daguidiyi].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Daguidiyi",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Daguidiyi"
+    },
+    {
+      "detail": "User has been suspended: [Fojiangnice].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Fojiangnice",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Fojiangnice"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81013,
+        "height": 1080,
+        "media_key": "13_1833157330697113600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1833157330697113600/img/BLqOhTrYta_6c5uJ.jpg",
+        "public_metrics": {
+          "view_count": 892461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833157330697113600/vid/avc1/1806x1080/5RznJRD_w1XsZTJA.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1833157330697113600/pl/iddNTbNTX561ZHVt.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833157330697113600/vid/avc1/1204x720/feF2FvXiujxsd_cM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833157330697113600/vid/avc1/450x270/hoXjKbjEazxcKye7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833157330697113600/vid/avc1/602x360/v0-ElTyh2mbS1WEI.mp4?tag=16"
+          }
+        ],
+        "width": 1806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1833157330697113600"
+          ]
+        },
+        "author_id": "1591030131606241281",
+        "conversation_id": "1833159647878136101",
+        "created_at": "2024-09-09T15:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T16:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833159647878136101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1232857489747533824",
+              "start": 21,
+              "username": "DaFoer_"
+            },
+            {
+              "end": 40,
+              "id": "1069782809668149248",
+              "start": 30,
+              "username": "Daguidiyi"
+            },
+            {
+              "end": 53,
+              "id": "1238085448032866304",
+              "start": 41,
+              "username": "Fojiangnice"
+            },
+            {
+              "end": 67,
+              "id": "1443261851693768705",
+              "start": 54,
+              "username": "Xiaoxiaofoer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ClEyhDShh",
+              "end": 91,
+              "expanded_url": "https://x.com/luobao1221/status/1833159647878136101/video/1",
+              "media_key": "13_1833157330697113600",
+              "start": 68,
+              "url": "https://t.co/1ClEyhDShh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833159647878136101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9868,
+          "impression_count": 3861859,
+          "like_count": 35440,
+          "quote_count": 7,
+          "reply_count": 118,
+          "retweet_count": 3262
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "zw喷水过程➕拔肛塞 这期洛宝好色色🥵\n\n@DaFoer_\n@Daguidiyi\n@Fojiangnice\n@Xiaoxiaofoer https://t.co/1ClEyhDShh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 349,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T11:28:54.000Z",
+        "description": "主页视频完整版购买方式👉🏻：https://t.co/q1D7XArumV 🔥十年资深老嫖☞外围导师🔝七喜全球娱乐@qqqixiyule ｜51探花，全国外围网址：👉https://t.co/vMTa2J3XyG 男主：@ks1723160",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "qqqixiyule"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "ks1723160"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/luobao1221_bot",
+                "end": 37,
+                "expanded_url": "https://t.me/luobao1221_bot",
+                "start": 14,
+                "url": "https://t.co/q1D7XArumV"
+              },
+              {
+                "display_url": "51tanhua3.org",
+                "end": 106,
+                "expanded_url": "http://51tanhua3.org",
+                "start": 83,
+                "url": "https://t.co/vMTa2J3XyG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luobao1028",
+                "end": 23,
+                "expanded_url": "https://t.me/luobao1028",
+                "start": 0,
+                "url": "https://t.co/kOOBImXVfQ"
+              }
+            ]
+          }
+        },
+        "id": "1591030131606241281",
+        "location": "免费浏览群：",
+        "name": "洛宝",
+        "pinned_tweet_id": "1961710158150828178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958490513436520448/_WKTFZ8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724437,
+          "following_count": 9,
+          "like_count": 273,
+          "listed_count": 1871,
+          "media_count": 25,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/kOOBImXVfQ",
+        "username": "luobao1221",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-09-29T17:11:14.000Z",
+        "description": "橙子🍊主营北上广深杭👉@youleww夜浪漫严选精品之家💎@YLM__003🥇全网最高质量外围@Maowushiqi大牛中端无门槛@lihu1140321 c圈天花板小凰@xhcoser888🥇品鉴师玩高端找白鹤@bh8881bot良家专属贴心包养伴侣@XINYUBY c圈最靠谱中介@Qingyucos_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "youleww"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "username": "YLM__003"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Maowushiqi"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "lihu1140321"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "xhcoser888"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "bh8881bot"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "username": "XINYUBY"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "Qingyucos_04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+1F4DN-KifKphO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+1F4DN-KifKphOTQ9",
+                "start": 0,
+                "url": "https://t.co/tofsrQVRd5"
+              }
+            ]
+          }
+        },
+        "id": "1443261851693768705",
+        "location": "全网100%保真无假人/可无门槛约会群👇",
+        "name": "小小佛（原创验证私信）",
+        "pinned_tweet_id": "1960378906793681065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819708294145204224/DR-vMsO5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1146863,
+          "following_count": 692,
+          "like_count": 133,
+          "listed_count": 3604,
+          "media_count": 0,
+          "tweet_count": 12973
+        },
+        "url": "https://t.co/tofsrQVRd5",
+        "username": "Xiaoxiaofoer",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

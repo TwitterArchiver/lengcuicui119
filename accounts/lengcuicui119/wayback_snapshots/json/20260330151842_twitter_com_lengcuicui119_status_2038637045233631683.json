@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2038516049520570431",
+    "created_at": "2026-03-30T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038637045233631683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        },
+        {
+          "end": 22,
+          "id": "2009619787799031808",
+          "start": 12,
+          "username": "sanyouruo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038637045233631683",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038516049520570431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 @sanyouruo 来了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2038516044311195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpDirIacAAFFQm.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2038516049520570431",
+        "created_at": "2026-03-30T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038637045233631683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            },
+            {
+              "end": 22,
+              "id": "2009619787799031808",
+              "start": 12,
+              "username": "sanyouruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038637045233631683",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038516049520570431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 @sanyouruo 来了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038516044311195648"
+          ]
+        },
+        "author_id": "1900706496121602048",
+        "conversation_id": "2038516049520570431",
+        "created_at": "2026-03-30T07:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038516049520570431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnYi03o0uo",
+              "end": 66,
+              "expanded_url": "https://x.com/JIAN100222/status/2038516049520570431/photo/1",
+              "media_key": "3_2038516044311195648",
+              "start": 43,
+              "url": "https://t.co/JnYi03o0uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038516049520570431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3927,
+          "like_count": 47,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "感谢你们！感谢各位丽亲！抽三人送27.78元！点赞关注转发本条\n谢谢你们！🙇🏻🙇🏻👅 https://t.co/JnYi03o0uo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 726,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好   真建龙@IMGeneralSun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "IMGeneralSun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（负能量）",
+        "pinned_tweet_id": "2032055948219728215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 87,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:34:40.000Z",
+        "description": "廢話｜",
+        "id": "2009619787799031808",
+        "name": "口區吐牛勿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029474800456896512/5BJUta8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 138,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "sanyouruo",
+        "verified": false
+      }
+    ]
+  }
+}

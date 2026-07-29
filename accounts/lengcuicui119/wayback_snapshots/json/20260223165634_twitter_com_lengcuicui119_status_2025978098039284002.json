@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2025978098039284002",
+    "created_at": "2026-02-23T16:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025978098039284002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025978098039284002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025922027211923813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngWlnd: 没人觉得双氢可待因特别好磕吗？\n她像以“理解者”和“抚慰者”的姿态出现。她擅长倾听，并能提供一种温柔的“隔离感”，让痛苦、焦虑都变得遥远。起初是有效的，人们会逐渐沉迷于那种“无痛”的麻木状态，丧失主动面对问题的勇气和动力。她的温柔本质是一种缓慢的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2025922024074604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2025978098039284002",
+        "created_at": "2026-02-23T16:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025978098039284002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978098039284002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025922027211923813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngWlnd: 没人觉得双氢可待因特别好磕吗？\n她像以“理解者”和“抚慰者”的姿态出现。她擅长倾听，并能提供一种温柔的“隔离感”，让痛苦、焦虑都变得遥远。起初是有效的，人们会逐渐沉迷于那种“无痛”的麻木状态，丧失主动面对问题的勇气和动力。她的温柔本质是一种缓慢的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025922024074604544"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025922027211923813",
+        "created_at": "2026-02-23T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922027211923813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYNGlQDZT2",
+              "end": 150,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025922027211923813/photo/1",
+              "media_key": "3_2025922024074604544",
+              "start": 127,
+              "url": "https://t.co/PYNGlQDZT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922027211923813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1267,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得双氢可待因特别好磕吗？\n她像以“理解者”和“抚慰者”的姿态出现。她擅长倾听，并能提供一种温柔的“隔离感”，让痛苦、焦虑都变得遥远。起初是有效的，人们会逐渐沉迷于那种“无痛”的麻木状态，丧失主动面对问题的勇气和动力。她的温柔本质是一种缓慢的缴械。 https://t.co/PYNGlQDZT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 422,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 113,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 78
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

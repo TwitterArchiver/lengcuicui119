@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2025978110085398759",
+    "created_at": "2026-02-23T16:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025978110085398759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025978110085398759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025928229677412837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngWlnd: 没有人觉得普瑞巴林特别好磕吗\n拥有令人无法抗拒的魅力和说服力，能让人在短时间内相信自己是世界的中心，无所不能。他所到之处，情绪和能量会被瞬间点燃至沸点。他能给予极致的快乐、自信和社交能量，但代价是随之而来的情绪深渊。但是他的“馈赠”如烟花般璀璨短…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2025928226418401280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2K_PQbIAAMhs3.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2025978110085398759",
+        "created_at": "2026-02-23T16:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025978110085398759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978110085398759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025928229677412837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngWlnd: 没有人觉得普瑞巴林特别好磕吗\n拥有令人无法抗拒的魅力和说服力，能让人在短时间内相信自己是世界的中心，无所不能。他所到之处，情绪和能量会被瞬间点燃至沸点。他能给予极致的快乐、自信和社交能量，但代价是随之而来的情绪深渊。但是他的“馈赠”如烟花般璀璨短…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025928226418401280"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025928229677412837",
+        "created_at": "2026-02-23T13:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025928229677412837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqMOIYf8wG",
+              "end": 164,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025928229677412837/photo/1",
+              "media_key": "3_2025928226418401280",
+              "start": 141,
+              "url": "https://t.co/HqMOIYf8wG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025928229677412837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1002,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没有人觉得普瑞巴林特别好磕吗\n拥有令人无法抗拒的魅力和说服力，能让人在短时间内相信自己是世界的中心，无所不能。他所到之处，情绪和能量会被瞬间点燃至沸点。他能给予极致的快乐、自信和社交能量，但代价是随之而来的情绪深渊。但是他的“馈赠”如烟花般璀璨短暂。效力过后，留给人的是更深的焦虑 https://t.co/HqMOIYf8wG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 422,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 113,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 78
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

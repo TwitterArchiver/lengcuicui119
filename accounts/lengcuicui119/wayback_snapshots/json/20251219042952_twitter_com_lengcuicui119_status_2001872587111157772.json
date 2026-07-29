@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2001872587111157772",
+    "created_at": "2025-12-19T04:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001872587111157772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746497048046903297",
+          "start": 3,
+          "username": "Liebaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001872587111157772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001632852237250828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liebaovo: 擦屁股的最后一下，并不是你擦干净了，而是它的颜色淡到你能接受了而已。所以擦屁股最后一张没有颜色的纸，我揣兜里给讨厌的领导擦嘴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2001872587111157772",
+        "created_at": "2025-12-19T04:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001872587111157772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746497048046903297",
+              "start": 3,
+              "username": "Liebaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001872587111157772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001632852237250828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liebaovo: 擦屁股的最后一下，并不是你擦干净了，而是它的颜色淡到你能接受了而已。所以擦屁股最后一张没有颜色的纸，我揣兜里给讨厌的领导擦嘴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746497048046903297",
+        "conversation_id": "2001632852237250828",
+        "created_at": "2025-12-18T12:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001632852237250828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001632852237250828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5754,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "擦屁股的最后一下，并不是你擦干净了，而是它的颜色淡到你能接受了而已。所以擦屁股最后一张没有颜色的纸，我揣兜里给讨厌的领导擦嘴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 409,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 114
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T11:39:06.000Z",
+        "description": "小裂｜抱抱^v^｜逃跑第一名｜泪失禁｜爱说废话｜xp探索ing｜经常阳痿｜理论王者｜能不能对我好一点｜我会一直视奸你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liebaovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liebaovo",
+                "start": 0,
+                "url": "https://t.co/h8FD4rTTwR"
+              }
+            ]
+          }
+        },
+        "id": "1746497048046903297",
+        "location": "^o^找我玩→",
+        "name": "ovO",
+        "pinned_tweet_id": "1934285370121982017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999121863927275520/qRWbiwiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 54,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/h8FD4rTTwR",
+        "username": "Liebaovo",
+        "verified": false
+      }
+    ]
+  }
+}

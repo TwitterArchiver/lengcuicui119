@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951222252604903424"
+      ],
+      "media_source_tweet_id": [
+        "1951270188269158716"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1951321839252439408",
+    "created_at": "2025-08-01T16:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T17:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951321839252439408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "胡桃裤衩",
+          "probability": 0.461,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "756743549215879168",
+          "start": 3,
+          "username": "Derail777_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1yLdBjcBR",
+          "end": 44,
+          "expanded_url": "https://x.com/Derail777_/status/1951270188269158716/video/1",
+          "media_key": "13_1951222252604903424",
+          "start": 21,
+          "url": "https://t.co/h1yLdBjcBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951321839252439408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951270188269158716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Derail777_: 胡桃裤衩 https://t.co/h1yLdBjcBR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951321839252439408].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951321839252439408",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951321839252439408"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1326600,
+        "height": 720,
+        "media_key": "13_1951222252604903424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951222252604903424/img/b1LFacTB5xuv4BbB.jpg",
+        "public_metrics": {
+          "view_count": 915
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951222252604903424/vid/avc1/480x270/MMae2YgLB_vHBx3r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951222252604903424/vid/avc1/640x360/xBmM8njYvr22bRdx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951222252604903424/vid/avc1/1280x720/YQLi17Go5kHTQgc3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951222252604903424/pl/I1amkEMor2bkQo0Q.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951222252604903424"
+          ]
+        },
+        "author_id": "756743549215879168",
+        "conversation_id": "1951270188269158716",
+        "created_at": "2025-08-01T13:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951270188269158716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "胡桃裤衩",
+              "probability": 0.5381,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1yLdBjcBR",
+              "end": 28,
+              "expanded_url": "https://x.com/Derail777_/status/1951270188269158716/video/1",
+              "media_key": "13_1951222252604903424",
+              "start": 5,
+              "url": "https://t.co/h1yLdBjcBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951270188269158716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2330,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "胡桃裤衩 https://t.co/h1yLdBjcBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 310,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T06:51:36.000Z",
+        "description": "hi，还是原来的小D",
+        "id": "756743549215879168",
+        "location": "上海",
+        "name": "小D老师",
+        "pinned_tweet_id": "1904567412101726432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799142645119471616/I31UOq0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71620,
+          "following_count": 0,
+          "like_count": 17,
+          "listed_count": 132,
+          "media_count": 39,
+          "tweet_count": 57
+        },
+        "username": "Derail777_",
+        "verified": true
+      }
+    ]
+  }
+}

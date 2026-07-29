@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2031613540432490621",
+    "created_at": "2026-03-11T13:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031730789738824177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324190854085369857",
+          "start": 0,
+          "username": "2541404751Hiko"
+        },
+        {
+          "end": 26,
+          "id": "1735700650472955904",
+          "start": 16,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031730789738824177",
+    "in_reply_to_user_id": "1324190854085369857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031613540432490621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2541404751Hiko @ErQiu8013 蹲蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2031613540432490621",
+        "created_at": "2026-03-11T13:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031730789738824177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            },
+            {
+              "end": 26,
+              "id": "1735700650472955904",
+              "start": 16,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031730789738824177",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031613540432490621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko @ErQiu8013 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324190854085369857",
+        "conversation_id": "2031613540432490621",
+        "created_at": "2026-03-11T06:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031613540432490621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031613540432490621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 532,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "评论里抽一盒右美吧，自制的高纯度，一份等于三盒云药或者说1080mg右美。目前还有3-me-pcp，dpt正在备货，还有一种别的致幻剂，产品会越来越丰富的。还有普瑞巴林+巴氯酚+褪黑素复合胶囊，还在考虑要不要做一点普瑞巴林+右美的复合胶囊，可根据每个人的平常使用量定制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 490,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "2002大龄mtf/无证含糖hrt2025.5.18-7.5 8.20-?/178 60/intj/od成瘾/双相二型 解离型人格障碍 ptsd 边缘性人格障碍 状态已完全失控/我要努力做个不割手不自杀的乖孩子/vtuber/画师/制药/我即是刀剑，你可以握住剑柄，也可以握住剑刃",
+        "id": "1324190854085369857",
+        "location": "天堂或地狱",
+        "name": "HYiko🏳️‍⚧️🍥（九命猫）",
+        "pinned_tweet_id": "2027727932089864408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004211053370978304/pjWevk_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 127,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 483
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派×地雷系  \n低能量 + 薬changing + 二次元废人  \nLGBTQ+友好\n欢迎同类互fo～私信聊天💊🫀\n下面匿名提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2029501032137687466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 1662,
+          "like_count": 24511,
+          "listed_count": 5,
+          "media_count": 653,
+          "tweet_count": 5007
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954435641976274944"
+      ],
+      "media_source_tweet_id": [
+        "1954436332215742553"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1954592366905720842",
+    "created_at": "2025-08-10T17:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T18:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954592366905720842"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "丝滑插入"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1607167490622111745",
+          "start": 3,
+          "username": "LaLameimeimei"
+        },
+        {
+          "end": 46,
+          "id": "1069656418670862336",
+          "start": 33,
+          "username": "BBYouzhiyuan"
+        },
+        {
+          "end": 58,
+          "id": "1692492982187114497",
+          "start": 47,
+          "username": "SexytoDoll"
+        },
+        {
+          "end": 71,
+          "id": "1757780025032802304",
+          "start": 60,
+          "username": "SexytoGirl"
+        },
+        {
+          "end": 84,
+          "id": "1526018966707179520",
+          "start": 73,
+          "username": "SexytoBaby"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yAPgAwJuNo",
+          "end": 108,
+          "expanded_url": "https://x.com/LaLameimeimei/status/1954436332215742553/video/1",
+          "media_key": "13_1954435641976274944",
+          "start": 85,
+          "url": "https://t.co/yAPgAwJuNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954592366905720842",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954436332215742553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaLameimeimei: Wataa👅\n#丝滑插入 \n@BBYouzhiyuan\n@SexytoDoll \n@SexytoGirl \n@SexytoBaby https://t.co/yAPgAwJuNo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954592366905720842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954592366905720842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954592366905720842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 201500,
+        "height": 1080,
+        "media_key": "13_1954435641976274944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954435641976274944/img/mOkQs3yf6Vtcu6Au.jpg",
+        "public_metrics": {
+          "view_count": 34048
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954435641976274944/pl/R53cAUB64AyqiQxA.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954435641976274944/vid/avc1/1920x1080/X9SFjWUTjWSo-cvx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954435641976274944/vid/avc1/1280x720/vVnDREQu3FcvY_FF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954435641976274944/vid/avc1/640x360/Gap5TbiMY9LvJyTy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954435641976274944/vid/avc1/480x270/o18iUIKcM2nXiUtr.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954435641976274944"
+          ]
+        },
+        "author_id": "1607167490622111745",
+        "conversation_id": "1954436332215742553",
+        "created_at": "2025-08-10T06:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954436332215742553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "丝滑插入"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1069656418670862336",
+              "start": 14,
+              "username": "BBYouzhiyuan"
+            },
+            {
+              "end": 39,
+              "id": "1692492982187114497",
+              "start": 28,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 52,
+              "id": "1757780025032802304",
+              "start": 41,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 65,
+              "id": "1526018966707179520",
+              "start": 54,
+              "username": "SexytoBaby"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAPgAwJuNo",
+              "end": 89,
+              "expanded_url": "https://x.com/LaLameimeimei/status/1954436332215742553/video/1",
+              "media_key": "13_1954435641976274944",
+              "start": 66,
+              "url": "https://t.co/yAPgAwJuNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954436332215742553",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1679,
+          "impression_count": 115264,
+          "like_count": 3354,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa👅\n#丝滑插入 \n@BBYouzhiyuan\n@SexytoDoll \n@SexytoGirl \n@SexytoBaby https://t.co/yAPgAwJuNo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 327,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T00:12:55.000Z",
+        "description": "粉嫩天花板👅👅168 52kg｜私信请礼貌｜纯享点击媒体或者亮点/评论区留言城市抽线下",
+        "id": "1607167490622111745",
+        "location": "推广自辨",
+        "name": "你的宝贝",
+        "pinned_tweet_id": "1954452621227434291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916462517821616128/c3aqHrOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235915,
+          "following_count": 106,
+          "like_count": 365,
+          "listed_count": 499,
+          "media_count": 85,
+          "tweet_count": 477
+        },
+        "username": "LaLameimeimei",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-03T18:15:38.000Z",
+        "description": "一个只转推纯原创的色色账号，被转发的要求至少是5万粉丝，且都经历过2次验证（1.拍任务视频验证）（2.视频电话验证）因为想到5万粉丝很难，即使个别骗人，男生跟我举报，我就拉黑她，她再想弄一个5万粉丝的账号来骗人就很难了，这样就可以归集一些确实好好营业的女生，不会让骗子浑水摸鱼『 所以男生们记得点点关注！消费请找她们 』",
+        "id": "1069656418670862336",
+        "name": "Big叔の幼稚园💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946596896048353280/aohBYG1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522426,
+          "following_count": 48,
+          "like_count": 9,
+          "listed_count": 956,
+          "media_count": 0,
+          "tweet_count": 245
+        },
+        "username": "BBYouzhiyuan",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-08-18T11:05:58.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@chacoser01｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找梵@fangao2019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "chacoser01"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "fangao2019"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/FPT7vGPnwS"
+              }
+            ]
+          }
+        },
+        "id": "1692492982187114497",
+        "location": "👇🏻佳丽三千验证100%原创福利姬tg社区 - 💜",
+        "name": "佳丽三千💕",
+        "pinned_tweet_id": "1950818897491370248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868707800966406144/WjRspQZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022457,
+          "following_count": 23,
+          "like_count": 133,
+          "listed_count": 1848,
+          "media_count": 9,
+          "tweet_count": 37402
+        },
+        "url": "https://t.co/FPT7vGPnwS",
+        "username": "SexytoDoll",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T14:53:19.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@chacoser01｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找梵高@FanGao2019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "chacoser01"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "FanGao2019"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/mBM5kM9vLc"
+              }
+            ]
+          }
+        },
+        "id": "1757780025032802304",
+        "location": "👇🏻千娇百媚验证100%原创福利姬tg社区 - 💜",
+        "name": "千娇百媚💕",
+        "pinned_tweet_id": "1950818851660439635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868404081565499392/uRXweOTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026546,
+          "following_count": 24,
+          "like_count": 221,
+          "listed_count": 2171,
+          "media_count": 0,
+          "tweet_count": 36072
+        },
+        "url": "https://t.co/mBM5kM9vLc",
+        "username": "SexytoGirl",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-16T01:57:41.000Z",
+        "description": "全球cos外围找梵高👉 @FanGao2019｜Cos圈Ww真人真照@niuniucos1｜C圈外围质量最高找@XinYiCos00｜全球定制约会竹心👉@ZhuCosWW｜推特最佳Cos外围找👉🏻@tzcos｜全网粉丝最高外围找👉@chacoser01｜推特最佳Cos外围中介@tuanCosWW01｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "FanGao2019"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "username": "tzcos"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "chacoser01"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "tuanCosWW01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/JY9ehlw7Tn"
+              }
+            ]
+          }
+        },
+        "id": "1526018966707179520",
+        "location": "👇🏻日理万姬验证100%原创福利姬tg社区 - 💜",
+        "name": "日理万姬💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629420639093391361/xzUvlZ-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886250,
+          "following_count": 1883,
+          "like_count": 5412,
+          "listed_count": 2447,
+          "media_count": 276,
+          "tweet_count": 78896
+        },
+        "url": "https://t.co/JY9ehlw7Tn",
+        "username": "SexytoBaby",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

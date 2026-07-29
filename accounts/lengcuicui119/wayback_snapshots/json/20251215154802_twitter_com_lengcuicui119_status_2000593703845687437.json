@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000593684988129281"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000593703845687437",
+    "created_at": "2025-12-15T15:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000593703845687437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eanpXkZsKx",
+          "end": 57,
+          "expanded_url": "https://x.com/lengcuicui119/status/2000593703845687437/photo/1",
+          "media_key": "3_2000593684988129281",
+          "start": 34,
+          "url": "https://t.co/eanpXkZsKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000593703845687437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然玉米片很恶心，但用来配南京照相馆刚刚好！刚好带我去了趟这些地方 https://t.co/eanpXkZsKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000593684988129281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OJW12bcAE1eNc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000593684988129281"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000593703845687437",
+        "created_at": "2025-12-15T15:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000593703845687437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eanpXkZsKx",
+              "end": 57,
+              "expanded_url": "https://x.com/lengcuicui119/status/2000593703845687437/photo/1",
+              "media_key": "3_2000593684988129281",
+              "start": 34,
+              "url": "https://t.co/eanpXkZsKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000593703845687437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然玉米片很恶心，但用来配南京照相馆刚刚好！刚好带我去了趟这些地方 https://t.co/eanpXkZsKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 398,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 95
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

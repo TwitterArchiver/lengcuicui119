@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2011072518740984158",
+    "created_at": "2026-01-13T13:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T14:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011072518740984158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011072518740984158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od 斯到普！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2011072518740984158",
+        "created_at": "2026-01-13T13:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T14:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011072518740984158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011072518740984158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od 斯到普！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，超级大oder/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我聊天",
+        "id": "1455784742922555395",
+        "name": "想死就o百草枯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 353,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 176
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

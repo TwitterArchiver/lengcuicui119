@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "1954261389796913502",
+    "created_at": "2025-08-09T19:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T20:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954261389796913502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630535308113502209",
+          "start": 3,
+          "username": "Y59391325"
+        }
+      ],
+      "urls": [
+        {
+          "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+          "display_url": "ktt.pinduoduo.com/t/SnO45aPFjC",
+          "end": 56,
+          "expanded_url": "https://ktt.pinduoduo.com/t/SnO45aPFjC",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "title": "拼多多商城",
+          "unwound_url": "https://mobile.yangkeduo.com/",
+          "url": "https://t.co/KBCjfwdlDU"
+        },
+        {
+          "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+          "display_url": "ktt.pinduoduo.com/t/XQsSFFMihV",
+          "end": 103,
+          "expanded_url": "https://ktt.pinduoduo.com/t/XQsSFFMihV",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "title": "拼多多商城",
+          "unwound_url": "https://mobile.yangkeduo.com/",
+          "url": "https://t.co/Wiqz70jAwY"
+        },
+        {
+          "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+          "display_url": "ktt.pinduoduo.com/t/PyFssXcUdJ",
+          "end": 132,
+          "expanded_url": "https://ktt.pinduoduo.com/t/PyFssXcUdJ",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "title": "拼多多商城",
+          "unwound_url": "https://mobile.yangkeduo.com/",
+          "url": "https://t.co/gNK0ChGk61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954261389796913502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934405491586920896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y59391325: 后入、女上位、舔穴、猛do\n🛒潮吹膏https://t.co/KBCjfwdlDU（多宝子反馈有用\n🛒小甜罐（声音小，宿舍🉑用）\nhttps://t.co/Wiqz70jAwY\n🛒夹腿神器https://t.co/gNK0ChGk61\n🛒点潮笔（新…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954261389796913502].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954261389796913502",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954261389796913502"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137533,
+        "height": 1280,
+        "media_key": "7_1934405188351365120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1934405188351365120/pu/img/37Gei7NHVdG_BbA5.jpg",
+        "public_metrics": {
+          "view_count": 252056
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934405188351365120/pu/vid/avc1/320x580/KTWSADkE_G_9b29Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934405188351365120/pu/vid/avc1/480x872/C-9GizP82dA0_ttg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934405188351365120/pu/vid/avc1/704x1280/vLIB0JYizv7biL7N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1934405188351365120/pu/pl/74kj6aDik9Bv_ghN.m3u8?tag=12"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1934405188351365120"
+          ]
+        },
+        "author_id": "1630535308113502209",
+        "conversation_id": "1934405491586920896",
+        "created_at": "2025-06-16T00:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T01:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934405491586920896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y59391325/stat…",
+              "end": 238,
+              "expanded_url": "https://x.com/Y59391325/status/1934405491586920896/video/1",
+              "start": 215,
+              "url": "https://t.co/95KMMSF0Bv"
+            },
+            {
+              "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+              "display_url": "ktt.pinduoduo.com/t/SnO45aPFjC",
+              "end": 41,
+              "expanded_url": "https://ktt.pinduoduo.com/t/SnO45aPFjC",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "title": "拼多多商城",
+              "unwound_url": "https://mobile.yangkeduo.com/",
+              "url": "https://t.co/KBCjfwdlDU"
+            },
+            {
+              "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+              "display_url": "ktt.pinduoduo.com/t/PyFssXcUdJ",
+              "end": 117,
+              "expanded_url": "https://ktt.pinduoduo.com/t/PyFssXcUdJ",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "title": "拼多多商城",
+              "unwound_url": "https://mobile.yangkeduo.com/",
+              "url": "https://t.co/gNK0ChGk61"
+            },
+            {
+              "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
+              "display_url": "ktt.pinduoduo.com/t/XQsSFFMihV",
+              "end": 88,
+              "expanded_url": "https://ktt.pinduoduo.com/t/XQsSFFMihV",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946884119511838720/GYR52J4G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "title": "拼多多商城",
+              "unwound_url": "https://mobile.yangkeduo.com/",
+              "url": "https://t.co/Wiqz70jAwY"
+            },
+            {
+              "description": "快团团是拼多多旗下微信社群团购小程序，助力微信生态内商家经营私域流量，致力于提供“找货-找人-把货/服务卖给人”的全链路解决方法，为商家的用户们提供优质社群购物体验。",
+              "display_url": "ktt.pinduoduo.com/t/7APO4YJI1z",
+              "end": 153,
+              "expanded_url": "https://ktt.pinduoduo.com/t/7APO4YJI1z",
+              "start": 130,
+              "status": 200,
+              "title": "快团团 微信社群团购小程序",
+              "unwound_url": "https://ktt.pinduoduo.com/login/explore?wx_share_scheme_sn=MRS308425061608100000016301000016119",
+              "url": "https://t.co/xwAyr5axzj"
+            },
+            {
+              "description": "快团团是拼多多旗下微信社群团购小程序，助力微信生态内商家经营私域流量，致力于提供“找货-找人-把货/服务卖给人”的全链路解决方法，为商家的用户们提供优质社群购物体验。",
+              "display_url": "ktt.pinduoduo.com/t/dKgMQlLrcW",
+              "end": 214,
+              "expanded_url": "https://ktt.pinduoduo.com/t/dKgMQlLrcW",
+              "start": 191,
+              "status": 200,
+              "title": "快团团 微信社群团购小程序",
+              "unwound_url": "https://ktt.pinduoduo.com/login/explore?wx_share_scheme_sn=MRS308425061608130000016302000172367",
+              "url": "https://t.co/Vy5agjmLB8"
+            },
+            {
+              "description": "快团团是拼多多旗下微信社群团购小程序，助力微信生态内商家经营私域流量，致力于提供“找货-找人-把货/服务卖给人”的全链路解决方法，为商家的用户们提供优质社群购物体验。",
+              "display_url": "ktt.pinduoduo.com/t/BZjBt1bZ0W",
+              "end": 182,
+              "expanded_url": "https://ktt.pinduoduo.com/t/BZjBt1bZ0W",
+              "start": 159,
+              "status": 200,
+              "title": "快团团 微信社群团购小程序",
+              "unwound_url": "https://ktt.pinduoduo.com/login/explore?wx_share_scheme_sn=MRS308425061608110000016301000010801",
+              "url": "https://t.co/hxehIwv4x5"
+            },
+            {
+              "display_url": "pic.x.com/95KMMSF0Bv",
+              "end": 238,
+              "expanded_url": "https://x.com/Y59391325/status/1934405491586920896/video/1",
+              "media_key": "7_1934405188351365120",
+              "start": 215,
+              "url": "https://t.co/95KMMSF0Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934405491586920896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2145,
+          "impression_count": 774022,
+          "like_count": 4674,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "后入、女上位、舔穴、猛do\n🛒潮吹膏https://t.co/KBCjfwdlDU（多宝子反馈有用\n🛒小甜罐（声音小，宿舍🉑用）\nhttps://t.co/Wiqz70jAwY\n🛒夹腿神器https://t.co/gNK0ChGk61\n🛒点潮笔（新手入体 平价https://t.co/xwAyr5axzj\n🛒失控三代https://t.co/hxehIwv4x5\n✅男用：八爪鱼\nhttps://t.co/Vy5agjmLB8 https://t.co/95KMMSF0Bv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 327,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T11:48:45.000Z",
+        "description": "🌷日常剪辑优质视频，视频来源于网络，侵则删\n唯一的小号：大姨 @ta_xiao24198\n🌷自用vpn👇https://t.co/PAmN9BvUmd很丝滑\n⚠️40万粉➕的才是真的小姨，其余都是假冒的。小姨剪辑的视频都直发推特，没有群，不会通过🔗引流进群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "ta_xiao24198"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.com/#/register?cod…",
+                "end": 75,
+                "expanded_url": "https://tw01.damoplane.com/#/register?code=phzszXwa",
+                "start": 52,
+                "url": "https://t.co/PAmN9BvUmd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ktt.pinduoduo.com/t/eMX5R1hDRh",
+                "end": 23,
+                "expanded_url": "https://ktt.pinduoduo.com/t/eMX5R1hDRh",
+                "start": 0,
+                "url": "https://t.co/r4ZRwWTCbd"
+              }
+            ]
+          }
+        },
+        "id": "1630535308113502209",
+        "location": "🌷小姨在快团团卖小玩具，🛒戳👇（正品保障，保密发货）",
+        "name": "钮祜禄小姨",
+        "pinned_tweet_id": "1950083096273101166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930529953893974016/fjEv9LbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489983,
+          "following_count": 79,
+          "like_count": 277,
+          "listed_count": 728,
+          "media_count": 846,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/r4ZRwWTCbd",
+        "username": "Y59391325",
+        "verified": false
+      }
+    ]
+  }
+}

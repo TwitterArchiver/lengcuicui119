@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2024421347808727242",
+    "created_at": "2026-02-19T09:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024421347808727242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "lsd"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "魔法邮票"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lengcuicui119/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lengcuicui119/status/1997026480262730130",
+          "start": 29,
+          "url": "https://t.co/p04KPic1Eg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024421347808727242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997026480262730130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么后来就出不来这种感觉了捏。。。#lsd #魔法邮票 https://t.co/p04KPic1Eg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997026469193961474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bc_jdb0AIiuwN.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997026469206544388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bc_jgb0AQCU-W.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997026469198045184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bc_jeaIAAQb4f.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997026469223321601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bc_jkb0AErH9Z.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2024421347808727242",
+        "created_at": "2026-02-19T09:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024421347808727242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "lsd"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "魔法邮票"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lengcuicui119/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lengcuicui119/status/1997026480262730130",
+              "start": 29,
+              "url": "https://t.co/p04KPic1Eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024421347808727242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997026480262730130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么后来就出不来这种感觉了捏。。。#lsd #魔法邮票 https://t.co/p04KPic1Eg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997026469193961474",
+            "3_1997026469206544388",
+            "3_1997026469198045184",
+            "3_1997026469223321601"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "1997026480262730130",
+        "created_at": "2025-12-05T19:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T20:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997026480262730130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuiR6CYykJ",
+              "end": 37,
+              "expanded_url": "https://x.com/lengcuicui119/status/1997026480262730130/photo/1",
+              "media_key": "3_1997026469193961474",
+              "start": 14,
+              "url": "https://t.co/QuiR6CYykJ"
+            },
+            {
+              "display_url": "pic.x.com/QuiR6CYykJ",
+              "end": 37,
+              "expanded_url": "https://x.com/lengcuicui119/status/1997026480262730130/photo/1",
+              "media_key": "3_1997026469206544388",
+              "start": 14,
+              "url": "https://t.co/QuiR6CYykJ"
+            },
+            {
+              "display_url": "pic.x.com/QuiR6CYykJ",
+              "end": 37,
+              "expanded_url": "https://x.com/lengcuicui119/status/1997026480262730130/photo/1",
+              "media_key": "3_1997026469198045184",
+              "start": 14,
+              "url": "https://t.co/QuiR6CYykJ"
+            },
+            {
+              "display_url": "pic.x.com/QuiR6CYykJ",
+              "end": 37,
+              "expanded_url": "https://x.com/lengcuicui119/status/1997026480262730130/photo/1",
+              "media_key": "3_1997026469223321601",
+              "start": 14,
+              "url": "https://t.co/QuiR6CYykJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997026480262730130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很美妙的trip#魔法邮票 https://t.co/QuiR6CYykJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 411,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

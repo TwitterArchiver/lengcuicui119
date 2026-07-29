@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2002418669973025248",
+    "created_at": "2025-12-21T16:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002772301801288002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1129959919212421121",
+          "start": 0,
+          "username": "NEKOJIRUBRON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002772301801288002",
+    "in_reply_to_user_id": "1129959919212421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002418669973025248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKOJIRUBRON 看起来好好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002418661223804928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oFKcHbsAAFOYE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2002418669973025248",
+        "created_at": "2025-12-21T16:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002772301801288002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1129959919212421121",
+              "start": 0,
+              "username": "NEKOJIRUBRON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002772301801288002",
+        "in_reply_to_user_id": "1129959919212421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002418669973025248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKOJIRUBRON 看起来好好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002418661223804928"
+          ]
+        },
+        "author_id": "1129959919212421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002418669973025248",
+        "created_at": "2025-12-20T16:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002418669973025248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BifWVcDJNW",
+              "end": 33,
+              "expanded_url": "https://x.com/NEKOJIRUBRON/status/2002418669973025248/photo/1",
+              "media_key": "3_2002418661223804928",
+              "start": 10,
+              "url": "https://t.co/BifWVcDJNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418669973025248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6744,
+          "like_count": 512,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "メジコン 400t https://t.co/BifWVcDJNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "讨厌玉米，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 407,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 127
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T04:00:13.000Z",
+        "description": "躁鬱 断薬断酒",
+        "id": "1129959919212421121",
+        "location": "こちらアーデーハーデー対策本部",
+        "name": "ねこぢるぶろん",
+        "pinned_tweet_id": "1989983992012210189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973152453798535172/s0j63UJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 369,
+          "like_count": 60801,
+          "listed_count": 10,
+          "media_count": 54,
+          "tweet_count": 1305
+        },
+        "username": "NEKOJIRUBRON",
+        "verified": false
+      }
+    ]
+  }
+}

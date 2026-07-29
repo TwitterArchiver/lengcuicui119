@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1960059960764592128"
+      ],
+      "media_source_tweet_id": [
+        "1960060179766235638"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963819873391587439",
+    "created_at": "2025-09-05T04:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963819873391587439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1582823392289427461",
+          "start": 3,
+          "username": "_Meru_Succ_"
+        },
+        {
+          "end": 56,
+          "id": "1252302755173224451",
+          "start": 42,
+          "username": "nagoonimation"
+        },
+        {
+          "end": 74,
+          "id": "1400206569799929862",
+          "start": 63,
+          "username": "Andrastae1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlZsCD9BkC",
+          "end": 98,
+          "expanded_url": "https://x.com/_Meru_Succ_/status/1960060179766235638/video/1",
+          "media_key": "7_1960059960764592128",
+          "start": 75,
+          "url": "https://t.co/zlZsCD9BkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963819873391587439",
+    "lang": "ca",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1998
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960060179766235638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Meru_Succ_: Ada Tentacle Nest \n\n🎞️ - @nagoonimation \n🎙️ - @Andrastae1 https://t.co/zlZsCD9BkC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963819873391587439].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963819873391587439",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963819873391587439"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130821,
+        "height": 720,
+        "media_key": "7_1960059960764592128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960059960764592128/pu/img/y69MUtXRRzYjI4bk.jpg",
+        "public_metrics": {
+          "view_count": 405255
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/480x270/8gXFYz4hvcSTQAzS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/640x360/tj7P7B3Nprouy5yX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/1280x720/RZC-s4VuiMeLFRy4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/pl/2QgwjgfBlSv3ia1Z.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 130821,
+        "height": 720,
+        "media_key": "7_1960059960764592128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960059960764592128/pu/img/y69MUtXRRzYjI4bk.jpg",
+        "public_metrics": {
+          "view_count": 406105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/480x270/8gXFYz4hvcSTQAzS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/640x360/tj7P7B3Nprouy5yX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/vid/avc1/1280x720/RZC-s4VuiMeLFRy4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960059960764592128/pu/pl/2QgwjgfBlSv3ia1Z.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960059960764592128"
+          ]
+        },
+        "author_id": "1582823392289427461",
+        "conversation_id": "1960060179766235638",
+        "created_at": "2025-08-25T19:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960060179766235638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1252302755173224451",
+              "start": 25,
+              "username": "nagoonimation"
+            },
+            {
+              "end": 57,
+              "id": "1400206569799929862",
+              "start": 46,
+              "username": "Andrastae1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlZsCD9BkC",
+              "end": 81,
+              "expanded_url": "https://x.com/_Meru_Succ_/status/1960060179766235638/video/1",
+              "media_key": "7_1960059960764592128",
+              "start": 58,
+              "url": "https://t.co/zlZsCD9BkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960060179766235638",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16218,
+          "impression_count": 238300,
+          "like_count": 23749,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 1998
+        },
+        "reply_settings": "everyone",
+        "text": "Ada Tentacle Nest \n\n🎞️ - @nagoonimation \n🎙️ - @Andrastae1 https://t.co/zlZsCD9BkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 349,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T19:58:19.000Z",
+        "description": "Meru / ♀️ / ADULTS ONLY 🔞 MDNI / DM for repost removals / Alt: @Succ_Meru / 💌 𝐃𝐌 𝙵𝙾𝚁 #PROMOTION",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 85,
+                "tag": "PROMOTION"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Succ_Meru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gptgirlfriend.online/?ref=merusucc",
+                "end": 23,
+                "expanded_url": "http://gptgirlfriend.online/?ref=merusucc",
+                "start": 0,
+                "url": "https://t.co/20lGzwApo2"
+              }
+            ]
+          }
+        },
+        "id": "1582823392289427461",
+        "location": "Join and have fun ➺ ",
+        "name": "🌸 ᗰEᖇᑌᑕᑕᑌᗷᑌS 🔞",
+        "pinned_tweet_id": "1963293414172364837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648032598101225497/mltHtBko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809514,
+          "following_count": 157,
+          "like_count": 44669,
+          "listed_count": 3207,
+          "media_count": 13211,
+          "tweet_count": 68146
+        },
+        "url": "https://t.co/20lGzwApo2",
+        "username": "_Meru_Succ_",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2020-04-20T18:27:06.000Z",
+        "description": "I found my true calling in NSFW animation.\n@PleasedByViolet ❤️\n\nhttps://t.co/mrMtG9CRAj\nhttps://t.co/XI2T0FWiYC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "PleasedByViolet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "subscribestar.adult/Nagoonimation",
+                "end": 87,
+                "expanded_url": "http://subscribestar.adult/Nagoonimation",
+                "start": 64,
+                "url": "https://t.co/mrMtG9CRAj"
+              },
+              {
+                "display_url": "patreon.com/Nagoonimation",
+                "end": 111,
+                "expanded_url": "http://patreon.com/Nagoonimation",
+                "start": 88,
+                "url": "https://t.co/XI2T0FWiYC"
+              }
+            ]
+          }
+        },
+        "id": "1252302755173224451",
+        "name": "Nagoonimation",
+        "pinned_tweet_id": "1933911201932599749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806067729515872257/k_ZMNNgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795936,
+          "following_count": 196,
+          "like_count": 2061,
+          "listed_count": 3722,
+          "media_count": 436,
+          "tweet_count": 1189
+        },
+        "username": "nagoonimation",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-02T21:45:02.000Z",
+        "description": "31 years old| Gamer| Voice Actress| 18+ Only| Available/ Recording only on Mondays and Tuesdays |soundcloud: https://t.co/lHM0RuziWQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/andrastae-ii",
+                "end": 132,
+                "expanded_url": "http://soundcloud.com/andrastae-ii",
+                "start": 109,
+                "url": "https://t.co/lHM0RuziWQ"
+              }
+            ]
+          }
+        },
+        "id": "1400206569799929862",
+        "name": "Andrastae NSFW Voice Actress",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400228632522547201/DJ7rZM_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35190,
+          "following_count": 45,
+          "like_count": 289,
+          "listed_count": 111,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "Andrastae1",
+        "verified": false
+      }
+    ]
+  }
+}

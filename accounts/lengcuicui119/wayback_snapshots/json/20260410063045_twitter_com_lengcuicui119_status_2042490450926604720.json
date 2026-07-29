@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042487311599018415",
+    "created_at": "2026-04-10T06:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042490450926604720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        },
+        {
+          "end": 17,
+          "id": "1291704894211186689",
+          "start": 10,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042490450926604720",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042487311599018415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem @AZLXY1 J剧烈转帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042487311599018415",
+        "created_at": "2026-04-10T06:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042490450926604720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            },
+            {
+              "end": 17,
+              "id": "1291704894211186689",
+              "start": 10,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042490450926604720",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042487311599018415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem @AZLXY1 J剧烈转帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2042487311599018415",
+        "created_at": "2026-04-10T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042487311599018415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042487311599018415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这里是無極（葉洪文）的回归账户🥺\n\n帮我转发+关注抽10个人送 \n\n3🌵/ 5IPPH / 2🍄 三选一\n\n截止到4月13日晚上22:00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 657,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042487311599018415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 32,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "WujiChem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od存在，无性恋倾向（有浪漫倾向），不约。可以的话请fo我喵 ฅ^•ω•^ฅ",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 401,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 965
+        },
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950884451833266176"
+      ],
+      "media_source_tweet_id": [
+        "1950884589460701222"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1952767497708417354",
+    "created_at": "2025-08-05T16:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952767497708417354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557297269359415296",
+          "start": 3,
+          "username": "Cuckold34g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5z1c8QDhWk",
+          "end": 126,
+          "expanded_url": "https://x.com/Cuckold34g/status/1950884589460701222/video/1",
+          "media_key": "13_1950884451833266176",
+          "start": 103,
+          "url": "https://t.co/5z1c8QDhWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952767497708417354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 659
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950884589460701222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cuckold34g: 还有谁跟我一样站在床边看着自己老婆被别的男人操到高潮，老婆自己主动抱住单男分开双腿，屁股还不停的迎合他鸡巴往上翘，最重要的是我听着他们俩接吻的声音就都已经快受不了想射精啊💦 https://t.co/5z1c8QDhWk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952767497708417354].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952767497708417354",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952767497708417354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59533,
+        "height": 1154,
+        "media_key": "13_1950884451833266176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950884451833266176/img/p-jtrYjW_9pnZDcz.jpg",
+        "public_metrics": {
+          "view_count": 224563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950884451833266176/vid/avc1/320x512/532DT9eUX-7fH3Ez.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950884451833266176/vid/avc1/480x768/0VKn90qr3QvYK0kY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950884451833266176/vid/avc1/720x1154/-O2Mi1E9iQPldr9o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950884451833266176/pl/pWwkh99On2Py00fv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950884451833266176"
+          ]
+        },
+        "author_id": "1557297269359415296",
+        "conversation_id": "1950884589460701222",
+        "created_at": "2025-07-31T11:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950884589460701222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5z1c8QDhWk",
+              "end": 110,
+              "expanded_url": "https://x.com/Cuckold34g/status/1950884589460701222/video/1",
+              "media_key": "13_1950884451833266176",
+              "start": 87,
+              "url": "https://t.co/5z1c8QDhWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950884589460701222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1888,
+          "impression_count": 528981,
+          "like_count": 5812,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 659
+        },
+        "reply_settings": "everyone",
+        "text": "还有谁跟我一样站在床边看着自己老婆被别的男人操到高潮，老婆自己主动抱住单男分开双腿，屁股还不停的迎合他鸡巴往上翘，最重要的是我听着他们俩接吻的声音就都已经快受不了想射精啊💦 https://t.co/5z1c8QDhWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 314,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:26:27.000Z",
+        "description": "绿帽（NTR）原创🐢家有妻主｜接受三通双龙🙋🏻‍♀️闺蜜乱伦小母狗：@MilaaInI58🍆已有多次 3p/群p经历。绿主/单男\"🉑️玩 💕所有活动均是免费💯无🚪\"拒绝口嗨🤐\"屌丝勿扰🤐🥤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "MilaaInI58"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.olinks.top/Kcjk2R",
+                "end": 23,
+                "expanded_url": "http://g.olinks.top/Kcjk2R",
+                "start": 0,
+                "url": "https://t.co/j6MnhMnpPh"
+              }
+            ]
+          }
+        },
+        "id": "1557297269359415296",
+        "location": "推荐自用🪜vpn👉",
+        "name": "NTR夫妻👅",
+        "pinned_tweet_id": "1933851238833267108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897770102147239936/CwDX-4sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285586,
+          "following_count": 27,
+          "like_count": 572,
+          "listed_count": 729,
+          "media_count": 61,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/j6MnhMnpPh",
+        "username": "Cuckold34g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2044003589572702575",
+    "created_at": "2026-04-15T12:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044388591800037420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012626651570401282",
+          "start": 0,
+          "username": "McdonaldMa13322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044388591800037420",
+    "in_reply_to_user_id": "2012626651570401282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044388515639963877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McdonaldMa13322 pdd有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2044003589572702575",
+        "created_at": "2026-04-15T12:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044388591800037420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012626651570401282",
+              "start": 0,
+              "username": "McdonaldMa13322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044388591800037420",
+        "in_reply_to_user_id": "2012626651570401282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044388515639963877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McdonaldMa13322 pdd有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012626651570401282",
+        "conversation_id": "2044003589572702575",
+        "created_at": "2026-04-15T12:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044388515639963877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044388515639963877",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044383328904876293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 噢噢这个还可以买吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 783,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:42:51.000Z",
+        "description": "FtX Bi 4.26 | 🎸 Classic Rock | ✍️ OC Creator|🌐 Language: 🇨🇳/🇬🇧&🇩🇪(learning)| 🧠 Neurodivergent",
+        "id": "2012626651570401282",
+        "name": "May",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033549368356458496/wreJawqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 52,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "username": "McdonaldMa13322",
+        "verified": false
+      }
+    ]
+  }
+}

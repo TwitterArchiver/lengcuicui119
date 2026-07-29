@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2022308894270464449",
+    "created_at": "2026-02-13T23:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T00:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022451726771749025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnyting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022451726771749025",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022311752319610924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnyting 先拉2x秒切0.5x广角拍摄，开实况，选长曝光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2022308894270464449",
+        "created_at": "2026-02-13T23:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T00:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022451726771749025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnyting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022451726771749025",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022311752319610924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnyting 先拉2x秒切0.5x广角拍摄，开实况，选长曝光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021882125960777728",
+        "conversation_id": "2022308894270464449",
+        "created_at": "2026-02-13T14:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022311752319610924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022311752319610924",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022308894270464449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 这种视觉冲击的图片是怎样做的 好厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 403,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "为了那没有眼泪的明天",
+        "id": "2021882125960777728",
+        "name": "蠖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021882371675750401/MTMw6nUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "StopAnyting",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945144047255121920"
+      ],
+      "media_source_tweet_id": [
+        "1945144134974484558"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1946873666790457346",
+    "created_at": "2025-07-20T10:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946873666790457346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "女同"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582701554099924995",
+          "start": 3,
+          "username": "armycc99"
+        },
+        {
+          "end": 35,
+          "id": "1463035825214476288",
+          "start": 27,
+          "username": "MaecMax"
+        },
+        {
+          "end": 45,
+          "id": "1683613726681989120",
+          "start": 36,
+          "username": "GnewHome"
+        },
+        {
+          "end": 54,
+          "id": "1551869590283505664",
+          "start": 46,
+          "username": "WaecMax"
+        },
+        {
+          "end": 64,
+          "id": "1762748208873164800",
+          "start": 55,
+          "username": "SnewHome"
+        },
+        {
+          "end": 73,
+          "id": "1437679665653686279",
+          "start": 65,
+          "username": "DaecMax"
+        },
+        {
+          "end": 83,
+          "id": "1805135778114404352",
+          "start": 74,
+          "username": "QnewHome"
+        },
+        {
+          "end": 92,
+          "id": "1536731999221608450",
+          "start": 84,
+          "username": "GaecMax"
+        },
+        {
+          "end": 102,
+          "id": "1114147946440810496",
+          "start": 93,
+          "username": "DnewHome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GILAYNUD24",
+          "end": 126,
+          "expanded_url": "https://x.com/armycc99/status/1945144134974484558/video/1",
+          "media_key": "7_1945144047255121920",
+          "start": 103,
+          "url": "https://t.co/GILAYNUD24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946873666790457346",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 817
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945144134974484558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @armycc99: wataa 💕\n#女同 \n@MaecMax｜@GnewHome\n@WaecMax｜@SnewHome\n@DaecMax｜@QnewHome\n@GaecMax｜@DnewHome https://t.co/GILAYNUD24"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946873666790457346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946873666790457346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946873666790457346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113522,
+        "height": 1252,
+        "media_key": "7_1945144047255121920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945144047255121920/pu/img/CBaRNPpmRGS74Ido.jpg",
+        "public_metrics": {
+          "view_count": 162591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945144047255121920/pu/vid/avc1/320x556/V7WftOezA6a0M0qY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945144047255121920/pu/vid/avc1/480x834/c2SyJCqRI39EnamS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945144047255121920/pu/vid/avc1/720x1252/7Y4NgUir_VuWpgst.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945144047255121920/pu/pl/NQT2x3Nwiyadk63s.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945144047255121920"
+          ]
+        },
+        "author_id": "1582701554099924995",
+        "conversation_id": "1945144134974484558",
+        "created_at": "2025-07-15T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945144134974484558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "女同"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1463035825214476288",
+              "start": 13,
+              "username": "MaecMax"
+            },
+            {
+              "end": 31,
+              "id": "1683613726681989120",
+              "start": 22,
+              "username": "GnewHome"
+            },
+            {
+              "end": 40,
+              "id": "1551869590283505664",
+              "start": 32,
+              "username": "WaecMax"
+            },
+            {
+              "end": 50,
+              "id": "1762748208873164800",
+              "start": 41,
+              "username": "SnewHome"
+            },
+            {
+              "end": 59,
+              "id": "1437679665653686279",
+              "start": 51,
+              "username": "DaecMax"
+            },
+            {
+              "end": 69,
+              "id": "1805135778114404352",
+              "start": 60,
+              "username": "QnewHome"
+            },
+            {
+              "end": 78,
+              "id": "1536731999221608450",
+              "start": 70,
+              "username": "GaecMax"
+            },
+            {
+              "end": 88,
+              "id": "1114147946440810496",
+              "start": 79,
+              "username": "DnewHome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GILAYNUD24",
+              "end": 112,
+              "expanded_url": "https://x.com/armycc99/status/1945144134974484558/video/1",
+              "media_key": "7_1945144047255121920",
+              "start": 89,
+              "url": "https://t.co/GILAYNUD24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945144134974484558",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2779,
+          "impression_count": 354722,
+          "like_count": 7402,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 817
+        },
+        "reply_settings": "everyone",
+        "text": "wataa 💕\n#女同 \n@MaecMax｜@GnewHome\n@WaecMax｜@SnewHome\n@DaecMax｜@QnewHome\n@GaecMax｜@DnewHome https://t.co/GILAYNUD24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 293,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T11:53:57.000Z",
+        "description": "日更博主，某音网红小主播，无🚪槛，不加好友！纯分享，喜欢多点赞！",
+        "id": "1582701554099924995",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Army",
+        "pinned_tweet_id": "1946474373105201579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936281763887955969/vRxat_w__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115283,
+          "following_count": 165,
+          "like_count": 574,
+          "listed_count": 290,
+          "media_count": 54,
+          "tweet_count": 367
+        },
+        "username": "armycc99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T06:45:11.000Z",
+        "description": "小妹推荐十年线下外围教兽@HFJR88899｜兔糖线下质量最好cos @tutang222 ｜外围导师七喜高端娱乐@qqqixiyule｜全国C圈顶配星恋🌟@starkoi88｜小葵优质C圈@xiaokuicos｜全国空姐圈cos经济@yxxo3k ｜简介位招商🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "HFJR88899"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "tutang222"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "qqqixiyule"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "starkoi88"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "xiaokuicos"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "yxxo3k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/ddfOyT…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/ddfOyTgAgoI1NjU9",
+                "start": 0,
+                "url": "https://t.co/u0KtDzfXIM"
+              }
+            ]
+          }
+        },
+        "id": "1463035825214476288",
+        "location": "小妹TG社区👉",
+        "name": "小妹の日常",
+        "pinned_tweet_id": "1881647992194863400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811022024804061187/I-dQkyW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340632,
+          "following_count": 1119,
+          "like_count": 0,
+          "listed_count": 1191,
+          "media_count": 0,
+          "tweet_count": 9533
+        },
+        "url": "https://t.co/u0KtDzfXIM",
+        "username": "MaecMax",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-07-24T23:02:58.000Z",
+        "description": "全球質量最高cos線下約會指南 @luoxiaohan66\n全国cos外围诚信中介找洛天依@A0422107470189\n阿斗高端外围全球私人定制💯@Adou2580\n只爲粉絲避雷 ｜分享優質小姐姐｜原創初次投稿请私信｜简介位招商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "luoxiaohan66"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "A0422107470189"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "Adou2580"
+              }
+            ]
+          }
+        },
+        "id": "1683613726681989120",
+        "name": "✨小火龙甄选",
+        "pinned_tweet_id": "1925485341026525421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827189712127455235/XYdCbev4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283023,
+          "following_count": 215,
+          "like_count": 2597,
+          "listed_count": 737,
+          "media_count": 1,
+          "tweet_count": 6861
+        },
+        "username": "GnewHome",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T09:59:41.000Z",
+        "description": "推荐十年外围教兽 @HFJR88899｜ 🥇全网最高质量外围@Maowushiqi｜小葵优质c圈@xiaokuicos｜小娜宝C圈优选cos @nanacos01｜靠谱高质量c圈@guangyucos｜ 🥇精品外围质量最高@shisan9998｜简介位招商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "HFJR88899"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Maowushiqi"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xiaokuicos"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "nanacos01"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "guangyucos"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "shisan9998"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ailoveyouni",
+                "end": 23,
+                "expanded_url": "http://t.me/ailoveyouni",
+                "start": 0,
+                "url": "https://t.co/20qYHEsli8"
+              }
+            ]
+          }
+        },
+        "id": "1551869590283505664",
+        "location": "全是妹妹的草莓熊社区电报群▶️",
+        "name": "大猫的屋子（收5000-10W粉丝号）",
+        "pinned_tweet_id": "1810792736846663938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811849626896490496/2gEi8kOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541267,
+          "following_count": 539,
+          "like_count": 3,
+          "listed_count": 2146,
+          "media_count": 0,
+          "tweet_count": 2918
+        },
+        "url": "https://t.co/20qYHEsli8",
+        "username": "WaecMax",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2024-02-28T07:55:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baobeishequ",
+                "end": 23,
+                "expanded_url": "http://t.me/baobeishequ",
+                "start": 0,
+                "url": "https://t.co/Lw3XDUgW9p"
+              }
+            ]
+          }
+        },
+        "id": "1762748208873164800",
+        "location": "电报社区",
+        "name": "女生宿舍👑宿管",
+        "pinned_tweet_id": "1922662305462091876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896233575701434368/y62OmCTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228098,
+          "following_count": 165,
+          "like_count": 229,
+          "listed_count": 743,
+          "media_count": 1,
+          "tweet_count": 4045
+        },
+        "url": "https://t.co/Lw3XDUgW9p",
+        "username": "SnewHome",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-09-14T07:28:48.000Z",
+        "description": "🍬兔糖线下质量最好cos👉 @tutang222 | 靠谱口碑C圈元老 @Songsongzj |老字号靠谱经纪人推荐 @xzlh888|推荐十年外围教授@HFJR88899|🥇全网最高质量外围@Maowushiqi|小葵优质C圈@xiaokuicos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "tutang222"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Songsongzj"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "xzlh888"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "HFJR88899"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Maowushiqi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xiaokuicos"
+              }
+            ]
+          }
+        },
+        "id": "1437679665653686279",
+        "location": "⬇️查看已验证小姐姐聊天群",
+        "name": "纯情大叔",
+        "pinned_tweet_id": "1804423999507828902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811059985226551299/YHCWEcGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547529,
+          "following_count": 438,
+          "like_count": 674,
+          "listed_count": 1180,
+          "media_count": 0,
+          "tweet_count": 6161
+        },
+        "username": "DaecMax",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T07:08:15.000Z",
+        "description": "靠谱口碑 C圈元老@Songsongzj｜六年全网最高端cos资源@Taiy1Cos666｜c圈外围最高性价比找糖豆 @tangdoucos｜靠谱高质量c圈@guangyucos｜简介位招商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Songsongzj"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Taiy1Cos666"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "tangdoucos"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "guangyucos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baobeishequ",
+                "end": 23,
+                "expanded_url": "http://t.me/baobeishequ",
+                "start": 0,
+                "url": "https://t.co/uZn8cY1kAU"
+              }
+            ]
+          }
+        },
+        "id": "1805135778114404352",
+        "location": "电报社区▶️",
+        "name": "皮卡丘日记",
+        "pinned_tweet_id": "1807330614452117927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839533200579887104/-NjJ3Y1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305236,
+          "following_count": 309,
+          "like_count": 0,
+          "listed_count": 1222,
+          "media_count": 0,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/uZn8cY1kAU",
+        "username": "QnewHome",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T15:27:23.000Z",
+        "description": "小葵优质C圈@xiaokuicos｜靠谱口碑C圈元老 @Songsongzj｜🥇兔糖COS质量最好找@tutang222｜小妹推荐十年外围@HFJR88899｜C圈外围最高性价比 @tangdoucos｜简介位招商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "xiaokuicos"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Songsongzj"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "tutang222"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "HFJR88899"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "tangdoucos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ailoveyouni",
+                "end": 23,
+                "expanded_url": "https://t.me/ailoveyouni",
+                "start": 0,
+                "url": "https://t.co/NTiZesDrmH"
+              }
+            ]
+          }
+        },
+        "id": "1536731999221608450",
+        "location": "小妹十万人女生营业群➡️",
+        "name": "小妹亭亭",
+        "pinned_tweet_id": "1809238606445433317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811413459483119616/sA9HtaVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275892,
+          "following_count": 133,
+          "like_count": 48,
+          "listed_count": 821,
+          "media_count": 30,
+          "tweet_count": 4855
+        },
+        "url": "https://t.co/NTiZesDrmH",
+        "username": "GaecMax",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2019-04-05T12:49:05.000Z",
+        "description": "｜靠谱高质量c圈 @guangyucos｜八年优质cos老墙 @yuyu59677460｜｜六年全网最高端cos资源@Taiy1Cos666｜｜进内群找包养 @cuteavbb ｜卖号找@miaolegemizi  （以上压保证金）｜简介位招商🔥｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "guangyucos"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "yuyu59677460"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Taiy1Cos666"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "cuteavbb"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "miaolegemizi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baobeishequ",
+                "end": 23,
+                "expanded_url": "http://t.me/baobeishequ",
+                "start": 0,
+                "url": "https://t.co/ejjhpdx0Lj"
+              }
+            ]
+          }
+        },
+        "id": "1114147946440810496",
+        "location": "原创福利姬社区",
+        "name": "宝可梦💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857317318180950016/KyREMOaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409090,
+          "following_count": 140,
+          "like_count": 806,
+          "listed_count": 1249,
+          "media_count": 0,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/ejjhpdx0Lj",
+        "username": "DnewHome",
+        "verified": true
+      }
+    ]
+  }
+}

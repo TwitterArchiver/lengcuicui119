@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048976690018426916",
+    "created_at": "2026-05-02T14:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050579150248013849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025747488163119104",
+          "start": 0,
+          "username": "Zelaya831496"
+        },
+        {
+          "end": 30,
+          "id": "2047273781098639360",
+          "start": 14,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050579150248013849",
+    "in_reply_to_user_id": "2025747488163119104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049001984230121961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zelaya831496 @Yamamotokoroshi 提升专注度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048976690018426916",
+        "created_at": "2026-05-02T14:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050579150248013849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025747488163119104",
+              "start": 0,
+              "username": "Zelaya831496"
+            },
+            {
+              "end": 30,
+              "id": "2047273781098639360",
+              "start": 14,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050579150248013849",
+        "in_reply_to_user_id": "2025747488163119104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049001984230121961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zelaya831496 @Yamamotokoroshi 提升专注度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025747488163119104",
+        "conversation_id": "2048976690018426916",
+        "created_at": "2026-04-28T05:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049001984230121961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001984230121961",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048976690018426916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 这不是戒烟药吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，有问题请私信，评论发不出去，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 816,
+          "like_count": 2700,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T01:40:23.000Z",
+        "description": "",
+        "id": "2025747488163119104",
+        "name": "Zelaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033483443041079297/jotLM8T2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "Zelaya831496",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@lengcuicui119大号\n@cVPrL20wIa42392二世（活着，登不上去）\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "lengcuicui119"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 358,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

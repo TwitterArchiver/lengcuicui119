@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048308938492584178",
+    "created_at": "2026-04-26T07:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048308938492584178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047273781098639360",
+          "start": 3,
+          "username": "Yamamotokoroshi"
+        },
+        {
+          "end": 40,
+          "id": "1455784742922555395",
+          "start": 26,
+          "username": "lengcuicui119"
+        },
+        {
+          "end": 59,
+          "id": "2045022236201918465",
+          "start": 43,
+          "username": "cVPrL20wIa42392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048308938492584178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047533747290210413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamamotokoroshi: 自介\n一世@lengcuicui119\n二世@cVPrL20wIa42392\n秽土三世......\nod/不🩸🔪/简繁中🇨🇳日语🇯🇵德语🇩🇪/pr白兔4ho致幻等重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/请不要问我物质渠…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 720,
+        "media_key": "13_2047533676096004096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047533676096004096/img/gABIEMw_UkT8PcfZ.jpg",
+        "public_metrics": {
+          "view_count": 1054
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047533676096004096/vid/avc1/360x270/7rQ8wfkml2ulUfW3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047533676096004096/vid/avc1/480x360/dP7zf5_lkHar7S4c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047533676096004096/vid/avc1/960x720/7S6LHPcvwA4LGpgi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047533676096004096/pl/4iNQfiHlanpDEqy9.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047533676381319168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpNB8ZbsAANHmR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047533676087676928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpNB7TbEAA7TsK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047533676075053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpNB7QacAAbulT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048308938492584178",
+        "created_at": "2026-04-26T07:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048308938492584178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047273781098639360",
+              "start": 3,
+              "username": "Yamamotokoroshi"
+            },
+            {
+              "end": 40,
+              "id": "1455784742922555395",
+              "start": 26,
+              "username": "lengcuicui119"
+            },
+            {
+              "end": 59,
+              "id": "2045022236201918465",
+              "start": 43,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048308938492584178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047533747290210413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamamotokoroshi: 自介\n一世@lengcuicui119\n二世@cVPrL20wIa42392\n秽土三世......\nod/不🩸🔪/简繁中🇨🇳日语🇯🇵德语🇩🇪/pr白兔4ho致幻等重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/请不要问我物质渠…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047533676096004096",
+            "3_2047533676381319168",
+            "3_2047533676087676928",
+            "3_2047533676075053056"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047533747290210413",
+        "created_at": "2026-04-24T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047533747290210413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1455784742922555395",
+              "start": 5,
+              "username": "lengcuicui119"
+            },
+            {
+              "end": 38,
+              "id": "2045022236201918465",
+              "start": 22,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWI16rlZ0J",
+              "end": 204,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047533747290210413/video/1",
+              "media_key": "13_2047533676096004096",
+              "start": 181,
+              "url": "https://t.co/iWI16rlZ0J"
+            },
+            {
+              "display_url": "pic.x.com/iWI16rlZ0J",
+              "end": 204,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047533747290210413/video/1",
+              "media_key": "3_2047533676381319168",
+              "start": 181,
+              "url": "https://t.co/iWI16rlZ0J"
+            },
+            {
+              "display_url": "pic.x.com/iWI16rlZ0J",
+              "end": 204,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047533747290210413/video/1",
+              "media_key": "3_2047533676087676928",
+              "start": 181,
+              "url": "https://t.co/iWI16rlZ0J"
+            },
+            {
+              "display_url": "pic.x.com/iWI16rlZ0J",
+              "end": 204,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047533747290210413/video/1",
+              "media_key": "3_2047533676075053056",
+              "start": 181,
+              "url": "https://t.co/iWI16rlZ0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047533747290210413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3276,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n一世@lengcuicui119\n二世@cVPrL20wIa42392\n秽土三世......\nod/不🩸🔪/简繁中🇨🇳日语🇯🇵德语🇩🇪/pr白兔4ho致幻等重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/请不要问我物质渠道🥺也不出售物质，抱歉!!!/发点嗑药日常/二三涉/\n有问题可以直接私信（匿名提问🉑）\n关于trip报告放在这里评论区... https://t.co/iWI16rlZ0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 782,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 280,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

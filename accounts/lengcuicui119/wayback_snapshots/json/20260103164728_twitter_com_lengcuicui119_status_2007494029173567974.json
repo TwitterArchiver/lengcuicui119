@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2007494029173567974",
+    "created_at": "2026-01-03T16:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007494029173567974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yor_echi/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yor_echi/status/2004860672971341891",
+          "start": 33,
+          "url": "https://t.co/tVVEKy4aWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007494029173567974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004860672971341891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦草，太优质了，每个细节都好到位，太勾人了，一点不跳wocccc https://t.co/tVVEKy4aWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 521818,
+        "height": 1080,
+        "media_key": "13_1994261611020996610",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994261611020996610/img/yYaFr1l8mF2uwlU8.jpg",
+        "public_metrics": {
+          "view_count": 1301271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994261611020996610/vid/avc1/1280x720/wQxRofwOd8b0cHHJ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994261611020996610/vid/avc1/480x270/6zKd57FFLxkJKb34.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994261611020996610/vid/avc1/640x360/XU-x6aI6kSXbJtaU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994261611020996610/pl/Ikh_NlfGZyNcxsG5.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994261611020996610/vid/avc1/1920x1080/BuMqh4lwTEN_i8P-.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2007494029173567974",
+        "created_at": "2026-01-03T16:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007494029173567974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yor_echi/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yor_echi/status/2004860672971341891",
+              "start": 33,
+              "url": "https://t.co/tVVEKy4aWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007494029173567974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004860672971341891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦草，太优质了，每个细节都好到位，太勾人了，一点不跳wocccc https://t.co/tVVEKy4aWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994261611020996610"
+          ],
+          "media_source_tweet_id": [
+            "1994266477625536783"
+          ]
+        },
+        "author_id": "1772799493701840898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004860672971341891",
+        "created_at": "2025-12-27T10:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004860672971341891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75Z3Jrpz9f",
+              "end": 23,
+              "expanded_url": "https://x.com/KEMONO_NSFW/status/1994266477625536783/video/1",
+              "media_key": "13_1994261611020996610",
+              "start": 0,
+              "url": "https://t.co/75Z3Jrpz9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004860672971341891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 49730,
+          "impression_count": 259000,
+          "like_count": 45879,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 3730
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/75Z3Jrpz9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "讨厌玉米，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 419,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 155
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T01:35:17.000Z",
+        "description": "🔞 I Love Yor and H-Anime. | Art is not mine. ❌ |  -\nMe DM are always open.",
+        "id": "1772799493701840898",
+        "name": "🔞° 𝒀 𝑶 𝑹 | エロアニメ° 🔞 ³⁰ᴷ",
+        "pinned_tweet_id": "2002595244156789060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004555834458624000/Kfu7JSny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36250,
+          "following_count": 672,
+          "like_count": 56,
+          "listed_count": 102,
+          "media_count": 453,
+          "tweet_count": 1137
+        },
+        "username": "YOR_ECHI",
+        "verified": false
+      }
+    ]
+  }
+}

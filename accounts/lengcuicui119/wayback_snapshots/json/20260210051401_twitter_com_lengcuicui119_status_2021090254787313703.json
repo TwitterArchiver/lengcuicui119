@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2021090254787313703",
+    "created_at": "2026-02-10T05:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021090254787313703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021090254787313703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021085023248736657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 评价我吃过的药（个人观点\n右美沙芬🌟🌟🌟🌟🌟白月光\npr🌟🌟🌟🌟🌟药效好 购买方便 价格实惠\n白兔🌟🌟🌟需要较多t起效  贵 药效还可以\n美金刚🌟🌟好多星星…\n金刚烷胺🌟🌟谵妄剂 药效中很诡异 暗爽\n愈美片🌟🌟otc方面购买 但我很恨它\n哮喘片🌟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2021090254787313703",
+        "created_at": "2026-02-10T05:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021090254787313703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021090254787313703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021085023248736657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 评价我吃过的药（个人观点\n右美沙芬🌟🌟🌟🌟🌟白月光\npr🌟🌟🌟🌟🌟药效好 购买方便 价格实惠\n白兔🌟🌟🌟需要较多t起效  贵 药效还可以\n美金刚🌟🌟好多星星…\n金刚烷胺🌟🌟谵妄剂 药效中很诡异 暗爽\n愈美片🌟🌟otc方面购买 但我很恨它\n哮喘片🌟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2021085023248736657",
+        "created_at": "2026-02-10T04:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021085023248736657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021085023248736657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "评价我吃过的药（个人观点\n右美沙芬🌟🌟🌟🌟🌟白月光\npr🌟🌟🌟🌟🌟药效好 购买方便 价格实惠\n白兔🌟🌟🌟需要较多t起效  贵 药效还可以\n美金刚🌟🌟好多星星…\n金刚烷胺🌟🌟谵妄剂 药效中很诡异 暗爽\n愈美片🌟🌟otc方面购买 但我很恨它\n哮喘片🌟毫无效果\nlsd🌟🌟🌟🌟这是药吗啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 392,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2020742426529591487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 193,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1928
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2044089062202716301",
+    "created_at": "2026-04-14T16:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044089062202716301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841741161884504064",
+          "start": 3,
+          "username": "Miao_oTvTo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044089062202716301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044060750201962986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miao_oTvTo_: 我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2044089062202716301",
+        "created_at": "2026-04-14T16:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044089062202716301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841741161884504064",
+              "start": 3,
+              "username": "Miao_oTvTo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044089062202716301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044060750201962986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miao_oTvTo_: 我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2044060750201962986",
+        "created_at": "2026-04-14T14:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044060750201962986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044060750201962986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 774,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "祝我天天开心 睡个好觉\n匿名问答https://t.co/83lyR4WmfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao29318",
+                "end": 39,
+                "expanded_url": "https://ngl.link/miao29318",
+                "start": 16,
+                "url": "https://t.co/83lyR4WmfT"
+              }
+            ]
+          }
+        },
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "1896495494068846672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216333316493312/VOLSQj_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10780,
+          "following_count": 113,
+          "like_count": 14688,
+          "listed_count": 21,
+          "media_count": 497,
+          "tweet_count": 8162
+        },
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

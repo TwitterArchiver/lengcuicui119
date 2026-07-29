@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2022933737781235716"
+      ],
+      "media_source_tweet_id": [
+        "2022943969693306926"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2022990256967172553",
+    "created_at": "2026-02-15T11:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022990256967172553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1445309422314528774",
+          "start": 3,
+          "username": "Blotter_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiGvKSMShD",
+          "end": 45,
+          "expanded_url": "https://x.com/Blotter_art/status/2022943969693306926/photo/1",
+          "media_key": "16_2022933737781235716",
+          "start": 22,
+          "url": "https://t.co/NiGvKSMShD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022990256967172553",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022943969693306926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blotter_art: 👁️✨👌 https://t.co/NiGvKSMShD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "16_2022933737781235716",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBLnhDyakAQj-09.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBLnhDyakAQj-09.mp4"
+          }
+        ],
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022933737781235716"
+          ],
+          "media_source_tweet_id": [
+            "2022943969693306926"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2022990256967172553",
+        "created_at": "2026-02-15T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022990256967172553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1445309422314528774",
+              "start": 3,
+              "username": "Blotter_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiGvKSMShD",
+              "end": 45,
+              "expanded_url": "https://x.com/Blotter_art/status/2022943969693306926/photo/1",
+              "media_key": "16_2022933737781235716",
+              "start": 22,
+              "url": "https://t.co/NiGvKSMShD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022990256967172553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022943969693306926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blotter_art: 👁️✨👌 https://t.co/NiGvKSMShD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022933737781235716"
+          ]
+        },
+        "author_id": "1445309422314528774",
+        "conversation_id": "2022943969693306926",
+        "created_at": "2026-02-15T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022943969693306926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiGvKSMShD",
+              "end": 28,
+              "expanded_url": "https://x.com/Blotter_art/status/2022943969693306926/photo/1",
+              "media_key": "16_2022933737781235716",
+              "start": 5,
+              "url": "https://t.co/NiGvKSMShD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022943969693306926",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 10228,
+          "like_count": 1015,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "👁️✨👌 https://t.co/NiGvKSMShD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 404,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T08:46:47.000Z",
+        "description": "i like GIFs - https://t.co/gPpR7Wgy5W (comm closed)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "superrare.com/blotter",
+                "end": 37,
+                "expanded_url": "https://superrare.com/blotter",
+                "start": 14,
+                "url": "https://t.co/gPpR7Wgy5W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Blotter_art",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Blotter_art",
+                "start": 0,
+                "url": "https://t.co/GzW7ZIoCWX"
+              }
+            ]
+          }
+        },
+        "id": "1445309422314528774",
+        "name": "Blotter✧",
+        "pinned_tweet_id": "2014246659136311639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880453708246618112/hg8YaJST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70546,
+          "following_count": 1117,
+          "like_count": 37883,
+          "listed_count": 350,
+          "media_count": 2063,
+          "tweet_count": 28746
+        },
+        "url": "https://t.co/GzW7ZIoCWX",
+        "username": "Blotter_art",
+        "verified": true
+      }
+    ]
+  }
+}

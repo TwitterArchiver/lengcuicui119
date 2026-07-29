@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043165827122548770",
+    "created_at": "2026-04-12T12:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043311563839598878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2039707587567075328",
+          "start": 0,
+          "username": "Cit7w"
+        },
+        {
+          "end": 20,
+          "id": "2030832351656493056",
+          "start": 7,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043311563839598878",
+    "in_reply_to_user_id": "2039707587567075328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043165827122548770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cit7w @Suintouhea2t 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043165827122548770",
+        "created_at": "2026-04-12T12:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043311563839598878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2039707587567075328",
+              "start": 0,
+              "username": "Cit7w"
+            },
+            {
+              "end": 20,
+              "id": "2030832351656493056",
+              "start": 7,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043311563839598878",
+        "in_reply_to_user_id": "2039707587567075328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043165827122548770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cit7w @Suintouhea2t 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039707587567075328",
+        "conversation_id": "2043165827122548770",
+        "created_at": "2026-04-12T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043165827122548770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043165827122548770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 736,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T14:13:30.000Z",
+        "description": "这个世界充满假象 唯有痛苦从不说谎",
+        "id": "2039707587567075328",
+        "name": "诚诚",
+        "pinned_tweet_id": "2039836078514020584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039841587858137088/IUDiBRJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 70
+        },
+        "username": "Cit7w",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公 cnRinly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2030835174783779307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 397,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1705
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

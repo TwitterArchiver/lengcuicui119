@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "1963819098921656818",
+    "created_at": "2025-09-05T04:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963819098921656818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1691921180989800448",
+          "start": 3,
+          "username": "mimimiaomiaouwu"
+        },
+        {
+          "end": 47,
+          "id": "1591030131606241281",
+          "start": 36,
+          "username": "luobao1221"
+        },
+        {
+          "end": 70,
+          "id": "1462313401674133506",
+          "start": 59,
+          "username": "bless0328h"
+        },
+        {
+          "end": 96,
+          "id": "1638547144419450881",
+          "start": 81,
+          "username": "wumingshi_2025"
+        },
+        {
+          "end": 118,
+          "id": "1782301400447500288",
+          "start": 108,
+          "username": "ks1723160"
+        },
+        {
+          "end": 137,
+          "id": "1785001736559845377",
+          "start": 127,
+          "username": "Vven_us97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963819098921656818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963641643128762648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimimiaomiaouwu: 全员恶人局吃瓜指南\n\n看洛宝 @luobao1221 的瓜：\n洛宝前任祝福 @bless0328h \n洛宝前金主小鱼干 @wumingshi_2025 \n\n看洛宝现任npt @ks1723160 的瓜：\n椰叽7 @Vven_us97…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "1963819098921656818",
+        "created_at": "2025-09-05T04:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963819098921656818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1691921180989800448",
+              "start": 3,
+              "username": "mimimiaomiaouwu"
+            },
+            {
+              "end": 47,
+              "id": "1591030131606241281",
+              "start": 36,
+              "username": "luobao1221"
+            },
+            {
+              "end": 70,
+              "id": "1462313401674133506",
+              "start": 59,
+              "username": "bless0328h"
+            },
+            {
+              "end": 96,
+              "id": "1638547144419450881",
+              "start": 81,
+              "username": "wumingshi_2025"
+            },
+            {
+              "end": 118,
+              "id": "1782301400447500288",
+              "start": 108,
+              "username": "ks1723160"
+            },
+            {
+              "end": 137,
+              "id": "1785001736559845377",
+              "start": 127,
+              "username": "Vven_us97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963819098921656818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963641643128762648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimimiaomiaouwu: 全员恶人局吃瓜指南\n\n看洛宝 @luobao1221 的瓜：\n洛宝前任祝福 @bless0328h \n洛宝前金主小鱼干 @wumingshi_2025 \n\n看洛宝现任npt @ks1723160 的瓜：\n椰叽7 @Vven_us97…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691921180989800448",
+        "conversation_id": "1963641643128762648",
+        "created_at": "2025-09-04T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963641643128762648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1591030131606241281",
+              "start": 15,
+              "username": "luobao1221"
+            },
+            {
+              "end": 49,
+              "id": "1462313401674133506",
+              "start": 38,
+              "username": "bless0328h"
+            },
+            {
+              "end": 75,
+              "id": "1638547144419450881",
+              "start": 60,
+              "username": "wumingshi_2025"
+            },
+            {
+              "end": 97,
+              "id": "1782301400447500288",
+              "start": 87,
+              "username": "ks1723160"
+            },
+            {
+              "end": 116,
+              "id": "1785001736559845377",
+              "start": 106,
+              "username": "Vven_us97"
+            },
+            {
+              "end": 129,
+              "id": "1930585988696539136",
+              "start": 121,
+              "username": "shsh11i"
+            },
+            {
+              "end": 164,
+              "id": "1924364001267576832",
+              "start": 151,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963641643128762648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 529,
+          "impression_count": 128209,
+          "like_count": 1545,
+          "quote_count": 14,
+          "reply_count": 72,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "全员恶人局吃瓜指南\n\n看洛宝 @luobao1221 的瓜：\n洛宝前任祝福 @bless0328h \n洛宝前金主小鱼干 @wumingshi_2025 \n\n看洛宝现任npt @ks1723160 的瓜：\n椰叽7 @Vven_us97 \n屎屎 @shsh11i\n\n看祝福的瓜也去看椰叽7\n\n此外小咪殿下 @Meow_Bellaaa 平等地骂了每一个恶人 比较雨露均沾\n\n椰、屎、咪是热心群众"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 349,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T21:13:46.000Z",
+        "description": "3i4i 卡哇1✨偶尔掉落大瓜小瓜/抽象段子/日常碎片✨ 西瓜Qi泡水好喝爱喝 自用vpn https://t.co/FIBZS9Hha4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 69,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=suggJNcu",
+                "start": 46,
+                "url": "https://t.co/FIBZS9Hha4"
+              }
+            ]
+          }
+        },
+        "id": "1691921180989800448",
+        "name": "Qi（一片西瓜激推版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872587222928826369/5n4vRS4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20828,
+          "following_count": 500,
+          "like_count": 8375,
+          "listed_count": 41,
+          "media_count": 64,
+          "tweet_count": 10092
+        },
+        "username": "mimimiaomiaouwu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T11:28:54.000Z",
+        "description": "🔥十年资深老嫖☞外围导师🔝七喜全球娱乐@qqqixiyule ｜51探花，全国外围网址：👉https://t.co/vMTa2J3XyG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "qqqixiyule"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "51tanhua3.org",
+                "end": 68,
+                "expanded_url": "http://51tanhua3.org",
+                "start": 45,
+                "url": "https://t.co/vMTa2J3XyG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luobao1028",
+                "end": 23,
+                "expanded_url": "https://t.me/luobao1028",
+                "start": 0,
+                "url": "https://t.co/kOOBImXVfQ"
+              }
+            ]
+          }
+        },
+        "id": "1591030131606241281",
+        "location": "免费浏览群：",
+        "name": "洛宝",
+        "pinned_tweet_id": "1961710158150828178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958490513436520448/_WKTFZ8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726635,
+          "following_count": 9,
+          "like_count": 262,
+          "listed_count": 1872,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/kOOBImXVfQ",
+        "username": "luobao1221",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-11-21T06:54:25.000Z",
+        "description": "",
+        "id": "1462313401674133506",
+        "name": "祝福",
+        "pinned_tweet_id": "1963536770664198169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853954627961593863/xdtTLPad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209053,
+          "following_count": 21,
+          "like_count": 131,
+          "listed_count": 483,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "bless0328h",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T14:24:35.000Z",
+        "description": "",
+        "id": "1638547144419450881",
+        "name": "小鱼干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892035457128763392/1ddp8PZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 658,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 271
+        },
+        "username": "wumingshi_2025",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:52:28.000Z",
+        "description": "梦想是成为X第一大男菩萨｜小号@Party01156︱主人@luobao1221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Party01156"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "luobao1221"
+              }
+            ]
+          }
+        },
+        "id": "1782301400447500288",
+        "name": "No partys",
+        "pinned_tweet_id": "1933434608382849319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835002072812732416/8rxRytNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207688,
+          "following_count": 58,
+          "like_count": 5140,
+          "listed_count": 601,
+          "media_count": 90,
+          "tweet_count": 1535
+        },
+        "username": "ks1723160",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T17:42:39.000Z",
+        "description": "🧉可以给我分享小猫｜不经常闲聊不爱主动｜骚扰我你死爹｜不约炮不线下看不上你｜纯情贱女火辣辣｜另一个我 @coconutwho7｜\nhttps://t.co/5G1VbGxHTP 匿名箱在这👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coconutwho7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/vven_us97",
+                "end": 88,
+                "expanded_url": "https://ngl.link/vven_us97",
+                "start": 65,
+                "url": "https://t.co/5G1VbGxHTP"
+              }
+            ]
+          }
+        },
+        "id": "1785001736559845377",
+        "location": "🚪197无福利",
+        "name": "椰叽7",
+        "pinned_tweet_id": "1807673930972635299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929547846870798336/AVmf96QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20375,
+          "following_count": 83,
+          "like_count": 3638,
+          "listed_count": 44,
+          "media_count": 278,
+          "tweet_count": 1708
+        },
+        "username": "Vven_us97",
+        "verified": false
+      }
+    ]
+  }
+}

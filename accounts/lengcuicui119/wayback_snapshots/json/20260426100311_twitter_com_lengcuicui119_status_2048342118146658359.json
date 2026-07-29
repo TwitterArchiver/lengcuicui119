@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048342118146658359",
+    "created_at": "2026-04-26T10:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048342118146658359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lomyral8964/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lomyral8964/status/2048084761097429304",
+          "start": 10,
+          "url": "https://t.co/lOeicFd1V5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048342118146658359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048084761097429304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要od，神在法你 https://t.co/lOeicFd1V5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048342118146658359",
+        "created_at": "2026-04-26T10:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048342118146658359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lomyral8964/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lomyral8964/status/2048084761097429304",
+              "start": 10,
+              "url": "https://t.co/lOeicFd1V5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048342118146658359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048084761097429304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要od，神在法你 https://t.co/lOeicFd1V5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2048084761097429304",
+        "created_at": "2026-04-25T17:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048084761097429304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048084761097429304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4829,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不是广州禁毒我根本不会知道世界上还有od这个东西，我一直以为过量服药除了剧烈痛苦不会有其他的神秘功效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 786,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2119
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西。网页版操作困难所以回复会比较慢TT\n\n互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 189,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 203
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

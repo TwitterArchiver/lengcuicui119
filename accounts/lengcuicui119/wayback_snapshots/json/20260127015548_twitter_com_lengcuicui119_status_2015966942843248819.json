@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015966932474978304"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2015966942843248819",
+    "created_at": "2026-01-27T01:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T02:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015966942843248819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9eUREaqoJ",
+          "end": 55,
+          "expanded_url": "https://x.com/lengcuicui119/status/2015966942843248819/photo/1",
+          "media_key": "3_2015966932474978304",
+          "start": 32,
+          "url": "https://t.co/M9eUREaqoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015966942843248819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然不知道买了它有什么实质性作用，但它的切面看起来好像合成的🤔 https://t.co/M9eUREaqoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015966932474978304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_onPnka4AAx4bX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015966932474978304"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2015966942843248819",
+        "created_at": "2026-01-27T01:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015966942843248819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9eUREaqoJ",
+              "end": 55,
+              "expanded_url": "https://x.com/lengcuicui119/status/2015966942843248819/photo/1",
+              "media_key": "3_2015966932474978304",
+              "start": 32,
+              "url": "https://t.co/M9eUREaqoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015966942843248819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然不知道买了它有什么实质性作用，但它的切面看起来好像合成的🤔 https://t.co/M9eUREaqoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 378,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

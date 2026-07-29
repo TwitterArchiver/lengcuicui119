@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "1997018731529339067",
+    "created_at": "2025-12-05T19:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T20:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997018731529339067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492713764244029440",
+          "start": 3,
+          "username": "XdoXa89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997018731529339067",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2665
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996547073681084667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @XdoXa89: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⣠⠴⠶⢤⡞⢡⡚⣦⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⢰⣃⠀⠀⠈⠁⠀⠉⠁⢺⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠈⢯⣄⡀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⠤⣤⣤⠞…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 411,
+        "media_key": "3_1996547050864058368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uo9vAbIAAfiEc.jpg",
+        "width": 732
+      },
+      {
+        "height": 411,
+        "media_key": "3_1996547050847256577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uo9u8awAEho-6.jpg",
+        "width": 732
+      },
+      {
+        "height": 411,
+        "media_key": "3_1996547050855612416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uo9u-aQAASODO.jpg",
+        "width": 732
+      },
+      {
+        "height": 411,
+        "media_key": "3_1996547050868252672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Uo9vBbIAAiftX.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "1997018731529339067",
+        "created_at": "2025-12-05T19:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T20:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997018731529339067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492713764244029440",
+              "start": 3,
+              "username": "XdoXa89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997018731529339067",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996547073681084667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @XdoXa89: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⣠⠴⠶⢤⡞⢡⡚⣦⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⢰⣃⠀⠀⠈⠁⠀⠉⠁⢺⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠈⢯⣄⡀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⠤⣤⣤⠞…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996547050864058368",
+            "3_1996547050847256577",
+            "3_1996547050855612416",
+            "3_1996547050868252672"
+          ]
+        },
+        "author_id": "1492713764244029440",
+        "conversation_id": "1996547073681084667",
+        "created_at": "2025-12-04T11:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996547073681084667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGH9Uz2GyP",
+              "end": 158,
+              "expanded_url": "https://x.com/XdoXa89/status/1996547073681084667/photo/1",
+              "media_key": "3_1996547050864058368",
+              "start": 135,
+              "url": "https://t.co/bGH9Uz2GyP"
+            },
+            {
+              "display_url": "pic.x.com/bGH9Uz2GyP",
+              "end": 158,
+              "expanded_url": "https://x.com/XdoXa89/status/1996547073681084667/photo/1",
+              "media_key": "3_1996547050847256577",
+              "start": 135,
+              "url": "https://t.co/bGH9Uz2GyP"
+            },
+            {
+              "display_url": "pic.x.com/bGH9Uz2GyP",
+              "end": 158,
+              "expanded_url": "https://x.com/XdoXa89/status/1996547073681084667/photo/1",
+              "media_key": "3_1996547050855612416",
+              "start": 135,
+              "url": "https://t.co/bGH9Uz2GyP"
+            },
+            {
+              "display_url": "pic.x.com/bGH9Uz2GyP",
+              "end": 158,
+              "expanded_url": "https://x.com/XdoXa89/status/1996547073681084667/photo/1",
+              "media_key": "3_1996547050868252672",
+              "start": 135,
+              "url": "https://t.co/bGH9Uz2GyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996547073681084667",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1945,
+          "impression_count": 270011,
+          "like_count": 30258,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 2665
+        },
+        "reply_settings": "following",
+        "text": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⣠⠴⠶⢤⡞⢡⡚⣦⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⢰⣃⠀⠀⠈⠁⠀⠉⠁⢺⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠈⢯⣄⡀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⠤⣤⣤⠞   ᥫᩣ  ̖́- https://t.co/bGH9Uz2GyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 397,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T04:15:03.000Z",
+        "description": "Do not repost.   依頼DM",
+        "id": "1492713764244029440",
+        "name": ".",
+        "pinned_tweet_id": "1948703110526108115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596431924389875712/90v9ufWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75639,
+          "following_count": 24,
+          "like_count": 171,
+          "listed_count": 376,
+          "media_count": 147,
+          "tweet_count": 584
+        },
+        "username": "XdoXa89",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042590748139491731",
+    "created_at": "2026-04-10T22:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042738668906123431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861532951827415040",
+          "start": 0,
+          "username": "tmgojbruiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042738668906123431",
+    "in_reply_to_user_id": "1861532951827415040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042707393067520075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tmgojbruiu 超级耐受了啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042590748139491731",
+        "created_at": "2026-04-10T22:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042738668906123431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861532951827415040",
+              "start": 0,
+              "username": "tmgojbruiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042738668906123431",
+        "in_reply_to_user_id": "1861532951827415040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042707393067520075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tmgojbruiu 超级耐受了啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861532951827415040",
+        "conversation_id": "2042590748139491731",
+        "created_at": "2026-04-10T20:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042707393067520075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042707393067520075",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042590748139491731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 大概要等耐受上去，我最开始1t就断片，现在o思思最高10t依旧生龙活虎并且一点也不爽（当时2～10，发现都耐受了就不吃了T T曾经很爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 690,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T22:10:24.000Z",
+        "description": "发疯自留地 | LGBTQ+友好 | 躁郁症 | 如果发任何od/自伤/重开行为请不要模仿珍爱生命积极生活 | 只会中国语但会用翻译器 | 如果发同人图全部为私人约稿 | 懒得分号所以很乱 | 推止于推丨胆子很小请友好T T",
+        "id": "1861532951827415040",
+        "location": "北极星区极东大区",
+        "name": "在天国进入处计划逃离地球",
+        "pinned_tweet_id": "1905976801295479207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904531218152181760/0l6Mhh4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 48,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 314
+        },
+        "username": "tmgojbruiu",
+        "verified": false
+      }
+    ]
+  }
+}

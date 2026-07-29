@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1934525158770999296"
+      ],
+      "media_source_tweet_id": [
+        "1934525499021357184"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1960209338930495536",
+    "created_at": "2025-08-26T05:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960209338930495536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736996084017238016",
+          "start": 3,
+          "username": "Mi7ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2CDYmX5ZZR",
+          "end": 48,
+          "expanded_url": "https://x.com/Mi7ovo/status/1934525499021357184/video/1",
+          "media_key": "13_1934525158770999296",
+          "start": 25,
+          "url": "https://t.co/2CDYmX5ZZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960209338930495536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2891
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934525499021357184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mi7ovo: 被大鸡巴无套内射了😄喜欢 https://t.co/2CDYmX5ZZR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960209338930495536].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960209338930495536",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960209338930495536"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 173521,
+        "height": 1080,
+        "media_key": "13_1934525158770999296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934525158770999296/img/YPulh7GiMsbyi90I.jpg",
+        "public_metrics": {
+          "view_count": 817566
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934525158770999296/vid/avc1/1920x1080/thKQYQbFgavKW9B5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934525158770999296/vid/avc1/640x360/hvVfdT6dWshP7V4R.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934525158770999296/pl/TXQMLU8SUGIy8jhh.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934525158770999296/vid/avc1/1280x720/jPNgtlwH_Z6raL5I.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934525158770999296/vid/avc1/480x270/IeA5kofPtTuz3tSj.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934525158770999296"
+          ]
+        },
+        "author_id": "1736996084017238016",
+        "conversation_id": "1934525499021357184",
+        "created_at": "2025-06-16T08:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T09:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934525499021357184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CDYmX5ZZR",
+              "end": 36,
+              "expanded_url": "https://x.com/Mi7ovo/status/1934525499021357184/video/1",
+              "media_key": "13_1934525158770999296",
+              "start": 13,
+              "url": "https://t.co/2CDYmX5ZZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934525499021357184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12694,
+          "impression_count": 1699769,
+          "like_count": 31826,
+          "quote_count": 22,
+          "reply_count": 101,
+          "retweet_count": 2891
+        },
+        "reply_settings": "everyone",
+        "text": "被大鸡巴无套内射了😄喜欢 https://t.co/2CDYmX5ZZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 339,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 94
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T06:25:32.000Z",
+        "description": "🚪128 等待被领养的小宝宝 纯享版点媒体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newbee888.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://newbee888.cc/#/register?code=x26c2f61",
+                "start": 0,
+                "url": "https://t.co/FrK8PW2TA9"
+              }
+            ]
+          }
+        },
+        "id": "1736996084017238016",
+        "location": "自用一年便宜VPN梯子👇  ",
+        "name": "咩宝",
+        "pinned_tweet_id": "1935464551266525206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743293376945123328/t3vm4mev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308200,
+          "following_count": 32,
+          "like_count": 240,
+          "listed_count": 495,
+          "media_count": 104,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/FrK8PW2TA9",
+        "username": "Mi7ovo",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

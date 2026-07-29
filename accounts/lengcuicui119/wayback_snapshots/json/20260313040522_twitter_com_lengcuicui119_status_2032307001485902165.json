@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030520953202188289"
+      ],
+      "media_source_tweet_id": [
+        "2030521021724537058"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2032307001485902165",
+    "created_at": "2026-03-13T04:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032307001485902165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "搬运侵权删"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1392052912973500424",
+          "start": 3,
+          "username": "YeeLvv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VHZd3prc9i",
+          "end": 47,
+          "expanded_url": "https://x.com/YeeLvv/status/2030521021724537058/video/1",
+          "media_key": "13_2030520953202188289",
+          "start": 24,
+          "url": "https://t.co/VHZd3prc9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032307001485902165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 681
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030521021724537058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YeeLvv: #搬运侵权删\n梦中情m https://t.co/VHZd3prc9i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032307001485902165].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032307001485902165",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032307001485902165"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12518,
+        "height": 1280,
+        "media_key": "13_2030520953202188289",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030520953202188289/img/Prm57ncmeuOws6c9.jpg",
+        "public_metrics": {
+          "view_count": 85424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030520953202188289/vid/avc1/320x568/9HkQ9D9uT65NtBKV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030520953202188289/vid/avc1/480x852/t15HZDMmAC94cJGy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030520953202188289/vid/avc1/720x1280/dt-kTtwXfObodkT_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030520953202188289/pl/9zaDeK17kWOOQM8X.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030520953202188289"
+          ]
+        },
+        "author_id": "1392052912973500424",
+        "conversation_id": "2030521021724537058",
+        "created_at": "2026-03-08T05:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030521021724537058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "搬运侵权删"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHZd3prc9i",
+              "end": 35,
+              "expanded_url": "https://x.com/YeeLvv/status/2030521021724537058/video/1",
+              "media_key": "13_2030520953202188289",
+              "start": 12,
+              "url": "https://t.co/VHZd3prc9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030521021724537058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1287,
+          "impression_count": 269895,
+          "like_count": 6478,
+          "quote_count": 46,
+          "reply_count": 25,
+          "retweet_count": 681
+        },
+        "reply_settings": "everyone",
+        "text": "#搬运侵权删\n梦中情m https://t.co/VHZd3prc9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 509,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T09:44:22.000Z",
+        "description": "丨我常常心口不一丨自用vpn⬇️12/月丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.yunshang.io/register?code=…",
+                "end": 23,
+                "expanded_url": "https://home.yunshang.io/register?code=SJbJCv33",
+                "start": 0,
+                "url": "https://t.co/IYghmeIbMj"
+              }
+            ]
+          }
+        },
+        "id": "1392052912973500424",
+        "location": "Istp水瓶",
+        "name": "阿绿",
+        "pinned_tweet_id": "2032091483936079983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969703061598720000/9Kb6BLGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361681,
+          "following_count": 277,
+          "like_count": 6776,
+          "listed_count": 754,
+          "media_count": 241,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/IYghmeIbMj",
+        "username": "YeeLvv",
+        "verified": true
+      }
+    ]
+  }
+}

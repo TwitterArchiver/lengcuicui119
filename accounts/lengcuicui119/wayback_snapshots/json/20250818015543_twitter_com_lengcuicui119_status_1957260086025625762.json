@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956035651456950276"
+      ],
+      "media_source_tweet_id": [
+        "1956036141276119229"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1957260086025625762",
+    "created_at": "2025-08-18T01:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T02:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957260086025625762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362184543273324547",
+          "start": 3,
+          "username": "hebenmm_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gn9wFmMbJF",
+          "end": 45,
+          "expanded_url": "https://x.com/hebenmm_/status/1956036141276119229/video/1",
+          "media_key": "13_1956035651456950276",
+          "start": 22,
+          "url": "https://t.co/Gn9wFmMbJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957260086025625762",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 566
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956036141276119229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hebenmm_: Chudai… https://t.co/Gn9wFmMbJF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957260086025625762].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957260086025625762",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957260086025625762"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50105,
+        "height": 720,
+        "media_key": "13_1956035651456950276",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956035651456950276/img/jha9mRjrHBcwcD3C.jpg",
+        "public_metrics": {
+          "view_count": 90660
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956035651456950276/vid/avc1/480x270/ZBvRaK74i43gOKI1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956035651456950276/vid/avc1/640x360/gr-iOZ-b3sYpWYlR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956035651456950276/vid/avc1/1280x720/pxVzPjY-JuVmmzQA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956035651456950276/pl/CC6qPicXNokOzxBE.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956035651456950276"
+          ]
+        },
+        "author_id": "1362184543273324547",
+        "conversation_id": "1956036141276119229",
+        "created_at": "2025-08-14T16:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956036141276119229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gn9wFmMbJF",
+              "end": 31,
+              "expanded_url": "https://x.com/hebenmm_/status/1956036141276119229/video/1",
+              "media_key": "13_1956035651456950276",
+              "start": 8,
+              "url": "https://t.co/Gn9wFmMbJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956036141276119229",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1854,
+          "impression_count": 249265,
+          "like_count": 5258,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 566
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai… https://t.co/Gn9wFmMbJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 331,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T23:38:13.000Z",
+        "description": "",
+        "id": "1362184543273324547",
+        "location": "距离你33.4公里",
+        "name": "赫本的猫",
+        "pinned_tweet_id": "1953256593887510687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866679116000530435/Qsi8Aq6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321582,
+          "following_count": 36,
+          "like_count": 51,
+          "listed_count": 601,
+          "media_count": 67,
+          "tweet_count": 207
+        },
+        "username": "hebenmm_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

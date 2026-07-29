@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2039856658437066947",
+    "created_at": "2026-04-03T00:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039859380901007387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039859380901007387",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039859197995810833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 好哦！！！感谢你！！！🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2039856658437066947",
+        "created_at": "2026-04-03T00:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039859380901007387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039859380901007387",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039859197995810833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 好哦！！！感谢你！！！🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2039856658437066947",
+        "created_at": "2026-04-03T00:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039859197995810833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ],
+          "urls": [
+            {
+              "description": "司琼类（如昂丹司琼等5-HT3受体拮抗剂）在某些情况下可能略优，但常规止吐药甲氧氯普胺（胃复安）往往是更合适的第一选择，尤其是这个复方制剂导致的恶心呕吐。 最终需医生根据个人情况判断，我不是医生，以下是基于药理和临床证据的分析。 主要致吐原因分析 这个组合（磷酸二氢可待因 + 盐酸甲麻黄碱 + 马来酸氯苯那敏 + 无水咖啡因）常见于某些复方止咳/感冒药： 磷酸二氢可待因（二氢可待因）是阿片类药物，是最主要的恶心呕吐诱因。阿片类可兴奋延髓催吐中枢、延迟胃排空、增加前庭敏感性，导致恶心/呕吐。 其他成分：甲麻黄碱（类似麻黄碱，兴奋剂）、氯苯那敏（抗组胺，可能有轻微止吐辅助）、咖啡因（刺激，可能加重胃部不适但非主要）。 恶心多为剂量/个体相关，短期使用常见，长期或过量更明显。 两种止吐药的比较（针对阿片诱导恶心） 甲氧氯普胺（常规多巴胺D2拮抗剂）： 优势：促进胃动力（prokinetic），直接针对阿片类引起的胃排空延迟；价格低，临床常用第一线。许多指南/实践推荐用于阿片相关恶心，尤其伴胃胀/早饱感时。 证据：在阿片诱导恶心中有效，许多 palliative care 设置优先选用。副作用包括锥体外系症状（少见，低剂量时），但整体耐受好。 适合这个场景：复方药中胃肠道影响为主时，优先考虑。 司琼类（昂丹司琼等5-HT3拮抗剂）： 优势：对化疗/术后恶心很强，在某些术后阿片诱导呕吐研究中，比甲氧氯普胺更有效（完全控制恶心/呕吐率更高）。 局限：对纯阿片诱导恶心的证据混合。有些 palliative care 试验显示与安慰剂或甲氧氯普胺无显著差异，甚至不优。可能加重阿片便秘（阿片已易致便秘）。价格较高，非首选。 何时更好：如果甲氧氯普胺无效、严重呕吐、或有化疗/术后背景时，可作为二线或联合。 总体：先试甲氧氯普胺（常规10mg，餐前或必要时），效果不佳再考虑司琼类。两者有时联合用，但需医生指导。 其他注意事项 非药物措施：小剂量/间隔服用复方药、餐后服、少量多餐、避免躺下、补充水分。恶心常在适应后减轻。 潜在风险：这个复方含麻醉成分，勿长期/过量用（成瘾、呼吸抑制风险）。儿童/老人/孕妇慎用。甲氧氯普胺有黑框警告（长期用锥体外系风险），司琼类可能QT延长。 何时就医：呕吐严重、脱水、头晕/呼吸问题、症状持续>几天，立刻停药求医。可能需调整原药或检查其他原因。 强烈建议咨询",
+              "display_url": "x.com/i/grok/share/b…",
+              "end": 57,
+              "expanded_url": "https://x.com/i/grok/share/b729d56ca2674956953ca6fe808088b8",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2039859204291448832/0rZZdhEV?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039859204291448832/0rZZdhEV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "磷酸二氢可待因、盐酸甲麻黄碱、马来酸氯苯那敏、无水咖啡因连用到导致的恶心呕吐感用司琼类药物还是常规止吐药（甲氧氯普胺）好一些？",
+              "unwound_url": "https://x.com/i/grok/share/b729d56ca2674956953ca6fe808088b8",
+              "url": "https://t.co/nwJvfIyVS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039859197995810833",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039856658437066947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 其实这种情况用甲氧氯普胺止吐更好一些哦https://t.co/nwJvfIyVS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 644,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 719,
+          "like_count": 50188,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 268
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2035042728262996164",
+    "created_at": "2026-03-21T04:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035208533504139764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968205301410304002",
+          "start": 0,
+          "username": "lingyang01444"
+        },
+        {
+          "end": 27,
+          "id": "1857506406431387648",
+          "start": 15,
+          "username": "BIBIRU_EACD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035208533504139764",
+    "in_reply_to_user_id": "1968205301410304002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035042728262996164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyang01444 @BIBIRU_EACD 国区有出lsd嘛？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17633,
+        "height": 1024,
+        "media_key": "13_2035042603935408128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035042603935408128/img/OLDZq4NbfkI6Mshn.jpg",
+        "public_metrics": {
+          "view_count": 1267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035042603935408128/vid/avc1/320x568/lLCqLPxPz4nlyvm3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035042603935408128/vid/avc1/480x852/bdS8yxwQOV1Y6FiV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035042603935408128/vid/avc1/576x1024/n5EqLekJiNlepo_L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035042603935408128/pl/hEOoSJOGp9NJabGS.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2035042728262996164",
+        "created_at": "2026-03-21T04:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035208533504139764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968205301410304002",
+              "start": 0,
+              "username": "lingyang01444"
+            },
+            {
+              "end": 27,
+              "id": "1857506406431387648",
+              "start": 15,
+              "username": "BIBIRU_EACD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035208533504139764",
+        "in_reply_to_user_id": "1968205301410304002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035042728262996164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyang01444 @BIBIRU_EACD 国区有出lsd嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035042603935408128"
+          ]
+        },
+        "author_id": "1968205301410304002",
+        "conversation_id": "2035042728262996164",
+        "created_at": "2026-03-20T17:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035042728262996164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BY0uKDOCSl",
+              "end": 38,
+              "expanded_url": "https://x.com/lingyang01444/status/2035042728262996164/video/1",
+              "media_key": "13_2035042603935408128",
+              "start": 15,
+              "url": "https://t.co/BY0uKDOCSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035042728262996164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3066,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "麦角酸二乙酰胺 邮票/lsd https://t.co/BY0uKDOCSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 668,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊｜武汉轻工本科｜以身入局药物实验",
+        "id": "1968205301410304002",
+        "location": "日本 東京",
+        "name": "⛧羚羊⛧ antelope ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028684641281150977/nalkhB6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1019,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 83
+        },
+        "username": "lingyang01444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T19:30:27.000Z",
+        "description": "=阿加比/小比，歡迎來找我玩🥺\n性別是武裝直升機，不要質疑。\n//\n主頁轉發含有血腥內容請謹慎跟隨。",
+        "id": "1857506406431387648",
+        "location": "床",
+        "name": "AGABEE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019133474066567169/D8prrw0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 191,
+          "like_count": 14117,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1169
+        },
+        "username": "BIBIRU_EACD",
+        "verified": false
+      }
+    ]
+  }
+}

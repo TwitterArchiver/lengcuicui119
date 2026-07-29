@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042597229505245234",
+    "created_at": "2026-04-10T13:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042597229505245234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hobbysearch/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hobbysearch/status/2042078798745669987",
+          "start": 12,
+          "url": "https://t.co/pPWY974GEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042597229505245234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042078798745669987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想好想好想要，好可爱 https://t.co/pPWY974GEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2042059471523082241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbaRSJa8AEal6Z.jpg",
+        "width": 1048
+      },
+      {
+        "height": 870,
+        "media_key": "3_2042059490544291840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbaSZAbkAA0srm.png",
+        "width": 750
+      },
+      {
+        "height": 870,
+        "media_key": "3_2042059504297373696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbaTMPa8AAGNZp.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042597229505245234",
+        "created_at": "2026-04-10T13:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042597229505245234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hobbysearch/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hobbysearch/status/2042078798745669987",
+              "start": 12,
+              "url": "https://t.co/pPWY974GEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042597229505245234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042078798745669987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想好想好想要，好可爱 https://t.co/pPWY974GEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042059471523082241",
+            "3_2042059490544291840",
+            "3_2042059504297373696"
+          ]
+        },
+        "author_id": "88636051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          }
+        ],
+        "conversation_id": "2042078798745669987",
+        "created_at": "2026-04-09T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042078798745669987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 132,
+              "start": 125,
+              "tag": "超てんちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1/7 超絶最かわてんしちゃん Anniversary Party Ver. (フィギュア) NEEDY GIRL OVERDOSE(ニーディーガールオーバードーズ) グッドスマイルカンパニー 186620 フィギュアを通販で販売しています。 超てんちゃんが華やかなパーティドレス姿で降臨！ インターネット・エンジェル超てんちゃんが「ニディガ展2」でお披露目したパーティドレス姿で登場です！ 羽のような曲線を描く特徴的なツインテールや、彩色によるオーロラのような光沢の表現など見どころたくさんです。 是非お手元にアナタだけの天使を降臨させてください♪",
+              "display_url": "1999.co.jp/11214035",
+              "end": 69,
+              "expanded_url": "https://www.1999.co.jp/11214035",
+              "images": [
+                {
+                  "height": 272,
+                  "url": "https://pbs.twimg.com/news_img/2042078801862029312/Qx4AjS4H?format=jpg&name=orig",
+                  "width": 224
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042078801862029312/Qx4AjS4H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "超絶最かわてんしちゃん Anniversary Party Ver. (フィギュア) - ホビーサーチ フィギュア",
+              "unwound_url": "https://www.1999.co.jp/11214035",
+              "url": "https://t.co/iKrugcH9OF"
+            },
+            {
+              "display_url": "pic.x.com/RQyNZWixgy",
+              "end": 156,
+              "expanded_url": "https://x.com/hobbysearch/status/2042078798745669987/photo/1",
+              "media_key": "3_2042059471523082241",
+              "start": 133,
+              "url": "https://t.co/RQyNZWixgy"
+            },
+            {
+              "display_url": "pic.x.com/RQyNZWixgy",
+              "end": 156,
+              "expanded_url": "https://x.com/hobbysearch/status/2042078798745669987/photo/1",
+              "media_key": "3_2042059490544291840",
+              "start": 133,
+              "url": "https://t.co/RQyNZWixgy"
+            },
+            {
+              "display_url": "pic.x.com/RQyNZWixgy",
+              "end": 156,
+              "expanded_url": "https://x.com/hobbysearch/status/2042078798745669987/photo/1",
+              "media_key": "3_2042059504297373696",
+              "start": 133,
+              "url": "https://t.co/RQyNZWixgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042078798745669987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "tag": "超てんちゃん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1999.co.jp/11214035",
+                "end": 69,
+                "expanded_url": "https://www.1999.co.jp/11214035",
+                "start": 46,
+                "url": "https://t.co/9FWLvLZhDs"
+              }
+            ]
+          },
+          "text": "超絶最かわてんしちゃん Anniversary Party Ver.\n\n🖥️予約受付中🖥️\nhttps://t.co/9FWLvLZhDs\nインターネット・エンジェル超てんちゃんが「ニディガ展2」でお披露目したパーティドレス姿で登場です！#ニディガ #超てんちゃん\n\n羽のような曲線を描く特徴的なツインテールや、彩色によるオーロラのような光沢の表現など見どころたくさんです。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 95841,
+          "like_count": 3749,
+          "quote_count": 131,
+          "reply_count": 4,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "超絶最かわてんしちゃん Anniversary Party Ver.\n\n🖥️予約受付中🖥️\nhttps://t.co/iKrugcH9OF\nインターネット・エンジェル超てんちゃんが「ニディガ展2」でお披露目したパーティドレス姿で登場です！#ニディガ #超てんちゃん https://t.co/RQyNZWixgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 666,
+          "like_count": 1621,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-09T10:24:30.000Z",
+        "description": "幅広いジャンルのホビーアイテムを取り扱う通販サイト「ホビーサーチ」の総合アカウントです。フィギュア・完成品・グッズなどの最新情報をお届けします！\n個別の返信は行っておりません。お問い合わせはサイトのお問い合わせフォーム(https://t.co/HUxuyDSMIW)よりお願いします。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1999.co.jp/contact",
+                "end": 133,
+                "expanded_url": "https://1999.co.jp/contact",
+                "start": 110,
+                "url": "https://t.co/HUxuyDSMIW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1999.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.1999.co.jp/",
+                "start": 0,
+                "url": "https://t.co/8tUgsLqF5P"
+              }
+            ]
+          }
+        },
+        "id": "88636051",
+        "location": "東京都文京区",
+        "name": "ホビーサーチ 総合",
+        "pinned_tweet_id": "2042439890718375989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966057343130689536/JHOXdf_-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36229,
+          "following_count": 13,
+          "like_count": 3263,
+          "listed_count": 689,
+          "media_count": 33055,
+          "tweet_count": 42115
+        },
+        "url": "https://t.co/8tUgsLqF5P",
+        "username": "hobbysearch",
+        "verified": true
+      }
+    ]
+  }
+}

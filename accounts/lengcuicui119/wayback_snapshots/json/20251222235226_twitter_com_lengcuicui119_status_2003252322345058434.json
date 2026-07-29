@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003125971772223488"
+      ],
+      "media_source_tweet_id": [
+        "2003125977225044314"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2003252322345058434",
+    "created_at": "2025-12-22T23:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T00:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003252322345058434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwpCDFXYhV",
+          "end": 37,
+          "expanded_url": "https://x.com/itsD3lay/status/2003125977225044314/photo/1",
+          "media_key": "3_2003125971772223488",
+          "start": 14,
+          "url": "https://t.co/iwpCDFXYhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003252322345058434",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1508
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003125977225044314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: https://t.co/iwpCDFXYhV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003252322345058434].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003252322345058434",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003252322345058434"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_2003125971772223488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8yIdVPXsAA4OB_.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003125971772223488"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2003125977225044314",
+        "created_at": "2025-12-22T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003125977225044314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwpCDFXYhV",
+              "end": 23,
+              "expanded_url": "https://x.com/itsD3lay/status/2003125977225044314/photo/1",
+              "media_key": "3_2003125971772223488",
+              "start": 0,
+              "url": "https://t.co/iwpCDFXYhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003125977225044314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 782,
+          "impression_count": 1030936,
+          "like_count": 29648,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 1508
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iwpCDFXYhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "讨厌玉米，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 407,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 140
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "curso: https://t.co/dxGNFPDiaQ //////////////\n\n📥 contacto: itsd3laybusiness@gmail.com📩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pablosans.gumroad.com/l/rgsva",
+                "end": 30,
+                "expanded_url": "https://pablosans.gumroad.com/l/rgsva",
+                "start": 7,
+                "url": "https://t.co/dxGNFPDiaQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2mu7"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "1533539294278733824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149388,
+          "following_count": 999,
+          "like_count": 765655,
+          "listed_count": 258,
+          "media_count": 18902,
+          "tweet_count": 71248
+        },
+        "url": "https://t.co/EjiUPH2mu7",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

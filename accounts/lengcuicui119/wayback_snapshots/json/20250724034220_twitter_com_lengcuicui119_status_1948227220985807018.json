@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928228479553675264",
+        "13_1928228582347714560",
+        "13_1928228731476140032",
+        "13_1928229065120534528"
+      ],
+      "media_source_tweet_id": [
+        "1928979814926483525",
+        "1928979814926483525",
+        "1928979814926483525",
+        "1928979814926483525"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948227220985807018",
+    "created_at": "2025-07-24T03:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T04:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948227220985807018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253338331015901184",
+          "start": 3,
+          "username": "yueyue0888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5WwdZB2dlN",
+          "end": 47,
+          "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+          "media_key": "13_1928228479553675264",
+          "start": 24,
+          "url": "https://t.co/5WwdZB2dlN"
+        },
+        {
+          "display_url": "pic.x.com/5WwdZB2dlN",
+          "end": 47,
+          "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+          "media_key": "13_1928228582347714560",
+          "start": 24,
+          "url": "https://t.co/5WwdZB2dlN"
+        },
+        {
+          "display_url": "pic.x.com/5WwdZB2dlN",
+          "end": 47,
+          "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+          "media_key": "13_1928228731476140032",
+          "start": 24,
+          "url": "https://t.co/5WwdZB2dlN"
+        },
+        {
+          "display_url": "pic.x.com/5WwdZB2dlN",
+          "end": 47,
+          "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+          "media_key": "13_1928229065120534528",
+          "start": 24,
+          "url": "https://t.co/5WwdZB2dlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948227220985807018",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2294
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931159580660400317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyue0888: Chudai🍆🍌https://t.co/5WwdZB2dlN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948227220985807018].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948227220985807018",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948227220985807018"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1216286,
+        "height": 720,
+        "media_key": "13_1928228479553675264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928228479553675264/img/H-HJLhdk9uwRd2B6.jpg",
+        "public_metrics": {
+          "view_count": 1415137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228479553675264/vid/avc1/480x270/xyaQjQRhDWW9DRQp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228479553675264/vid/avc1/640x360/Gf9sS1BO7FcOmKF-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228479553675264/vid/avc1/1280x720/jy_-HiYaKKizWQ1t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928228479553675264/pl/-vIvqQqFNa21X3uo.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 1010371,
+        "height": 720,
+        "media_key": "13_1928228582347714560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928228582347714560/img/lpQKvoF9yETIamzI.jpg",
+        "public_metrics": {
+          "view_count": 153244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228582347714560/vid/avc1/480x270/aLHE3dFzbhE4CVOe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228582347714560/vid/avc1/640x360/QwjVrwVVjnouLQC1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228582347714560/vid/avc1/1280x720/pnLfJdgypqLF5kV3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928228582347714560/pl/DFuS1mEn0rm6X8cn.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 862739,
+        "height": 720,
+        "media_key": "13_1928228731476140032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928228731476140032/img/6CgNcoNTmBXMcBuS.jpg",
+        "public_metrics": {
+          "view_count": 186167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228731476140032/vid/avc1/480x270/Ft30q2xi82OQwOJ_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228731476140032/vid/avc1/640x360/stjgGSsC9tZEeBj_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928228731476140032/vid/avc1/1280x720/b8_vYyAdRE-Ry7iX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928228731476140032/pl/FVfJd5vgku7hdFbg.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 1618341,
+        "height": 720,
+        "media_key": "13_1928229065120534528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928229065120534528/img/A3_LPO2D955bKBkx.jpg",
+        "public_metrics": {
+          "view_count": 201002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928229065120534528/vid/avc1/480x270/H3-U9Ar9S0XIuOFS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928229065120534528/vid/avc1/640x360/us_V-_-6GWYsNfD9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928229065120534528/vid/avc1/1280x720/jTapX6eWp3XasaZu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928229065120534528/pl/-qisbnshE-ZkZbxT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928228479553675264",
+            "13_1928228582347714560",
+            "13_1928228731476140032",
+            "13_1928229065120534528"
+          ],
+          "media_source_tweet_id": [
+            "1928979814926483525",
+            "1928979814926483525",
+            "1928979814926483525",
+            "1928979814926483525"
+          ]
+        },
+        "author_id": "1253338331015901184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931159580660400317",
+        "created_at": "2025-06-07T01:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T02:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931159580660400317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WwdZB2dlN",
+              "end": 31,
+              "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+              "media_key": "13_1928228479553675264",
+              "start": 8,
+              "url": "https://t.co/5WwdZB2dlN"
+            },
+            {
+              "display_url": "pic.x.com/5WwdZB2dlN",
+              "end": 31,
+              "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+              "media_key": "13_1928228582347714560",
+              "start": 8,
+              "url": "https://t.co/5WwdZB2dlN"
+            },
+            {
+              "display_url": "pic.x.com/5WwdZB2dlN",
+              "end": 31,
+              "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+              "media_key": "13_1928228731476140032",
+              "start": 8,
+              "url": "https://t.co/5WwdZB2dlN"
+            },
+            {
+              "display_url": "pic.x.com/5WwdZB2dlN",
+              "end": 31,
+              "expanded_url": "https://x.com/MarleyOrri19111/status/1928979814926483525/video/1",
+              "media_key": "13_1928229065120534528",
+              "start": 8,
+              "url": "https://t.co/5WwdZB2dlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931159580660400317",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6678,
+          "impression_count": 997510,
+          "like_count": 17076,
+          "quote_count": 9,
+          "reply_count": 78,
+          "retweet_count": 2294
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai🍆🍌https://t.co/5WwdZB2dlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 304,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T15:02:30.000Z",
+        "description": "🎀 NSFW18＋🔞 严格遵守Twitter规则💖 （月月是喜欢直播，喜欢自拍的博主）喜欢有点色色会玩的宝子🍧欢迎关注💕 私信不常看，随缘回复💕",
+        "id": "1253338331015901184",
+        "location": "TG必备的搜索引擎，极搜JISOU ",
+        "name": "阳夕月",
+        "pinned_tweet_id": "1947548328151158815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739933899906580480/l8ii448j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207087,
+          "following_count": 24,
+          "like_count": 118,
+          "listed_count": 356,
+          "media_count": 50,
+          "tweet_count": 243
+        },
+        "username": "yueyue0888",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

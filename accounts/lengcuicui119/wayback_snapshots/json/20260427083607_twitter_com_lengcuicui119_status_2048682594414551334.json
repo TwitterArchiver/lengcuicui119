@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048358139121340416"
+      ],
+      "media_source_tweet_id": [
+        "2048358146171892010"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048682594414551334",
+    "created_at": "2026-04-27T08:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048682594414551334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "絵師100人展"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "935775260082765824",
+          "start": 3,
+          "username": "Hitoimim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9jSg4uHJO",
+          "end": 48,
+          "expanded_url": "https://x.com/Hitoimim/status/2048358146171892010/photo/1",
+          "media_key": "3_2048358139121340416",
+          "start": 25,
+          "url": "https://t.co/x9jSg4uHJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048682594414551334",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048358146171892010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hitoimim: 💫　#絵師100人展 https://t.co/x9jSg4uHJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3092,
+        "media_key": "3_2048358139121340416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG063_cbkAAI8KE.jpg",
+        "width": 2413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048358139121340416"
+          ],
+          "media_source_tweet_id": [
+            "2048358146171892010"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048682594414551334",
+        "created_at": "2026-04-27T08:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048682594414551334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "絵師100人展"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "935775260082765824",
+              "start": 3,
+              "username": "Hitoimim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9jSg4uHJO",
+              "end": 48,
+              "expanded_url": "https://x.com/Hitoimim/status/2048358146171892010/photo/1",
+              "media_key": "3_2048358139121340416",
+              "start": 25,
+              "url": "https://t.co/x9jSg4uHJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048682594414551334",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048358146171892010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hitoimim: 💫　#絵師100人展 https://t.co/x9jSg4uHJO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048358139121340416"
+          ]
+        },
+        "author_id": "935775260082765824",
+        "conversation_id": "2048358146171892010",
+        "created_at": "2026-04-26T11:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048358146171892010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 2,
+              "tag": "絵師100人展"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9jSg4uHJO",
+              "end": 34,
+              "expanded_url": "https://x.com/Hitoimim/status/2048358146171892010/photo/1",
+              "media_key": "3_2048358139121340416",
+              "start": 11,
+              "url": "https://t.co/x9jSg4uHJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048358146171892010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1919,
+          "impression_count": 375785,
+          "like_count": 27301,
+          "quote_count": 25,
+          "reply_count": 52,
+          "retweet_count": 2307
+        },
+        "reply_settings": "everyone",
+        "text": "💫　#絵師100人展 https://t.co/x9jSg4uHJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 797,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T07:39:42.000Z",
+        "description": "絵描きます。 FANBOX: https://t.co/dTV4ythHx8 グッズ:https://t.co/gmvz3biAwG skeb(停止中): https://t.co/JmNEqakvlp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hitokomo.fanbox.cc",
+                "end": 38,
+                "expanded_url": "https://hitokomo.fanbox.cc/",
+                "start": 15,
+                "url": "https://t.co/dTV4ythHx8"
+              },
+              {
+                "display_url": "hitokomoru.booth.pm",
+                "end": 66,
+                "expanded_url": "https://hitokomoru.booth.pm/",
+                "start": 43,
+                "url": "https://t.co/gmvz3biAwG"
+              },
+              {
+                "display_url": "skeb.jp/@Hitoimim",
+                "end": 101,
+                "expanded_url": "https://skeb.jp/@Hitoimim",
+                "start": 78,
+                "url": "https://t.co/JmNEqakvlp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=30837811",
+                "start": 0,
+                "url": "https://t.co/bAw2oGgx70"
+              }
+            ]
+          }
+        },
+        "id": "935775260082765824",
+        "name": "ヒトこもる",
+        "pinned_tweet_id": "1388423863315304452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760950169435328512/_6dHoc18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441224,
+          "following_count": 376,
+          "like_count": 13372,
+          "listed_count": 3530,
+          "media_count": 278,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/bAw2oGgx70",
+        "username": "Hitoimim",
+        "verified": false
+      }
+    ]
+  }
+}

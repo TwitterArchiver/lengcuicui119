@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1862732043135733760"
+      ],
+      "media_source_tweet_id": [
+        "1862732328680005715"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1963844067155947563",
+    "created_at": "2025-09-05T05:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T06:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963844067155947563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677961600693846017",
+          "start": 3,
+          "username": "Baobeinaibai"
+        },
+        {
+          "end": 53,
+          "id": "1824294005578084352",
+          "start": 41,
+          "username": "RLWJ_kuking"
+        },
+        {
+          "end": 65,
+          "id": "1729468892483903488",
+          "start": 55,
+          "username": "JWCJ_kuxs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WdpxtaWjbp",
+          "end": 89,
+          "expanded_url": "https://x.com/Baobeinaibai/status/1862732328680005715/video/1",
+          "media_key": "13_1862732043135733760",
+          "start": 66,
+          "url": "https://t.co/WdpxtaWjbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963844067155947563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2209
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862732328680005715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baobeinaibai: 抽插特写,这个姿势水💦一直从大腿流到脚底了🥹\n@RLWJ_kuking \n@JWCJ_kuxs https://t.co/WdpxtaWjbp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963844067155947563].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963844067155947563",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963844067155947563"
+    },
+    {
+      "detail": "User has been suspended: [RLWJ_kuking].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "RLWJ_kuking",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "RLWJ_kuking"
+    },
+    {
+      "detail": "User has been suspended: [JWCJ_kuxs].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "JWCJ_kuxs",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "JWCJ_kuxs"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 214533,
+        "height": 1080,
+        "media_key": "13_1862732043135733760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1862732043135733760/img/XsVKVB6jefNX0MaW.jpg",
+        "public_metrics": {
+          "view_count": 873524
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1862732043135733760/pl/oLloS5DMbaVxu7ro.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862732043135733760/vid/avc1/1280x720/HFxKOhExwzfUBtdh.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862732043135733760/vid/avc1/1920x1080/tvWM649eq5f_fLkg.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862732043135733760/vid/avc1/640x360/-l2NzU2gPIXi9cS-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862732043135733760/vid/avc1/480x270/T-w2Rr4bCsiTiwO_.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1862732043135733760"
+          ]
+        },
+        "author_id": "1677961600693846017",
+        "conversation_id": "1862732328680005715",
+        "created_at": "2024-11-30T05:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T06:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862732328680005715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1824294005578084352",
+              "start": 23,
+              "username": "RLWJ_kuking"
+            },
+            {
+              "end": 47,
+              "id": "1729468892483903488",
+              "start": 37,
+              "username": "JWCJ_kuxs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdpxtaWjbp",
+              "end": 71,
+              "expanded_url": "https://x.com/Baobeinaibai/status/1862732328680005715/video/1",
+              "media_key": "13_1862732043135733760",
+              "start": 48,
+              "url": "https://t.co/WdpxtaWjbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862732328680005715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8337,
+          "impression_count": 2812943,
+          "like_count": 18980,
+          "quote_count": 16,
+          "reply_count": 50,
+          "retweet_count": 2209
+        },
+        "reply_settings": "everyone",
+        "text": "抽插特写,这个姿势水💦一直从大腿流到脚底了🥹\n@RLWJ_kuking \n@JWCJ_kuxs https://t.co/WdpxtaWjbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 349,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T08:43:23.000Z",
+        "description": "168/52kg粉嫩天花板/越粉嫩含水量越高💕/纯享版点媒体/全球🌍伴游👉@hkvip888/（无门槛无盈利纯分享）推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "hkvip888"
+              }
+            ]
+          }
+        },
+        "id": "1677961600693846017",
+        "name": "宝贝奶白💖",
+        "pinned_tweet_id": "1963561105122361743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793168655951499264/lgjebIAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112155,
+          "following_count": 222,
+          "like_count": 970,
+          "listed_count": 2449,
+          "media_count": 197,
+          "tweet_count": 403
+        },
+        "username": "Baobeinaibai",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

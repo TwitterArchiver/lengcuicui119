@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2021539515689812398",
+    "created_at": "2026-02-12T03:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021796015058432251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761208815088001024",
+          "start": 0,
+          "username": "_Bad_Meow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021796015058432251",
+    "in_reply_to_user_id": "1761208815088001024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021539515689812398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Bad_Meow_ pr很安眠呐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2021539515689812398",
+        "created_at": "2026-02-12T03:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021796015058432251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761208815088001024",
+              "start": 0,
+              "username": "_Bad_Meow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021796015058432251",
+        "in_reply_to_user_id": "1761208815088001024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021539515689812398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Bad_Meow_ pr很安眠呐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761208815088001024",
+        "conversation_id": "2021539515689812398",
+        "created_at": "2026-02-11T10:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021539515689812398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021539515689812398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 995,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完普瑞的七小时后感觉极度困倦正常吗（）那时候吃席接近尾声了，但我们停了一会儿才回家。我困得在沙发上躺着睡，靠着我妈肩膀睡，蹲在地上睡，在车里睡（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 394,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复！‼️︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2021332147970376169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 443,
+          "like_count": 2991,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

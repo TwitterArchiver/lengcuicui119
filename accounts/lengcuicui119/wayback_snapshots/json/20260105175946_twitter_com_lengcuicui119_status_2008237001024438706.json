@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2008237001024438706",
+    "created_at": "2026-01-05T17:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T18:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008237001024438706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008237001024438706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白兔自带咖啡因有点猛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2008237001024438706",
+        "created_at": "2026-01-05T17:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008237001024438706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008237001024438706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔自带咖啡因有点猛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容/二三涉/请自行避雷🥰/欢迎互fo",
+        "id": "1455784742922555395",
+        "name": "想死就o百草枯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 375,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 163
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

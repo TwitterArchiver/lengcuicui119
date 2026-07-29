@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042569487363510605",
+    "created_at": "2026-04-10T11:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042569487363510605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alistai3395529…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/alistai33955292/status/2042559354436719086",
+          "start": 5,
+          "url": "https://t.co/YU1hF1ltXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042569487363510605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042559354436719086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃转帖 https://t.co/YU1hF1ltXM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042569487363510605",
+        "created_at": "2026-04-10T11:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042569487363510605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alistai3395529…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/alistai33955292/status/2042559354436719086",
+              "start": 5,
+              "url": "https://t.co/YU1hF1ltXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042569487363510605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042559354436719086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃转帖 https://t.co/YU1hF1ltXM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2042559354436719086",
+        "created_at": "2026-04-10T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042559354436719086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042559354436719086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我想和更多餐券妹od妹互fo……求转呀谢谢！🥺❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 663,
+          "like_count": 1561,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038590475792510976/EraPdm2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 386,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      }
+    ]
+  }
+}

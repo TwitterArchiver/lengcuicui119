@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043585000923435099",
+    "created_at": "2026-04-13T07:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043591369411953071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043591369411953071",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043585000923435099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 直接吃就ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043585000923435099",
+        "created_at": "2026-04-13T07:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043591369411953071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043591369411953071",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043585000923435099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 直接吃就ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800150674761728000",
+        "conversation_id": "2043585000923435099",
+        "created_at": "2026-04-13T07:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043585000923435099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043585000923435099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多给我开了一个安非他酮，这个怎么还可以辅助戒烟👽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 748,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜2011｜mostly nonsense｜some fanart ｜Think twice before you follow⚠️sh/od｜中文/EN🤏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq89065",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwq89065",
+                "start": 0,
+                "url": "https://t.co/B0VUQT66x1"
+              }
+            ]
+          }
+        },
+        "id": "1800150674761728000",
+        "location": "my room",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 649,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/B0VUQT66x1",
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

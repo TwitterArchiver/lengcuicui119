@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026104730867613696"
+      ],
+      "media_source_tweet_id": [
+        "2026104819598110838"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026165709303386514",
+    "created_at": "2026-02-24T05:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T06:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026165709303386514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1742117048371871744",
+          "start": 3,
+          "username": "Itsinayarose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTCt3PN0S0",
+          "end": 70,
+          "expanded_url": "https://x.com/Itsinayarose/status/2026104819598110838/video/1",
+          "media_key": "13_2026104730867613696",
+          "start": 47,
+          "url": "https://t.co/kTCt3PN0S0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026165709303386514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026104819598110838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Itsinayarose: 「大人向けのhentai動画は下のリンク先で公開中♡ 🔞 https://t.co/kTCt3PN0S0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026165709303386514].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026165709303386514",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026165709303386514"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 330751,
+        "height": 480,
+        "media_key": "13_2026104730867613696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026104730867613696/img/oufdUoYIjjoWQRmR.jpg",
+        "public_metrics": {
+          "view_count": 2550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026104730867613696/vid/avc1/478x270/miUupd7d9jglXRb3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026104730867613696/vid/avc1/638x360/Poqm5KU_4pPZdEdY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026104730867613696/vid/avc1/852x480/LnfBquyeD_WSDseP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026104730867613696/pl/120gTj9p2pTBpv9J.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026104730867613696"
+          ]
+        },
+        "author_id": "1742117048371871744",
+        "conversation_id": "2026104819598110838",
+        "created_at": "2026-02-24T01:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026104819598110838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTCt3PN0S0",
+              "end": 52,
+              "expanded_url": "https://x.com/Itsinayarose/status/2026104819598110838/video/1",
+              "media_key": "13_2026104730867613696",
+              "start": 29,
+              "url": "https://t.co/kTCt3PN0S0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026104819598110838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 4237,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "「大人向けのhentai動画は下のリンク先で公開中♡ 🔞 https://t.co/kTCt3PN0S0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 422,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:34:13.000Z",
+        "description": "エッチなアニメが大好きで、二次元の世界に夢中です 🔞",
+        "id": "1742117048371871744",
+        "location": "Japan",
+        "name": "ひな69",
+        "pinned_tweet_id": "2026104819598110838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025172070704050176/JtsydAlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7226,
+          "following_count": 5561,
+          "like_count": 14972,
+          "listed_count": 26,
+          "media_count": 103,
+          "tweet_count": 12601
+        },
+        "username": "Itsinayarose",
+        "verified": true
+      }
+    ]
+  }
+}

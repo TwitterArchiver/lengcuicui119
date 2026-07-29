@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2036033415934525938",
+    "created_at": "2026-03-23T10:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036033415934525938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763878677522337792",
+          "start": 3,
+          "username": "PhonyR42250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036033415934525938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035983452462624914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhonyR42250: 更新一点tips吧\n①4Ho可以看做🍄普通型，4ACO是增强型\n②迷幻剂都有迭代时间，为7-15天，期间尽量不要od/服用其他迷幻剂\n③止吐药应当在服用迷幻剂前半小时服下，目前推荐昂丹司琼和甲氧氯普胺\n④上升是4ketopcp，一种解离剂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2036033415934525938",
+        "created_at": "2026-03-23T10:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036033415934525938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763878677522337792",
+              "start": 3,
+              "username": "PhonyR42250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036033415934525938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035983452462624914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhonyR42250: 更新一点tips吧\n①4Ho可以看做🍄普通型，4ACO是增强型\n②迷幻剂都有迭代时间，为7-15天，期间尽量不要od/服用其他迷幻剂\n③止吐药应当在服用迷幻剂前半小时服下，目前推荐昂丹司琼和甲氧氯普胺\n④上升是4ketopcp，一种解离剂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763878677522337792",
+        "conversation_id": "2035983452462624914",
+        "created_at": "2026-03-23T07:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035983452462624914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035983452462624914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "更新一点tips吧\n①4Ho可以看做🍄普通型，4ACO是增强型\n②迷幻剂都有迭代时间，为7-15天，期间尽量不要od/服用其他迷幻剂\n③止吐药应当在服用迷幻剂前半小时服下，目前推荐昂丹司琼和甲氧氯普胺\n④上升是4ketopcp，一种解离剂\n⑤dpt的服用一般建议直肠使用或者肌肉注射，鼻吸会导致高刺激性，口服效力减弱\n⑥建议找到一个安静可以冥想的空间后再服用迷幻剂，效果更佳\n⑦每种迷幻剂会因为人的体质不同，生效时间，作用时间和作用烈度都会有所变化，高体重需要高剂量\n⑧4homet，dpt属于非列管药物，请放心购买\n⑨🍄和🌵只负责启灵\n暂时能想到这么多，如果后续还有会补充在评论区"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 188,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "更新一点tips吧\n①4Ho可以看做🍄普通型，4ACO是增强型\n②迷幻剂都有迭代时间，为7-15天，期间尽量不要od/服用其他迷幻剂\n③止吐药应当在服用迷幻剂前半小时服下，目前推荐昂丹司琼和甲氧氯普胺\n④上升是4ketopcp，一种解离剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 717,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T10:47:13.000Z",
+        "description": "⭐只是旅行者罢了，把我说过的一切都当做梦呓吧⭐\n⭐无性别者⭐\n⭐对象@sunset__3000美工很好有需要可以找她⭐\n⭐#odtwt⭐\n⭐#shtwt⭐\n⭐TG:HsHnFR⭐\n⭐🌵🍄售卖中⭐\n⭐上升售卖中⭐\n⭐dpt售卖中⭐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "odtwt"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "1763878677522337792",
+        "name": "ヰ世界优泠#参宿七#五代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035476029503090688/8ywyug9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 22,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "PhonyR42250",
+        "verified": true
+      }
+    ]
+  }
+}

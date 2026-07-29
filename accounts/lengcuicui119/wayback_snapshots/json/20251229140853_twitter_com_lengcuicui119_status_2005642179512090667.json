@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005642169860919296"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2005642179512090667",
+    "created_at": "2025-12-29T14:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T15:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005642179512090667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/baIz8CqP1u",
+          "end": 27,
+          "expanded_url": "https://x.com/lengcuicui119/status/2005642179512090667/photo/1",
+          "media_key": "3_2005642169860919296",
+          "start": 4,
+          "url": "https://t.co/baIz8CqP1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005642179512090667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美味😋 https://t.co/baIz8CqP1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005642169860919296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V47VkakAAQQQT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005642169860919296"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005642179512090667",
+        "created_at": "2025-12-29T14:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005642179512090667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baIz8CqP1u",
+              "end": 27,
+              "expanded_url": "https://x.com/lengcuicui119/status/2005642179512090667/photo/1",
+              "media_key": "3_2005642169860919296",
+              "start": 4,
+              "url": "https://t.co/baIz8CqP1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005642179512090667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味😋 https://t.co/baIz8CqP1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "讨厌玉米，微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 414,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 154
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

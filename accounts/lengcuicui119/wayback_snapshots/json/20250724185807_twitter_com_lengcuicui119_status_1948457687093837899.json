@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "1948457687093837899",
+    "created_at": "2025-07-24T18:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T19:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948457687093837899"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "doi日记"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "doi实录"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1795945929264246784",
+          "start": 3,
+          "username": "Liuleimaomaoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948457687093837899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880602323317338446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liuleimaomaoo: #doi日记 #doi实录 \n续集来了，上次被老公用假唧唧艹昏后，紧接着他就进来了，虽然感觉确实没有假唧唧大，但真人就是更爽啊\n视频拍的太色了，我的水一边啪一边流，拍的好清楚，导致我一度以为，是他已经射了…\n\n（生理期又来了 戒推一周😴）…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948457687093837899].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948457687093837899",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948457687093837899"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 125666,
+        "height": 1280,
+        "media_key": "7_1880602054269485056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1880602054269485056/pu/img/aC9OuP1wXwwOoQgN.jpg",
+        "public_metrics": {
+          "view_count": 506861
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880602054269485056/pu/vid/avc1/320x568/yNoDQIeaDBdceGNd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880602054269485056/pu/vid/avc1/480x852/ryIiOG-hXvLdtsNC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880602054269485056/pu/vid/avc1/720x1280/voLztOYUATYDDENN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1880602054269485056/pu/pl/xBKQWv84RmyXkqs0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880602054269485056"
+          ]
+        },
+        "author_id": "1795945929264246784",
+        "conversation_id": "1880602323317338446",
+        "created_at": "2025-01-18T13:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880602323317338446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "doi日记"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "doi实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Kgr9BITJI",
+              "end": 143,
+              "expanded_url": "https://x.com/Liuleimaomaoo/status/1880602323317338446/video/1",
+              "media_key": "7_1880602054269485056",
+              "start": 120,
+              "url": "https://t.co/7Kgr9BITJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880602323317338446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1640,
+          "impression_count": 992305,
+          "like_count": 5822,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "#doi日记 #doi实录 \n续集来了，上次被老公用假唧唧艹昏后，紧接着他就进来了，虽然感觉确实没有假唧唧大，但真人就是更爽啊\n视频拍的太色了，我的水一边啪一边流，拍的好清楚，导致我一度以为，是他已经射了…\n\n（生理期又来了 戒推一周😴） https://t.co/7Kgr9BITJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 303,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T22:31:00.000Z",
+        "description": "和老公的涩涩日记本｜小号:@Maomaoxiaoo｜禁视频下载🤖一律拉黑｜❌推广｜经常被问到的问题添加至亮点｜【🍑淘宝：猫猫的Roomie】关注店铺可领专属优惠｜围脖：Roomie日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Maomaoxiaoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.h73hPnJOG6ci…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.h73hPnJOG6cizDW",
+                "start": 0,
+                "url": "https://t.co/ptFYFdHl4d"
+              }
+            ]
+          }
+        },
+        "id": "1795945929264246784",
+        "location": "猫猫的Roomie🍑小店➡️",
+        "name": "流泪猫猫头",
+        "pinned_tweet_id": "1945808626251427944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868710074107277312/RkzbpRZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412440,
+          "following_count": 36,
+          "like_count": 411,
+          "listed_count": 622,
+          "media_count": 203,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/ptFYFdHl4d",
+        "username": "Liuleimaomaoo",
+        "verified": true
+      }
+    ]
+  }
+}

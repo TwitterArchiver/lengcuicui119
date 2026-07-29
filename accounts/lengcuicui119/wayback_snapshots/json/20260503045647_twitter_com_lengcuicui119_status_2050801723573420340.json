@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050801703918936065"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2050801723573420340",
+    "created_at": "2026-05-03T04:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T05:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050801723573420340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z3Qc4G9svD",
+          "end": 30,
+          "expanded_url": "https://x.com/lengcuicui119/status/2050801723573420340/photo/1",
+          "media_key": "3_2050801703918936065",
+          "start": 7,
+          "url": "https://t.co/Z3Qc4G9svD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050801723573420340",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "get！！！ https://t.co/Z3Qc4G9svD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050801723573420340].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050801723573420340",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050801723573420340"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050801703918936065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXpSLraoAEchWr.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，有问题请私信，评论发不出去，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 815,
+          "like_count": 2711,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2281
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

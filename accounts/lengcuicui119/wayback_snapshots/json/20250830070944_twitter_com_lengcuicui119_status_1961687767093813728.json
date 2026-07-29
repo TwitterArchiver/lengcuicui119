@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961662947639631872"
+      ],
+      "media_source_tweet_id": [
+        "1961665255916097666"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1961687767093813728",
+    "created_at": "2025-08-30T07:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961687767093813728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806989646314016768",
+          "start": 3,
+          "username": "swtlymcl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyNtoTUz98",
+          "end": 45,
+          "expanded_url": "https://x.com/swtlymcl/status/1961665255916097666/video/1",
+          "media_key": "13_1961662947639631872",
+          "start": 22,
+          "url": "https://t.co/uyNtoTUz98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961687767093813728",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961665255916097666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swtlymcl: chudai🤤 https://t.co/uyNtoTUz98"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961687767093813728].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961687767093813728",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961687767093813728"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 545100,
+        "height": 1920,
+        "media_key": "13_1961662947639631872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961662947639631872/img/7gmFg64TLmE0_93s.jpg",
+        "public_metrics": {
+          "view_count": 5405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961662947639631872/pl/HrxgjGd9JcXXTT0s.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961662947639631872/vid/avc1/1080x1920/RiLFZO82XJyMQ9qR.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961662947639631872/vid/avc1/480x852/1TfBRf3scrotWvnj.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961662947639631872/vid/avc1/320x568/O2GKuZHnRa_aEanY.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961662947639631872/vid/avc1/720x1280/5zUoZnMjwCxG7SAt.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961662947639631872"
+          ]
+        },
+        "author_id": "1806989646314016768",
+        "conversation_id": "1961665255916097666",
+        "created_at": "2025-08-30T05:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T06:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961665255916097666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyNtoTUz98",
+              "end": 31,
+              "expanded_url": "https://x.com/swtlymcl/status/1961665255916097666/video/1",
+              "media_key": "13_1961662947639631872",
+              "start": 8,
+              "url": "https://t.co/uyNtoTUz98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961665255916097666",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 21337,
+          "like_count": 768,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "chudai🤤 https://t.co/uyNtoTUz98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 344,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T09:54:51.000Z",
+        "description": "一名00后混血girl😊爱分享日常～你的赛博女友💋有独特XP|喜欢角色扮演，评论区坐标可✈️请关注不迷路～",
+        "id": "1806989646314016768",
+        "location": "距离你99km",
+        "name": "kiss🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824370155864162304/R-ghfgZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450175,
+          "following_count": 9,
+          "like_count": 124,
+          "listed_count": 1123,
+          "media_count": 70,
+          "tweet_count": 182
+        },
+        "username": "swtlymcl",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

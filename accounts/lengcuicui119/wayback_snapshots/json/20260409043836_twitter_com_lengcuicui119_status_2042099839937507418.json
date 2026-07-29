@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041808763343269890",
+        "3_2041808763347464195"
+      ],
+      "media_source_tweet_id": [
+        "2041808772721750304",
+        "2041808772721750304"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042099839937507418",
+    "created_at": "2026-04-09T04:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042099839937507418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739141125448077312",
+          "start": 3,
+          "username": "baburori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txBGuTlgYg",
+          "end": 40,
+          "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+          "media_key": "3_2041808763343269890",
+          "start": 17,
+          "url": "https://t.co/txBGuTlgYg"
+        },
+        {
+          "display_url": "pic.x.com/txBGuTlgYg",
+          "end": 40,
+          "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+          "media_key": "3_2041808763347464195",
+          "start": 17,
+          "url": "https://t.co/txBGuTlgYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042099839937507418",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041808772721750304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @baburori: 🧬🍬 https://t.co/txBGuTlgYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041808763343269890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFX2QJZa8AI1KC1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041808763347464195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFX2QJaa8AMUNio.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041808763343269890",
+            "3_2041808763347464195"
+          ],
+          "media_source_tweet_id": [
+            "2041808772721750304",
+            "2041808772721750304"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042099839937507418",
+        "created_at": "2026-04-09T04:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042099839937507418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739141125448077312",
+              "start": 3,
+              "username": "baburori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txBGuTlgYg",
+              "end": 40,
+              "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+              "media_key": "3_2041808763343269890",
+              "start": 17,
+              "url": "https://t.co/txBGuTlgYg"
+            },
+            {
+              "display_url": "pic.x.com/txBGuTlgYg",
+              "end": 40,
+              "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+              "media_key": "3_2041808763347464195",
+              "start": 17,
+              "url": "https://t.co/txBGuTlgYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042099839937507418",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041808772721750304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @baburori: 🧬🍬 https://t.co/txBGuTlgYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041808763343269890",
+            "3_2041808763347464195"
+          ]
+        },
+        "author_id": "1739141125448077312",
+        "conversation_id": "2041808772721750304",
+        "created_at": "2026-04-08T09:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041808772721750304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txBGuTlgYg",
+              "end": 26,
+              "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+              "media_key": "3_2041808763343269890",
+              "start": 3,
+              "url": "https://t.co/txBGuTlgYg"
+            },
+            {
+              "display_url": "pic.x.com/txBGuTlgYg",
+              "end": 26,
+              "expanded_url": "https://x.com/baburori/status/2041808772721750304/photo/1",
+              "media_key": "3_2041808763347464195",
+              "start": 3,
+              "url": "https://t.co/txBGuTlgYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041808772721750304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 26726,
+          "like_count": 3822,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🧬🍬 https://t.co/txBGuTlgYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 649,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T04:29:53.000Z",
+        "description": "あなたの可愛いを守り抜きたい https://t.co/l6FL7DdYtQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/baburori",
+                "end": 38,
+                "expanded_url": "https://lit.link/baburori",
+                "start": 15,
+                "url": "https://t.co/l6FL7DdYtQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baburori",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@baburori",
+                "start": 0,
+                "url": "https://t.co/5kcuEFcOjo"
+              }
+            ]
+          }
+        },
+        "id": "1739141125448077312",
+        "name": "🎀ばぶみろりこ💖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040713202670190592/mV2O60AE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4927,
+          "following_count": 49,
+          "like_count": 1516,
+          "listed_count": 18,
+          "media_count": 160,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/5kcuEFcOjo",
+        "username": "baburori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042598753664987136"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042596437322797295",
+    "created_at": "2026-04-10T13:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042598760111636600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCHdaAleex",
+          "end": 48,
+          "expanded_url": "https://x.com/lengcuicui119/status/2042598760111636600/photo/1",
+          "media_key": "3_2042598753664987136",
+          "start": 25,
+          "url": "https://t.co/oCHdaAleex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042598760111636600",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042596437322797295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 巧了。。我也。。 https://t.co/oCHdaAleex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042598753664987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjEvorbcAAzXST.jpg",
+        "width": 943
+      },
+      {
+        "height": 877,
+        "media_key": "3_2042596433786998788",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjComdakAQ6nC6.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042598753664987136"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042596437322797295",
+        "created_at": "2026-04-10T13:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042598760111636600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCHdaAleex",
+              "end": 48,
+              "expanded_url": "https://x.com/lengcuicui119/status/2042598760111636600/photo/1",
+              "media_key": "3_2042598753664987136",
+              "start": 25,
+              "url": "https://t.co/oCHdaAleex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042598760111636600",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596437322797295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 巧了。。我也。。 https://t.co/oCHdaAleex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042596433786998788"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042596437322797295",
+        "created_at": "2026-04-10T13:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042596437322797295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KnoD1t3Lq",
+              "end": 41,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2042596437322797295/photo/1",
+              "media_key": "3_2042596433786998788",
+              "start": 18,
+              "url": "https://t.co/6KnoD1t3Lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596437322797295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯。。原来我就是大家口中的小众b吗 https://t.co/6KnoD1t3Lq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 668,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1502
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo(关注的全是fo我的)/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1040,
+          "like_count": 2721,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

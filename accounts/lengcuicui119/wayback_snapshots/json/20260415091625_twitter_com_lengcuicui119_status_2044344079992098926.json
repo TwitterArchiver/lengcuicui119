@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2044329339635019811",
+    "created_at": "2026-04-15T09:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044344079992098926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044344079992098926",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044329339635019811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 好好玩的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7253,
+        "height": 1280,
+        "media_key": "13_2044328875984134144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044328875984134144/img/E0u0mmzpRDZm-lRE.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044328875984134144/vid/avc1/320x568/I13GphUWIIGLAM1P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044328875984134144/vid/avc1/480x852/VI8e-gbcq4ahEnWE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044328875984134144/vid/avc1/720x1280/35kluKftZqtSXgI8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044328875984134144/pl/ady4leGH7YSSAGMe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2044329339635019811",
+        "created_at": "2026-04-15T09:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044344079992098926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044344079992098926",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044329339635019811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 好好玩的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044328875984134144"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2044329339635019811",
+        "created_at": "2026-04-15T08:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044329339635019811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5zk97ExfZ",
+              "end": 43,
+              "expanded_url": "https://x.com/pyke2076/status/2044329339635019811/video/1",
+              "media_key": "13_2044328875984134144",
+              "start": 20,
+              "url": "https://t.co/y5zk97ExfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044329339635019811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你他妈在干嘛，旋转不是这样旋转啊🙀🙀🙀 https://t.co/y5zk97ExfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 783,
+          "like_count": 2381,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2043293076777742734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8154,
+          "following_count": 1186,
+          "like_count": 64615,
+          "listed_count": 8,
+          "media_count": 3000,
+          "tweet_count": 18295
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

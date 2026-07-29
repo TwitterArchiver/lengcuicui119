@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2044006814619222241",
+    "created_at": "2026-04-14T13:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044042221377466692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044042221377466692",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044006814619222241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 幻里是怎么样的呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2044006814619222241",
+        "created_at": "2026-04-14T13:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044042221377466692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044042221377466692",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006814619222241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 幻里是怎么样的呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044006814619222241",
+        "created_at": "2026-04-14T10:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044006814619222241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044006814619222241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安的幻觉是真的厉害，和pr的完全不一样，是真的出现在现实里的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 769,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，可能没能及时回信息，抱歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 155,
+          "like_count": 4698,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 944
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

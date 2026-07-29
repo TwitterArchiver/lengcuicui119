@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2033436503838503111",
+    "created_at": "2026-03-16T07:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T08:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033439465381958109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889969000979054594",
+          "start": 0,
+          "username": "ameame1438809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033439465381958109",
+    "in_reply_to_user_id": "1889969000979054594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033436503838503111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameame1438809 智齿！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2033436501833580544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDg3uY0agAArppC.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2033436503838503111",
+        "created_at": "2026-03-16T07:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033439465381958109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889969000979054594",
+              "start": 0,
+              "username": "ameame1438809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033439465381958109",
+        "in_reply_to_user_id": "1889969000979054594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033436503838503111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameame1438809 智齿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033436501833580544"
+          ]
+        },
+        "author_id": "1889969000979054594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2033436503838503111",
+        "created_at": "2026-03-16T06:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033436503838503111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpnEd6stl4",
+              "end": 79,
+              "expanded_url": "https://x.com/ameame1438809/status/2033436503838503111/photo/1",
+              "media_key": "3_2033436501833580544",
+              "start": 56,
+              "url": "https://t.co/RpnEd6stl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033436503838503111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "局长曾在精神卫生中心待过三个月，这三个月最让人难受的并不是环境，而是戒断反应，所以局长还是希望大家合理化学极乐 https://t.co/RpnEd6stl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 655,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:29.000Z",
+        "description": "头像名字灵感来源于广州吸毒",
+        "id": "1889969000979054594",
+        "location": "上海市",
+        "name": "上海市吸毒局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032351529618038784/kE-9sYxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 23,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "username": "ameame1438809",
+        "verified": false
+      }
+    ]
+  }
+}

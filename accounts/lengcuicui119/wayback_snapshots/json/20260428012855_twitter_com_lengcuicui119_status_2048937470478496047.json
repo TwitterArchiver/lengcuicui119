@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048741919984140288",
+        "3_2048741920051212288"
+      ],
+      "media_source_tweet_id": [
+        "2048741934538293489",
+        "2048741934538293489"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048937470478496047",
+    "created_at": "2026-04-28T01:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048937470478496047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248163305274740736",
+          "start": 3,
+          "username": "ZAMY_KAKUMAY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCBGmdtbHI",
+          "end": 50,
+          "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+          "media_key": "3_2048741919984140288",
+          "start": 27,
+          "url": "https://t.co/TCBGmdtbHI"
+        },
+        {
+          "display_url": "pic.x.com/TCBGmdtbHI",
+          "end": 50,
+          "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+          "media_key": "3_2048741920051212288",
+          "start": 27,
+          "url": "https://t.co/TCBGmdtbHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048937470478496047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048741934538293489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZAMY_KAKUMAY: †悪魔と熾天使† https://t.co/TCBGmdtbHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2048741919984140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6X6-kbQAAwsSl.jpg",
+        "width": 1109
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2048741920051212288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6X6-0asAAH8NH.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048741919984140288",
+            "3_2048741920051212288"
+          ],
+          "media_source_tweet_id": [
+            "2048741934538293489",
+            "2048741934538293489"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048937470478496047",
+        "created_at": "2026-04-28T01:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048937470478496047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248163305274740736",
+              "start": 3,
+              "username": "ZAMY_KAKUMAY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCBGmdtbHI",
+              "end": 50,
+              "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+              "media_key": "3_2048741919984140288",
+              "start": 27,
+              "url": "https://t.co/TCBGmdtbHI"
+            },
+            {
+              "display_url": "pic.x.com/TCBGmdtbHI",
+              "end": 50,
+              "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+              "media_key": "3_2048741920051212288",
+              "start": 27,
+              "url": "https://t.co/TCBGmdtbHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048937470478496047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048741934538293489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZAMY_KAKUMAY: †悪魔と熾天使† https://t.co/TCBGmdtbHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048741919984140288",
+            "3_2048741920051212288"
+          ]
+        },
+        "author_id": "1248163305274740736",
+        "conversation_id": "2048741934538293489",
+        "created_at": "2026-04-27T12:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048741934538293489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCBGmdtbHI",
+              "end": 32,
+              "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+              "media_key": "3_2048741919984140288",
+              "start": 9,
+              "url": "https://t.co/TCBGmdtbHI"
+            },
+            {
+              "display_url": "pic.x.com/TCBGmdtbHI",
+              "end": 32,
+              "expanded_url": "https://x.com/ZAMY_KAKUMAY/status/2048741934538293489/photo/1",
+              "media_key": "3_2048741920051212288",
+              "start": 9,
+              "url": "https://t.co/TCBGmdtbHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741934538293489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 64203,
+          "like_count": 1654,
+          "quote_count": 69,
+          "reply_count": 3,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "†悪魔と熾天使† https://t.co/TCBGmdtbHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 810,
+          "like_count": 2549,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T08:18:30.000Z",
+        "description": "Guitarist. @KAKUMAY_JP @OVERLOADcustom Merch🛒@GOAT_STORE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "KAKUMAY_JP"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "OVERLOADcustom"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "GOAT_STORE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/azmcham?igshid…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/azmcham?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/2xhndZXdUt"
+              }
+            ]
+          }
+        },
+        "id": "1248163305274740736",
+        "location": "ざみーず事務所☺︎",
+        "name": "KAKUMAY アザミ👑",
+        "pinned_tweet_id": "2035342665479512250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019510650209464320/tZbx2U07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 312,
+          "like_count": 2,
+          "listed_count": 14,
+          "media_count": 153,
+          "tweet_count": 5398
+        },
+        "url": "https://t.co/2xhndZXdUt",
+        "username": "ZAMY_KAKUMAY",
+        "verified": true
+      }
+    ]
+  }
+}

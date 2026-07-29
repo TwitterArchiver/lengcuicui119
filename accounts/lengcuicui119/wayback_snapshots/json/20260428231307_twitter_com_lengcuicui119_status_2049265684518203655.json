@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2048984111566766098",
+    "created_at": "2026-04-28T23:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049265684518203655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854747728313741312",
+          "start": 0,
+          "username": "NoYaKaKaKa"
+        },
+        {
+          "end": 28,
+          "id": "2047273781098639360",
+          "start": 12,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049265684518203655",
+    "in_reply_to_user_id": "1854747728313741312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049001172024037526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoYaKaKaKa @Yamamotokoroshi 后续有欣快感是我没想到的，半衰期蛮久的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2048984111566766098",
+        "created_at": "2026-04-28T23:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049265684518203655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854747728313741312",
+              "start": 0,
+              "username": "NoYaKaKaKa"
+            },
+            {
+              "end": 28,
+              "id": "2047273781098639360",
+              "start": 12,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049265684518203655",
+        "in_reply_to_user_id": "1854747728313741312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049001172024037526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoYaKaKaKa @Yamamotokoroshi 后续有欣快感是我没想到的，半衰期蛮久的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854747728313741312",
+        "conversation_id": "2048984111566766098",
+        "created_at": "2026-04-28T05:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049001172024037526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001172024037526",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048999224696816035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 只是如此吗……（失落）\n\n之前试过600mg安非他酮配4片苯硝那敏，效果不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 810,
+          "like_count": 2550,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:48:36.000Z",
+        "description": "现在在你面前的是一位——ESFP/ENTP不定时切换中的，爱好HDM、涩涩、美食、绘画、恶俗抽象的，自设可爱小正太实则变态猥琐大叔的，拥有神奇脑回路的，难以理解并交流的，正在与抑郁焦虑ADHD斗智斗勇的，致力于在每个能够唤起我性欲的帖子下留言的，使用中文 or English的傻逼\n\n「请不要与我谈论政治！」",
+        "id": "1854747728313741312",
+        "location": "B612小行星",
+        "name": "NoYa三个Ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854747912838037506/U0q2KX23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 120,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 228
+        },
+        "username": "NoYaKaKaKa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@lengcuicui119大号\n@cVPrL20wIa42392二世（活着，登不上去）\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "lengcuicui119"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 344,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

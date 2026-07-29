@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2041369230143266880",
+    "created_at": "2026-04-07T07:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041410816055062736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041410816055062736",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041410418749698388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 啊卧槽，打扰了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041410418749698388].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041410418749698388",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041410418749698388"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2041369230143266880",
+        "created_at": "2026-04-07T07:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041410816055062736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041410816055062736",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041410418749698388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 啊卧槽，打扰了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 668,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/双性恋/贫乳/brat/有主不约/无社会道德/偶尔od介意慎关/提问箱👉https://t.co/3g6KbS54vY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hokaming_",
+                "end": 63,
+                "expanded_url": "https://ngl.link/hokaming_",
+                "start": 40,
+                "url": "https://t.co/3g6KbS54vY"
+              }
+            ]
+          }
+        },
+        "id": "1125325219671842817",
+        "location": "广东",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "2032475352594043366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1245,
+          "like_count": 8989,
+          "listed_count": 3,
+          "media_count": 1391,
+          "tweet_count": 9359
+        },
+        "username": "Beagleear_slapu",
+        "verified": false
+      }
+    ]
+  }
+}

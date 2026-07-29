@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1948372792715673600"
+      ],
+      "media_source_tweet_id": [
+        "1948373116574716157"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1948596961243971988",
+    "created_at": "2025-07-25T04:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948596961243971988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871187501911859200",
+          "start": 3,
+          "username": "ququ999999"
+        },
+        {
+          "end": 31,
+          "id": "1537352275290644481",
+          "start": 23,
+          "username": "ToBulma"
+        },
+        {
+          "end": 41,
+          "id": "1552529965371236352",
+          "start": 32,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 54,
+          "id": "1591137880688144384",
+          "start": 42,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 65,
+          "id": "1732486642525474816",
+          "start": 55,
+          "username": "BulmaList"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8cEu2RpV3",
+          "end": 89,
+          "expanded_url": "https://x.com/ququ999999/status/1948373116574716157/video/1",
+          "media_key": "13_1948372792715673600",
+          "start": 66,
+          "url": "https://t.co/c8cEu2RpV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948596961243971988",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1047
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948373116574716157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ququ999999: wataa\n\n@ToBulma\n@ToBulaer\n@KawasawaSen\n@BulmaList https://t.co/c8cEu2RpV3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948596961243971988].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948596961243971988",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948596961243971988"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82870,
+        "height": 2560,
+        "media_key": "13_1948372792715673600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948372792715673600/img/E-YDgCzBSJ-oOSeS.jpg",
+        "public_metrics": {
+          "view_count": 107752
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948372792715673600/vid/avc1/480x852/8cxQTUqM9Lw9jXCG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948372792715673600/vid/avc1/1440x2560/uzHVmKwWwKARAKor.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948372792715673600/vid/avc1/720x1280/qKzsPeSqON6Zu3l2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948372792715673600/pl/tIPk3_JmGvDpZk9F.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948372792715673600/vid/avc1/320x568/djd--34FVJAMrL5A.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948372792715673600"
+          ]
+        },
+        "author_id": "1871187501911859200",
+        "conversation_id": "1948373116574716157",
+        "created_at": "2025-07-24T13:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948373116574716157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537352275290644481",
+              "start": 7,
+              "username": "ToBulma"
+            },
+            {
+              "end": 25,
+              "id": "1552529965371236352",
+              "start": 16,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 38,
+              "id": "1591137880688144384",
+              "start": 26,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 49,
+              "id": "1732486642525474816",
+              "start": 39,
+              "username": "BulmaList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8cEu2RpV3",
+              "end": 73,
+              "expanded_url": "https://x.com/ququ999999/status/1948373116574716157/video/1",
+              "media_key": "13_1948372792715673600",
+              "start": 50,
+              "url": "https://t.co/c8cEu2RpV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948373116574716157",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1068,
+          "impression_count": 285336,
+          "like_count": 4161,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1047
+        },
+        "reply_settings": "everyone",
+        "text": "wataa\n\n@ToBulma\n@ToBulaer\n@KawasawaSen\n@BulmaList https://t.co/c8cEu2RpV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 303,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T13:34:19.000Z",
+        "description": "已过布尔玛原创认证/只做原创内容/完整版私聊过🚪进电报观看❤️/可定制视频图片/御姐178 50/无线下/无墙内联系方式/全部联系方式：https://t.co/WJeWvo3KQL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ququ2003",
+                "end": 91,
+                "expanded_url": "https://linktr.ee/ququ2003",
+                "start": 68,
+                "url": "https://t.co/WJeWvo3KQL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ququ2003VIPbot…",
+                "end": 23,
+                "expanded_url": "https://t.me/ququ2003VIPbot?start=p___91ff87d",
+                "start": 0,
+                "url": "https://t.co/x0MuyqGRqr"
+              }
+            ]
+          }
+        },
+        "id": "1871187501911859200",
+        "location": "在这里自助入群👉🏻",
+        "name": "趣趣",
+        "pinned_tweet_id": "1947962209826709603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909838818305560576/DOymWr-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510629,
+          "following_count": 34,
+          "like_count": 584,
+          "listed_count": 981,
+          "media_count": 608,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/x0MuyqGRqr",
+        "username": "ququ999999",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-16T08:32:00.000Z",
+        "description": "十年外围Cos圈找佳佳👉@jiajiacos1｜全球Cos外围真人真照@XXcosww01｜全球高品质COS外围 @xo8870｜🥇外围品鉴师白鹤@bh8881bot｜推特最佳cos外围找涵涵@HHcosww｜纯白全球包养甄选 @cbzgby｜推特最佳Cos外围 @tongtongcosww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "jiajiacos1"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "XXcosww01"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "xo8870"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "bh8881bot"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "username": "HHcosww"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "cbzgby"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "tongtongcosww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/bHEaox2jWD"
+              }
+            ]
+          }
+        },
+        "id": "1537352275290644481",
+        "location": "⇩⇩TG二次验证的福利姬群(无皮下男/🔞/举报必查)⇩⇩",
+        "name": "布尔玛",
+        "pinned_tweet_id": "1806116560630960312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819500499546394629/iGb0G9Dy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127609,
+          "following_count": 182,
+          "like_count": 14,
+          "listed_count": 3766,
+          "media_count": 0,
+          "tweet_count": 21147
+        },
+        "url": "https://t.co/bHEaox2jWD",
+        "username": "ToBulma",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "十年外围Cos圈找佳佳👉@jiajiacos1｜全球Cos外围找星星@XXcosww01｜全球Cos外围高质量👉@mmcosww01｜全球高品质COS外围 @xo8870｜南宫梦做最优质的肉蒲图🍑@ngm7736｜推特最佳cos外围找涵涵@HHcosww｜推特最佳Cos外围中介👉 @tongtongcosww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "jiajiacos1"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "XXcosww01"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "mmcosww01"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "xo8870"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "ngm7736"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "HHcosww"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "tongtongcosww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobulma.com",
+                "end": 23,
+                "expanded_url": "https://www.tobulma.com/",
+                "start": 0,
+                "url": "https://t.co/GLSl5ILkl6"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "❗我未关注则 有概率盗图❗注意甄别❗",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1925942918742790574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907228,
+          "following_count": 1373,
+          "like_count": 3,
+          "listed_count": 3030,
+          "media_count": 0,
+          "tweet_count": 20273
+        },
+        "url": "https://t.co/GLSl5ILkl6",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "十年外围Cos圈找佳佳@jiajiacos1丨全球Cos真人真照@XXcosww01｜🔥全球Cos高品质@xo8870｜外围品鉴师白鹤@bh8881bot ｜素人短租女友包养@mogujiekf｜最佳cos外围找涵涵@HHcosww｜🟠全网一手素人包养 @MTxBY｜推特最佳Cos外围@tongtongcosww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "jiajiacos1"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "XXcosww01"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "xo8870"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "bh8881bot"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "mogujiekf"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "HHcosww"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "username": "MTxBY"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "tongtongcosww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BulmaList",
+                "end": 23,
+                "expanded_url": "https://t.me/BulmaList",
+                "start": 0,
+                "url": "https://t.co/CBUPZzhnib"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "原创福利姬TG投稿频道👉",
+        "name": "川泽森",
+        "pinned_tweet_id": "1948044088156225978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101946,
+          "following_count": 54,
+          "like_count": 2,
+          "listed_count": 4004,
+          "media_count": 0,
+          "tweet_count": 16390
+        },
+        "url": "https://t.co/CBUPZzhnib",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-06T19:46:19.000Z",
+        "description": "十年外围Cos圈找佳佳👉 @jiajiacos1｜🏅全球Cos外围找星星@XXcosww01｜高质量c圈约会@xhcoser888｜全球高品质COS外围 @xo8870｜南宫梦做最优质的肉蒲图🍑@ngm7736｜推特最佳cos外围找涵涵@HHcosww｜最佳Cos外围中介@tongtongcosww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "jiajiacos1"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "XXcosww01"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "xhcoser888"
+              },
+              {
+                "end": 84,
+                "start": 77,
+                "username": "xo8870"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "ngm7736"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "HHcosww"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "tongtongcosww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XBulma/118",
+                "end": 23,
+                "expanded_url": "http://t.me/XBulma/118",
+                "start": 0,
+                "url": "https://t.co/OC0aUSFZHk"
+              }
+            ]
+          }
+        },
+        "id": "1732486642525474816",
+        "location": "↓新人必订阅TG频道↓ |  纯享榜单 点“ 媒体 ”   ",
+        "name": "原创榜单",
+        "pinned_tweet_id": "1948047565251027017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807407658615627776/TUd-nIB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816786,
+          "following_count": 49,
+          "like_count": 2,
+          "listed_count": 1778,
+          "media_count": 177,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/OC0aUSFZHk",
+        "username": "BulmaList",
+        "verified": true
+      }
+    ]
+  }
+}

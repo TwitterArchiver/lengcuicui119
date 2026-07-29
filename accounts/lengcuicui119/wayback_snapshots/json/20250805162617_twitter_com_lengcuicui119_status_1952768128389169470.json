@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921897776679448576"
+      ],
+      "media_source_tweet_id": [
+        "1921897894497374622"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1952768128389169470",
+    "created_at": "2025-08-05T16:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952768128389169470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673692004390416399",
+          "start": 3,
+          "username": "SuytyaQq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOH3CYP3Bq",
+          "end": 90,
+          "expanded_url": "https://x.com/SuytyaQq/status/1921897894497374622/video/1",
+          "media_key": "13_1921897776679448576",
+          "start": 67,
+          "url": "https://t.co/GOH3CYP3Bq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952768128389169470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921897894497374622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuytyaQq: 南京这次的穿刺活动，给你们更新一小段穿刺的过程，还是老规矩你们评论区留言我抽粉丝私信给你们发完整的视频🪡 https://t.co/GOH3CYP3Bq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952768128389169470].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952768128389169470",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952768128389169470"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30416,
+        "height": 720,
+        "media_key": "13_1921897776679448576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921897776679448576/img/9VXRFDrGIxBowiVk.jpg",
+        "public_metrics": {
+          "view_count": 228209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921897776679448576/vid/avc1/480x270/W0UZy5Mq_xpRXbmS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921897776679448576/vid/avc1/640x360/bCIuLIzdx5VnqrJ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921897776679448576/vid/avc1/1280x720/Chian5ugBeetCPQQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921897776679448576/pl/ZnRsKDO4YHi7BCGO.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921897776679448576"
+          ]
+        },
+        "author_id": "1673692004390416399",
+        "conversation_id": "1921897894497374622",
+        "created_at": "2025-05-12T11:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921897894497374622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOH3CYP3Bq",
+              "end": 76,
+              "expanded_url": "https://x.com/SuytyaQq/status/1921897894497374622/video/1",
+              "media_key": "13_1921897776679448576",
+              "start": 53,
+              "url": "https://t.co/GOH3CYP3Bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921897894497374622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1565,
+          "impression_count": 1045632,
+          "like_count": 3727,
+          "quote_count": 6,
+          "reply_count": 208,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "南京这次的穿刺活动，给你们更新一小段穿刺的过程，还是老规矩你们评论区留言我抽粉丝私信给你们发完整的视频🪡 https://t.co/GOH3CYP3Bq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 314,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T13:57:45.000Z",
+        "description": "原30w粉大号: @Suytya69g 因为更新了⛔️禁止展示的作品没喽，爱丫头🐶的爸爸们陪我重新开始吧～💕盗用我照片的人一辈子替我挡灾✌🏼⚠️关闭评论是广告🪧宝贝们 请自辨真假👈🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Suytya69g"
+              }
+            ]
+          }
+        },
+        "id": "1673692004390416399",
+        "name": "是丫头呀",
+        "pinned_tweet_id": "1949016689808638145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850280583487950848/N8A0v1im_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134089,
+          "following_count": 7,
+          "like_count": 292,
+          "listed_count": 226,
+          "media_count": 70,
+          "tweet_count": 1385
+        },
+        "username": "SuytyaQq",
+        "verified": false
+      }
+    ]
+  }
+}

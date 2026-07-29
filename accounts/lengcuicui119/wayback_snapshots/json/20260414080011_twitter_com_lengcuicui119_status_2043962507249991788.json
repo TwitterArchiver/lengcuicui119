@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043390389302726656"
+      ],
+      "media_source_tweet_id": [
+        "2043390548946419839"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043962507249991788",
+    "created_at": "2026-04-14T08:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043962507249991788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1652348838240301057",
+          "start": 3,
+          "username": "haberinolsun_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wB4ArY7yA8",
+          "end": 101,
+          "expanded_url": "https://x.com/LordVinci21/status/2043390548946419839/video/1",
+          "media_key": "13_2043390389302726656",
+          "start": 78,
+          "url": "https://t.co/wB4ArY7yA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043962507249991788",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043407358034931944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haberinolsun_x: Bir korku evinde İnsan kırkayak, filminin maketi yapıldı. https://t.co/wB4ArY7yA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13233,
+        "height": 1280,
+        "media_key": "13_2043390389302726656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043390389302726656/img/ieXorYAx9ZB4vc2Z.jpg",
+        "public_metrics": {
+          "view_count": 1751416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043390389302726656/vid/avc1/320x568/YqKRlJbWOAt1pVqh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043390389302726656/vid/avc1/480x852/ontdJ1xhFUYdvCF-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043390389302726656/vid/avc1/720x1280/WhDKWEV84gg0Rji2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043390389302726656/pl/PjlQb52s2oDPLTUB.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043390389302726656"
+          ],
+          "media_source_tweet_id": [
+            "2043390548946419839"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043962507249991788",
+        "created_at": "2026-04-14T08:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043962507249991788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652348838240301057",
+              "start": 3,
+              "username": "haberinolsun_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wB4ArY7yA8",
+              "end": 101,
+              "expanded_url": "https://x.com/LordVinci21/status/2043390548946419839/video/1",
+              "media_key": "13_2043390389302726656",
+              "start": 78,
+              "url": "https://t.co/wB4ArY7yA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043962507249991788",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043407358034931944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haberinolsun_x: Bir korku evinde İnsan kırkayak, filminin maketi yapıldı. https://t.co/wB4ArY7yA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043390389302726656"
+          ],
+          "media_source_tweet_id": [
+            "2043390548946419839"
+          ]
+        },
+        "author_id": "1652348838240301057",
+        "conversation_id": "2043407358034931944",
+        "created_at": "2026-04-12T19:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043407358034931944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wB4ArY7yA8",
+              "end": 81,
+              "expanded_url": "https://x.com/LordVinci21/status/2043390548946419839/video/1",
+              "media_key": "13_2043390389302726656",
+              "start": 58,
+              "url": "https://t.co/wB4ArY7yA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043407358034931944",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1412,
+          "impression_count": 3248411,
+          "like_count": 4382,
+          "quote_count": 384,
+          "reply_count": 238,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "Bir korku evinde İnsan kırkayak, filminin maketi yapıldı. https://t.co/wB4ArY7yA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 764,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T16:27:38.000Z",
+        "description": "Tıkla Haberin Olsun 📲",
+        "id": "1652348838240301057",
+        "name": "Haberin Olsun",
+        "pinned_tweet_id": "2043407358034931944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968776526679146496/Sp09yi0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237102,
+          "following_count": 0,
+          "like_count": 8930,
+          "listed_count": 85,
+          "media_count": 13110,
+          "tweet_count": 13769
+        },
+        "username": "haberinolsun_x",
+        "verified": true
+      }
+    ]
+  }
+}

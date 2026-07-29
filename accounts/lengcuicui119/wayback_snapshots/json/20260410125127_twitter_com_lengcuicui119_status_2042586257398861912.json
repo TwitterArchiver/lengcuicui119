@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2042528570589978944",
+    "created_at": "2026-04-10T12:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042586257398861912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042586257398861912",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042528570589978944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem 好帅啊啊啊阿"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5533,
+        "height": 1280,
+        "media_key": "13_2042528507780272128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042528507780272128/img/7lYXTNZIMWCG5Fri.jpg",
+        "public_metrics": {
+          "view_count": 161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/320x568/hpqh11Z_lq5uWhsQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/480x852/0sh0MHXzjL5cwvtI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/720x1280/AmdV4oPKDX8EE365.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/pl/LAnI1RR1noTG7YYG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2042528570589978944",
+        "created_at": "2026-04-10T12:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586257398861912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586257398861912",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042528570589978944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem 好帅啊啊啊阿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042528507780272128"
+          ]
+        },
+        "author_id": "2038975737055543296",
+        "conversation_id": "2042528570589978944",
+        "created_at": "2026-04-10T09:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042528570589978944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEMZ3SQZ5I",
+              "end": 41,
+              "expanded_url": "https://x.com/WujiChem/status/2042528570589978944/video/1",
+              "media_key": "13_2042528507780272128",
+              "start": 18,
+              "url": "https://t.co/tEMZ3SQZ5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528570589978944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补档一下.. 我真的好喜欢这个眼妆 https://t.co/tEMZ3SQZ5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 662,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042487311599018415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 35,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 86
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

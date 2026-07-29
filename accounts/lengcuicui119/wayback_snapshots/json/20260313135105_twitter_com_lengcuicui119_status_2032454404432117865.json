@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2032402524125434185",
+    "created_at": "2026-03-13T13:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032454404432117865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032454404432117865",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032402524125434185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2032402524125434185",
+        "created_at": "2026-03-13T13:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032454404432117865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032454404432117865",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032402524125434185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593267144803901445",
+        "conversation_id": "2032402524125434185",
+        "created_at": "2026-03-13T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032402524125434185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032402524125434185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5302,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有小女孩想跟我互关的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 570,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，恋乳，绝望的直女，欢迎互fo，关注你是想跟你一起玩",
+        "id": "1593267144803901445",
+        "name": ".",
+        "pinned_tweet_id": "2025564498548133941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 354,
+          "like_count": 3344,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1206
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043266455601643847",
+    "created_at": "2026-04-12T10:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043268727257669674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005568568260493312",
+          "start": 0,
+          "username": "BbShenzhenbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043268727257669674",
+    "in_reply_to_user_id": "2005568568260493312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043268482088026540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbShenzhenbb 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043266455601643847",
+        "created_at": "2026-04-12T10:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043268727257669674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005568568260493312",
+              "start": 0,
+              "username": "BbShenzhenbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043268727257669674",
+        "in_reply_to_user_id": "2005568568260493312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043268482088026540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbShenzhenbb 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005568568260493312",
+        "conversation_id": "2043266455601643847",
+        "created_at": "2026-04-12T10:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043268482088026540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043268482088026540",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266455601643847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 如果被那个拳头打一下，我会死的😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 732,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T09:16:31.000Z",
+        "description": "人生短暂，想做的事都去尝试，开开心心地活吧。深圳情侣 👫",
+        "id": "2005568568260493312",
+        "location": "深圳",
+        "name": "深圳BB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005568644450017281/j1fxqein_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 156,
+          "like_count": 266,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 124
+        },
+        "username": "BbShenzhenbb",
+        "verified": true
+      }
+    ]
+  }
+}

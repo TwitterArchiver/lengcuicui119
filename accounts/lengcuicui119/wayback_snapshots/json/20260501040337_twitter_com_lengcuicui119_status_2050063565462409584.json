@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2049681666344726568",
+    "created_at": "2026-05-01T04:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050063565462409584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694679423159836672",
+          "start": 0,
+          "username": "AsakawaTsubaki"
+        },
+        {
+          "end": 32,
+          "id": "2047273781098639360",
+          "start": 16,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050063565462409584",
+    "in_reply_to_user_id": "1694679423159836672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049982241858830357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakawaTsubaki @Yamamotokoroshi 要肛注诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2049681666344726568",
+        "created_at": "2026-05-01T04:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050063565462409584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694679423159836672",
+              "start": 0,
+              "username": "AsakawaTsubaki"
+            },
+            {
+              "end": 32,
+              "id": "2047273781098639360",
+              "start": 16,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050063565462409584",
+        "in_reply_to_user_id": "1694679423159836672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049982241858830357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakawaTsubaki @Yamamotokoroshi 要肛注诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694679423159836672",
+        "conversation_id": "2049681666344726568",
+        "created_at": "2026-04-30T22:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049982241858830357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049982241858830357",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049681666344726568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 为什么我吃了1t飘飘糖没有效果，是太少了吗，飘飘糖怎么买呀，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 821,
+          "like_count": 2649,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。 我有点精日，下辈子希望是日本人\n匿名提问https://t.co/tFYgnHYSkF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k%E2%80%86n%E2…",
+                "end": 77,
+                "expanded_url": "https://ngl.link/k%E2%80%86n%E2%80%86d",
+                "start": 54,
+                "url": "https://t.co/tFYgnHYSkF"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2032733312314487252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 218,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 930
+        },
+        "username": "AsakawaTsubaki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@lengcuicui119大号\n@cVPrL20wIa42392二世（活着，登不上去）\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/但请不要问我物质渠道，也不出售任何物质🙂‍↔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "lengcuicui119"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 358,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

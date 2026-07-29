@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043694476460515429",
+    "created_at": "2026-04-13T14:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043694476460515429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "web.archive.org/web/*/https://…",
+          "end": 118,
+          "expanded_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+          "start": 95,
+          "status": 200,
+          "title": "Donate icon",
+          "unwound_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+          "url": "https://t.co/wPs2GhMNEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043694476460515429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043678411646972047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: 成功了,奇迹一般地\n狐成功找到了炽老师生前被封禁账号的帖文快照存档\n都是盲盒,不知道内容,3000+条\n但愿有大手子能搞一下批量下载网络考古...\nhttps://t.co/wPs2GhMNEt*\n复制到浏览器前面自行加https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043694476460515429",
+        "created_at": "2026-04-13T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043694476460515429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "web.archive.org/web/*/https://…",
+              "end": 118,
+              "expanded_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+              "start": 95,
+              "status": 200,
+              "title": "Donate icon",
+              "unwound_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+              "url": "https://t.co/wPs2GhMNEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043694476460515429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043678411646972047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: 成功了,奇迹一般地\n狐成功找到了炽老师生前被封禁账号的帖文快照存档\n都是盲盒,不知道内容,3000+条\n但愿有大手子能搞一下批量下载网络考古...\nhttps://t.co/wPs2GhMNEt*\n复制到浏览器前面自行加https://…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2043678411646972047",
+        "created_at": "2026-04-13T13:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043678411646972047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "web.archive.org/web/*/https://…",
+              "end": 97,
+              "expanded_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+              "start": 74,
+              "status": 200,
+              "title": "Donate icon",
+              "unwound_url": "http://web.archive.org/web/*/https://twitter.com/AnIncandescence/status/",
+              "url": "https://t.co/wPs2GhMNEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043678411646972047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1056,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "成功了,奇迹一般地\n狐成功找到了炽老师生前被封禁账号的帖文快照存档\n都是盲盒,不知道内容,3000+条\n但愿有大手子能搞一下批量下载网络考古...\nhttps://t.co/wPs2GhMNEt*\n复制到浏览器前面自行加https://网址头,需保留星号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 756,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1462,
+          "like_count": 16478,
+          "listed_count": 4,
+          "media_count": 569,
+          "tweet_count": 5211
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

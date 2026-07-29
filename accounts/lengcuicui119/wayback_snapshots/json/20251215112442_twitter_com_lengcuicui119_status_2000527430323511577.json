@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2000527430323511577",
+    "created_at": "2025-12-15T11:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000527430323511577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000527430323511577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000212934337716256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkqlbxc: 我的xp是doi完他还硬着 \n然后抱我去洗澡给我擦身体时会亲我的肩 \n会掐我脖子但事后会问疼不疼\n不是什么贤妻良母滤镜\n是他看见我哭着求他轻点时 \n会停下来吻我额头说\"宝贝我在\"\n爱不是他能给你多少钱 \n是他JB进来那刻眼里只有你 \n是你们都高潮后他搂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2000527430323511577",
+        "created_at": "2025-12-15T11:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000527430323511577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000527430323511577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000212934337716256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkqlbxc: 我的xp是doi完他还硬着 \n然后抱我去洗澡给我擦身体时会亲我的肩 \n会掐我脖子但事后会问疼不疼\n不是什么贤妻良母滤镜\n是他看见我哭着求他轻点时 \n会停下来吻我额头说\"宝贝我在\"\n爱不是他能给你多少钱 \n是他JB进来那刻眼里只有你 \n是你们都高潮后他搂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "2000212934337716256",
+        "created_at": "2025-12-14T14:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000212934337716256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000212934337716256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 136668,
+          "like_count": 1386,
+          "quote_count": 3,
+          "reply_count": 83,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我的xp是doi完他还硬着 \n然后抱我去洗澡给我擦身体时会亲我的肩 \n会掐我脖子但事后会问疼不疼\n不是什么贤妻良母滤镜\n是他看见我哭着求他轻点时 \n会停下来吻我额头说\"宝贝我在\"\n爱不是他能给你多少钱 \n是他JB进来那刻眼里只有你 \n是你们都高潮后他搂着你的腰说\"下辈子还找你\"\n这他妈才叫纯爱！懂?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 398,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 93
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85151,
+          "following_count": 82,
+          "like_count": 727,
+          "listed_count": 88,
+          "media_count": 1642,
+          "tweet_count": 2354
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

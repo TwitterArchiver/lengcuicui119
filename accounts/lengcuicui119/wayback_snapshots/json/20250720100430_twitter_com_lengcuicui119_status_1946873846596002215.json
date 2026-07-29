@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946551228239941633"
+      ],
+      "media_source_tweet_id": [
+        "1946551241116651715"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1946873846596002215",
+    "created_at": "2025-07-20T10:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946873846596002215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1088405894197436416",
+          "start": 3,
+          "username": "puutin_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jVUgchzvQb",
+          "end": 39,
+          "expanded_url": "https://x.com/puutin_cos/status/1946551241116651715/photo/1",
+          "media_key": "3_1946551228239941633",
+          "start": 16,
+          "url": "https://t.co/jVUgchzvQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946873846596002215",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3045
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946551241116651715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puutin_cos: https://t.co/jVUgchzvQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3872,
+        "media_key": "3_1946551228239941633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOKB2BXkAE1Unq.jpg",
+        "width": 3098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946551228239941633"
+          ],
+          "media_source_tweet_id": [
+            "1946551241116651715"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "1946873846596002215",
+        "created_at": "2025-07-20T10:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946873846596002215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1088405894197436416",
+              "start": 3,
+              "username": "puutin_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVUgchzvQb",
+              "end": 39,
+              "expanded_url": "https://x.com/puutin_cos/status/1946551241116651715/photo/1",
+              "media_key": "3_1946551228239941633",
+              "start": 16,
+              "url": "https://t.co/jVUgchzvQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946873846596002215",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3045
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946551241116651715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puutin_cos: https://t.co/jVUgchzvQb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946551228239941633"
+          ]
+        },
+        "author_id": "1088405894197436416",
+        "conversation_id": "1946551241116651715",
+        "created_at": "2025-07-19T12:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946551241116651715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVUgchzvQb",
+              "end": 23,
+              "expanded_url": "https://x.com/puutin_cos/status/1946551241116651715/photo/1",
+              "media_key": "3_1946551228239941633",
+              "start": 0,
+              "url": "https://t.co/jVUgchzvQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946551241116651715",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13318,
+          "impression_count": 1100721,
+          "like_count": 63260,
+          "quote_count": 56,
+          "reply_count": 174,
+          "retweet_count": 3045
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jVUgchzvQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 292,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-24T11:59:21.000Z",
+        "description": "Don't re-upload. ファンティア▶︎https://t.co/8vIqdAN8HQ Patreon▶︎ https://t.co/WGkvnHVkJT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/506328",
+                "end": 48,
+                "expanded_url": "https://fantia.jp/fanclubs/506328",
+                "start": 25,
+                "url": "https://t.co/8vIqdAN8HQ"
+              },
+              {
+                "display_url": "patreon.com/puutin_cos",
+                "end": 82,
+                "expanded_url": "http://patreon.com/puutin_cos",
+                "start": 59,
+                "url": "https://t.co/WGkvnHVkJT"
+              }
+            ]
+          }
+        },
+        "id": "1088405894197436416",
+        "location": "CyberIguana",
+        "name": "プー",
+        "pinned_tweet_id": "1882292369409876046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809926581248561152/1QgG8DQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750559,
+          "following_count": 588,
+          "like_count": 117972,
+          "listed_count": 3443,
+          "media_count": 909,
+          "tweet_count": 24158
+        },
+        "username": "puutin_cos",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2024697803008839830",
+    "created_at": "2026-02-20T09:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024778848358093252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024778848358093252",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024778581730369738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 感谢🙏🏻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2024697803008839830",
+        "created_at": "2026-02-20T09:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024778848358093252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024778848358093252",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024778581730369738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 感谢🙏🏻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2024697803008839830",
+        "created_at": "2026-02-20T09:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024778581730369738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 38,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=toDRRJVPTS",
+              "start": 15,
+              "unwound_url": "https://mobile.yangkeduo.com/goods2.html?goods_id=886144844100&page_from=23&_oc_trace_mark=199&pxq_secret_key=6TJKVVKCSQDZB2JMIMGTWA5MYDUTLLKZ4WYKX4NIGLPDLWJ7DAIQ&_oak_share_snapshot_num=11400&_oak_share_detail_id=22502836880&_oak_share_time=1771579790&share_oak_rcto=YWKpuTan2xLwo62Y8Ip9FYEwJR8V-7NyNvGYUDjBkmkvOOEVsM9KRdNI&share_uin=LJVFQJTVYDHUW5HFQGZJLM3IKU_GEXDA&refer_share_id=061478361de64b96a20490b6899ab829&refer_share_uin=LJVFQJTVYDHUW5HFQGZJLM3IKU_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/PQHcCPHmmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024778581730369738",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024775753796325722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 https://t.co/PQHcCPHmmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/疯狂互fo/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 414,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 48,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 41
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

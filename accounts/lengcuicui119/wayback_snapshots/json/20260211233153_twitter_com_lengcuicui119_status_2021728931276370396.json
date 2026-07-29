@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021508218447638529"
+      ],
+      "media_source_tweet_id": [
+        "2021508403915575619"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2021728931276370396",
+    "created_at": "2026-02-11T23:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021728931276370396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007125031277719553",
+          "start": 3,
+          "username": "kkkkkara810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtGudsJgwr",
+          "end": 49,
+          "expanded_url": "https://x.com/kkkkkara810/status/2021508403915575619/photo/1",
+          "media_key": "3_2021508218447638529",
+          "start": 26,
+          "url": "https://t.co/YtGudsJgwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021728931276370396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021508403915575619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkkkara810: うむ、たべるわー https://t.co/YtGudsJgwr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2021508218447638529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3XA6casAEGjIK.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021508218447638529"
+          ],
+          "media_source_tweet_id": [
+            "2021508403915575619"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021728931276370396",
+        "created_at": "2026-02-11T23:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021728931276370396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007125031277719553",
+              "start": 3,
+              "username": "kkkkkara810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtGudsJgwr",
+              "end": 49,
+              "expanded_url": "https://x.com/kkkkkara810/status/2021508403915575619/photo/1",
+              "media_key": "3_2021508218447638529",
+              "start": 26,
+              "url": "https://t.co/YtGudsJgwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021728931276370396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021508403915575619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkkkkara810: うむ、たべるわー https://t.co/YtGudsJgwr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021508218447638529"
+          ]
+        },
+        "author_id": "2007125031277719553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021508403915575619",
+        "created_at": "2026-02-11T08:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021508403915575619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtGudsJgwr",
+              "end": 32,
+              "expanded_url": "https://x.com/kkkkkara810/status/2021508403915575619/photo/1",
+              "media_key": "3_2021508218447638529",
+              "start": 9,
+              "url": "https://t.co/YtGudsJgwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021508403915575619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 26385,
+          "like_count": 1122,
+          "quote_count": 30,
+          "reply_count": 15,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "うむ、たべるわー https://t.co/YtGudsJgwr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 393,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T16:21:22.000Z",
+        "description": "凍結されたからちゃんです。\n13才男子。大体フォロバ。\nBOT @DPJCIBeLbp24089 \n　　　　サブ@810aaaakaaaa810                \nヘイト買いすぎたのでこの垢で最後にします",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "DPJCIBeLbp24089"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "810aaaakaaaa810"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nq76w2ime1b9rx…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nq76w2ime1b9rxk?t=vEz4Qi&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/U1t64cWkga"
+              }
+            ]
+          }
+        },
+        "id": "2007125031277719553",
+        "location": "Twitterの妖精。マシュマロくれ",
+        "name": "ヤ⁹中男児から",
+        "pinned_tweet_id": "2015284367564910816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007125682430918656/oueTHYiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 94,
+          "like_count": 1653,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/U1t64cWkga",
+        "username": "kkkkkara810",
+        "verified": false
+      }
+    ]
+  }
+}

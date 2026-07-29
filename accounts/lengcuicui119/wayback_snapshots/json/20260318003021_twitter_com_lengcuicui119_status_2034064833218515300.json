@@ -1,0 +1,747 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234625911128936448",
+          "name": "Dead by Daylight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234625911128936448",
+          "name": "Dead by Daylight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2034064833218515300",
+    "created_at": "2026-03-18T00:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034064833218515300"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "LYRIC",
+          "probability": 0.8354,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 75,
+          "normalized_text": "KEVIN WOO",
+          "probability": 0.7601,
+          "start": 67,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "AllKillComeback",
+          "probability": 0.8215,
+          "start": 105,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 104,
+          "tag": "AllKillComeback"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "올킬컴백"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "컴백"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4850837842",
+          "start": 3,
+          "username": "DeadbyDaylight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034064833218515300",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 985
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033923204054458727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeadbyDaylight: COMEBACK | 'NO ESCAPE' OFFICIAL LYRIC VIDEO FT KEVIN WOO\nALL-KILL: COMEBACK OUT NOW\n#AllKillComeback #올킬컴백 #컴백\n\n@kevinw…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128750,
+        "height": 1080,
+        "media_key": "13_2033922993923956736",
+        "preview_image_url": "https://pbs.twimg.com/media/HDnyW7fWMAAI0AG.jpg",
+        "public_metrics": {
+          "view_count": 50503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033922993923956736/vid/avc1/320x320/J3AtFPuXCWX5x7Gj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033922993923956736/vid/avc1/540x540/sON8PB4pstSVnIwg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033922993923956736/vid/avc1/720x720/twoMTop5m7IZGTEt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033922993923956736/pl/eG3UTlys952PxOkq.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2034064833218515300",
+        "created_at": "2026-03-18T00:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034064833218515300"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "LYRIC",
+              "probability": 0.8354,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "KEVIN WOO",
+              "probability": 0.7601,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 119,
+              "normalized_text": "AllKillComeback",
+              "probability": 0.8215,
+              "start": 105,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 104,
+              "tag": "AllKillComeback"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "올킬컴백"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "컴백"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4850837842",
+              "start": 3,
+              "username": "DeadbyDaylight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034064833218515300",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 985
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033923204054458727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeadbyDaylight: COMEBACK | 'NO ESCAPE' OFFICIAL LYRIC VIDEO FT KEVIN WOO\nALL-KILL: COMEBACK OUT NOW\n#AllKillComeback #올킬컴백 #컴백\n\n@kevinw…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033922993923956736"
+          ]
+        },
+        "author_id": "4850837842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kevin Woo (케빈)",
+              "id": "905820605303349248",
+              "name": "Kevin Woo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kevin Woo (케빈)",
+              "id": "905820605303349248",
+              "name": "Kevin Woo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kevin Woo (케빈)",
+              "id": "905820605303349248",
+              "name": "Kevin Woo"
+            }
+          }
+        ],
+        "conversation_id": "2033923204054458727",
+        "created_at": "2026-03-17T15:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033923204054458727"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "LYRIC",
+              "probability": 0.8573,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "KEVIN WOO",
+              "probability": 0.8472,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "AllKillComeback",
+              "probability": 0.5636,
+              "start": 85,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 84,
+              "tag": "AllKillComeback"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "올킬컴백"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "컴백"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 123,
+              "id": "67235369",
+              "start": 112,
+              "username": "kevinwoo91"
+            },
+            {
+              "end": 136,
+              "id": "16184954",
+              "start": 124,
+              "username": "damonsharpe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2NBVMF8nn",
+              "end": 160,
+              "expanded_url": "https://x.com/DeadbyDaylight/status/2033923204054458727/video/1",
+              "media_key": "13_2033922993923956736",
+              "start": 137,
+              "url": "https://t.co/e2NBVMF8nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033923204054458727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 546,
+          "impression_count": 293766,
+          "like_count": 4500,
+          "quote_count": 221,
+          "reply_count": 231,
+          "retweet_count": 985
+        },
+        "reply_settings": "everyone",
+        "text": "COMEBACK | 'NO ESCAPE' OFFICIAL LYRIC VIDEO FT KEVIN WOO\nALL-KILL: COMEBACK OUT NOW\n#AllKillComeback #올킬컴백 #컴백\n\n@kevinwoo91 @damonsharpe https://t.co/e2NBVMF8nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 646,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T19:08:12.000Z",
+        "description": "ALL KILL: COMEBACK IS NOW AVAILABLE ON ALL PLATFORMS.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dbd.game/3zNLGzH",
+                "end": 23,
+                "expanded_url": "https://dbd.game/3zNLGzH",
+                "start": 0,
+                "url": "https://t.co/KXMlvaNCAp"
+              }
+            ]
+          }
+        },
+        "id": "4850837842",
+        "location": "Montréal, Québec",
+        "name": "Dead by Daylight",
+        "pinned_tweet_id": "2033923204054458727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033892999768260608/JLhvCPxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304679,
+          "following_count": 147,
+          "like_count": 10659,
+          "listed_count": 1916,
+          "media_count": 6100,
+          "tweet_count": 16943
+        },
+        "url": "https://t.co/KXMlvaNCAp",
+        "username": "DeadbyDaylight",
+        "verified": true
+      }
+    ]
+  }
+}

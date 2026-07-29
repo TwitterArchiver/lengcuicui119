@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2033502383528095962",
+    "created_at": "2026-03-16T11:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033502383528095962"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "电子女友"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "找金主"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "非绿"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1118826381587009536",
+          "start": 3,
+          "username": "1918Waist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033502383528095962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031044036170236011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1918Waist: #门槛妹 #电子女友 #找金主 #妈妈活 #爸爸活 #非绿 #纯绿 \n泥萌好！⊹꙳ ˶˙ᵕ˙˶ ⊹꙳\n窝是哈髅K剃可以叫我腰腰\n坐标山东 04 173 66kg  \n具体属性看主页简介\n心理疾病严重 肢体有多重伤疤\n因在这个🌏资金短缺无从活路试着做…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033502383528095962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033502383528095962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033502383528095962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031044022295486464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-3xwAaYAADSGe.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031044022303920128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-3xwCbEAA8-wi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031044022299676672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-3xwBaUAAj8Hm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031044022320721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-3xwGbcAASC1I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031044022295486464",
+            "3_2031044022303920128",
+            "3_2031044022299676672",
+            "3_2031044022320721920"
+          ]
+        },
+        "author_id": "1118826381587009536",
+        "conversation_id": "2031044036170236011",
+        "created_at": "2026-03-09T16:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T17:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031044036170236011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "电子女友"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "找金主"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "非绿"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qa2tWF2ZQ",
+              "end": 176,
+              "expanded_url": "https://x.com/1918Waist/status/2031044036170236011/photo/1",
+              "media_key": "3_2031044022295486464",
+              "start": 153,
+              "url": "https://t.co/3qa2tWF2ZQ"
+            },
+            {
+              "display_url": "pic.x.com/3qa2tWF2ZQ",
+              "end": 176,
+              "expanded_url": "https://x.com/1918Waist/status/2031044036170236011/photo/1",
+              "media_key": "3_2031044022303920128",
+              "start": 153,
+              "url": "https://t.co/3qa2tWF2ZQ"
+            },
+            {
+              "display_url": "pic.x.com/3qa2tWF2ZQ",
+              "end": 176,
+              "expanded_url": "https://x.com/1918Waist/status/2031044036170236011/photo/1",
+              "media_key": "3_2031044022299676672",
+              "start": 153,
+              "url": "https://t.co/3qa2tWF2ZQ"
+            },
+            {
+              "display_url": "pic.x.com/3qa2tWF2ZQ",
+              "end": 176,
+              "expanded_url": "https://x.com/1918Waist/status/2031044036170236011/photo/1",
+              "media_key": "3_2031044022320721920",
+              "start": 153,
+              "url": "https://t.co/3qa2tWF2ZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031044036170236011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8913,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #电子女友 #找金主 #妈妈活 #爸爸活 #非绿 #纯绿 \n泥萌好！⊹꙳ ˶˙ᵕ˙˶ ⊹꙳\n窝是哈髅K剃可以叫我腰腰\n坐标山东 04 173 66kg  \n具体属性看主页简介\n心理疾病严重 肢体有多重伤疤\n因在这个🌏资金短缺无从活路试着做🚪妹 女宝们请快来快来互转互fo呀૮ ´͈ ᗜ `͈ ა https://t.co/3qa2tWF2ZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 661,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-18T10:39:30.000Z",
+        "description": "🚪88   |   哈髅K剃/腰腰    |   双相焦虑躁狂bpd+电波系+BDSM一体机    |      🍺🚬💊🔪 🩸✍🏻  |    网络乞丐流浪🌏中   |   我真的很缺钱求入门求打赏    |    欢迎女宝和我互转互fo  ˋˏᰔᩚˎˊ˗",
+        "id": "1118826381587009536",
+        "name": "被宇宙斬斷的腰",
+        "pinned_tweet_id": "2031044036170236011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024903383950503936/oxBdVt_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 169,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 149
+        },
+        "username": "1918Waist",
+        "verified": false
+      }
+    ]
+  }
+}

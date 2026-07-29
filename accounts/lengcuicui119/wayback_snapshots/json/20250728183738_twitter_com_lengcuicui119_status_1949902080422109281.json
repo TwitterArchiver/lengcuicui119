@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1948612610154528769"
+      ],
+      "media_source_tweet_id": [
+        "1948612974811513261"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1949902080422109281",
+    "created_at": "2025-07-28T18:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T19:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949902080422109281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806989646314016768",
+          "start": 3,
+          "username": "swtlymcl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T04kCvFkdf",
+          "end": 45,
+          "expanded_url": "https://x.com/swtlymcl/status/1948612974811513261/video/1",
+          "media_key": "13_1948612610154528769",
+          "start": 22,
+          "url": "https://t.co/T04kCvFkdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949902080422109281",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 670
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948612974811513261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swtlymcl: chudai🙄 https://t.co/T04kCvFkdf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1949902080422109281].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1949902080422109281",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1949902080422109281"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 279800,
+        "height": 720,
+        "media_key": "13_1948612610154528769",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948612610154528769/img/bfqynvhAW4aY-F1P.jpg",
+        "public_metrics": {
+          "view_count": 70751
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612610154528769/vid/avc1/480x270/6dFBuy3ukNwZyJT2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612610154528769/vid/avc1/640x360/pZMgNFP44PXJ5X76.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948612610154528769/vid/avc1/1280x720/nTWj1QHIj3boE5Yo.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948612610154528769/pl/28FUf1uwGAnpTNdN.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948612610154528769"
+          ]
+        },
+        "author_id": "1806989646314016768",
+        "conversation_id": "1948612974811513261",
+        "created_at": "2025-07-25T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948612974811513261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T04kCvFkdf",
+              "end": 31,
+              "expanded_url": "https://x.com/swtlymcl/status/1948612974811513261/video/1",
+              "media_key": "13_1948612610154528769",
+              "start": 8,
+              "url": "https://t.co/T04kCvFkdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948612974811513261",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2233,
+          "impression_count": 358926,
+          "like_count": 5105,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 670
+        },
+        "reply_settings": "everyone",
+        "text": "chudai🙄 https://t.co/T04kCvFkdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 304,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T09:54:51.000Z",
+        "description": "一名00后混血girl😊爱分享日常～你的赛博女友💋有独特XP|喜欢角色扮演，评论区坐标可✈️请关注不迷路～",
+        "id": "1806989646314016768",
+        "location": "距离你99km",
+        "name": "kiss🦋",
+        "pinned_tweet_id": "1949708739524890875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824370155864162304/R-ghfgZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442993,
+          "following_count": 9,
+          "like_count": 172,
+          "listed_count": 1113,
+          "media_count": 107,
+          "tweet_count": 279
+        },
+        "username": "swtlymcl",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

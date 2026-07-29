@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2001867120649687545",
+    "created_at": "2025-12-19T04:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001867120649687545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lover_ning/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lover_ning/status/2001797469819277329",
+          "start": 10,
+          "url": "https://t.co/BmIoyXfbpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001867120649687545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001797469819277329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了，装逼教程 https://t.co/BmIoyXfbpb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115270,
+        "height": 660,
+        "media_key": "13_2001797312717475840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001797312717475840/img/R9pP9kfMiaDVX7QM.jpg",
+        "public_metrics": {
+          "view_count": 5865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001797312717475840/vid/avc1/492x270/SyUJLGPT-pfm5JSz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001797312717475840/vid/avc1/656x360/ZIuOQPxQLCGdlTeI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001797312717475840/vid/avc1/1206x660/MQ3KPwHE_y7ah6EW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001797312717475840/pl/cg7TYU4y37UQW8iu.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2001867120649687545",
+        "created_at": "2025-12-19T04:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001867120649687545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lover_ning/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lover_ning/status/2001797469819277329",
+              "start": 10,
+              "url": "https://t.co/BmIoyXfbpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001867120649687545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001797469819277329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了，装逼教程 https://t.co/BmIoyXfbpb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001797312717475840"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2001797469819277329",
+        "created_at": "2025-12-18T23:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001797469819277329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMolqRm6Ip",
+              "end": 33,
+              "expanded_url": "https://x.com/lover_ning/status/2001797469819277329/video/1",
+              "media_key": "13_2001797312717475840",
+              "start": 10,
+              "url": "https://t.co/PMolqRm6Ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001797469819277329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10881,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "藏鸡教程 gwnl https://t.co/PMolqRm6Ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 409,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 109
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264262,
+          "following_count": 103,
+          "like_count": 33033,
+          "listed_count": 467,
+          "media_count": 3345,
+          "tweet_count": 28326
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

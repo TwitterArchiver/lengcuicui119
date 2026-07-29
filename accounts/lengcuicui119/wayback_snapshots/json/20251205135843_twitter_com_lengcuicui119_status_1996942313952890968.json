@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988170700738490368"
+      ],
+      "media_source_tweet_id": [
+        "1988170703754109082"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1996942313952890968",
+    "created_at": "2025-12-05T13:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996942313952890968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778696847563104256",
+          "start": 3,
+          "username": "gold_bihu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYWUSKmV3R",
+          "end": 65,
+          "expanded_url": "https://x.com/gold_bihu/status/1988170703754109082/photo/1",
+          "media_key": "3_1988170700738490368",
+          "start": 42,
+          "url": "https://t.co/NYWUSKmV3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996942313952890968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988170703754109082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gold_bihu: 普瑞巴林处方\n测试过可以过拼多多和美团\n需要的自取吧 https://t.co/NYWUSKmV3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988170700738490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dmt_JbcAATbux.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988170700738490368"
+          ],
+          "media_source_tweet_id": [
+            "1988170703754109082"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "1996942313952890968",
+        "created_at": "2025-12-05T13:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996942313952890968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778696847563104256",
+              "start": 3,
+              "username": "gold_bihu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYWUSKmV3R",
+              "end": 65,
+              "expanded_url": "https://x.com/gold_bihu/status/1988170703754109082/photo/1",
+              "media_key": "3_1988170700738490368",
+              "start": 42,
+              "url": "https://t.co/NYWUSKmV3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996942313952890968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988170703754109082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gold_bihu: 普瑞巴林处方\n测试过可以过拼多多和美团\n需要的自取吧 https://t.co/NYWUSKmV3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988170700738490368"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "conversation_id": "1988170703754109082",
+        "created_at": "2025-11-11T09:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988170703754109082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYWUSKmV3R",
+              "end": 50,
+              "expanded_url": "https://x.com/gold_bihu/status/1988170703754109082/photo/1",
+              "media_key": "3_1988170700738490368",
+              "start": 27,
+              "url": "https://t.co/NYWUSKmV3R"
+            },
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1988124164616855802",
+              "start": 51,
+              "url": "https://t.co/DmCCerB5j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988170703754109082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 845721,
+          "like_count": 530,
+          "quote_count": 8,
+          "reply_count": 49,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988124164616855802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林处方\n测试过可以过拼多多和美团\n需要的自取吧 https://t.co/NYWUSKmV3R https://t.co/DmCCerB5j3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 386,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 68
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜当空间用｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dldlg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dldlg1",
+                "start": 0,
+                "url": "https://t.co/pj8qiCyzau"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "location": "距你0.001km",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 317,
+          "like_count": 7412,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/pj8qiCyzau",
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

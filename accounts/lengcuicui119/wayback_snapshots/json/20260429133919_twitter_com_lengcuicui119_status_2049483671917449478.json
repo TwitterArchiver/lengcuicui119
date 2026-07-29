@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2049468136198705264",
+    "created_at": "2026-04-29T13:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049483671917449478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049483671917449478",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049479631439568905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi 🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049479631439568905].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049479631439568905",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049479631439568905"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2049468136198705264",
+        "created_at": "2026-04-29T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049483671917449478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049483671917449478",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049479631439568905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi 🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "小号@Yamamotokoroshi\n白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Yamamotokoroshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 816,
+          "like_count": 2578,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "黄金的魔女与美索不达米亚的女神的幻想剧",
+        "id": "1067724520444710914",
+        "location": "六轩岛",
+        "name": "人类夏",
+        "pinned_tweet_id": "1987646604673995078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 150,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 490
+        },
+        "username": "_Natsubi",
+        "verified": false
+      }
+    ]
+  }
+}

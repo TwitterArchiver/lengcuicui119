@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2041033363981754463",
+    "created_at": "2026-04-06T06:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041033363981754463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007439875726028800",
+          "start": 3,
+          "username": "APeng87500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041033363981754463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040804675553988678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APeng87500: 谢谢各位！\n100fo啦！\n来抽奖哦\n一等奖一名生命之水一瓶折现20r\n二等奖两名小瓶伏特加一瓶折现10r\n三等奖五名5r\n关注，点赞，转帖即可参加😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2041033363981754463",
+        "created_at": "2026-04-06T06:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041033363981754463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007439875726028800",
+              "start": 3,
+              "username": "APeng87500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041033363981754463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040804675553988678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APeng87500: 谢谢各位！\n100fo啦！\n来抽奖哦\n一等奖一名生命之水一瓶折现20r\n二等奖两名小瓶伏特加一瓶折现10r\n三等奖五名5r\n关注，点赞，转帖即可参加😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2040804675553988678",
+        "created_at": "2026-04-05T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040804675553988678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040804675553988678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2461,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢各位！\n100fo啦！\n来抽奖哦\n一等奖一名生命之水一瓶折现20r\n二等奖两名小瓶伏特加一瓶折现10r\n三等奖五名5r\n关注，点赞，转帖即可参加😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 685,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "东方众｜音游基本都会打｜ENFP｜药物滥用｜自伤｜欢迎互fo｜顺男友跨｜不见证｜粉红直接block｜🚪15纯绿｜50可以聊些16+｜很胖所以在努力减肥｜孩子没钱了球球了给点门槛费吧｜\n坐标深圳，偶尔刷新香港 生产日期2012.09.30",
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊",
+        "pinned_tweet_id": "2040804675553988678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 175,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 154
+        },
+        "username": "APeng87500",
+        "verified": false
+      }
+    ]
+  }
+}

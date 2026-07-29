@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1764206691997085696"
+      ],
+      "media_source_tweet_id": [
+        "1764206726453272871"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2033909641412005943",
+    "created_at": "2026-03-17T14:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033909641412005943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544904381593632773",
+          "start": 3,
+          "username": "NexxxkooO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pkOoGKWfD2",
+          "end": 38,
+          "expanded_url": "https://x.com/NexxxkooO/status/1764206726453272871/video/1",
+          "media_key": "7_1764206691997085696",
+          "start": 15,
+          "url": "https://t.co/pkOoGKWfD2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033909641412005943",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1764206726453272871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NexxxkooO: https://t.co/pkOoGKWfD2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033909641412005943].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033909641412005943",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033909641412005943"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13200,
+        "height": 1280,
+        "media_key": "7_1764206691997085696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1764206691997085696/pu/img/8IqY5FO4f021mFzx.jpg",
+        "public_metrics": {
+          "view_count": 14036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1764206691997085696/pu/vid/avc1/320x568/xdCjuuTOY8FxtzcI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1764206691997085696/pu/vid/avc1/480x852/ofe2LfbWuWmw6l1K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1764206691997085696/pu/vid/avc1/720x1280/4MEZB3E2Opo4Qbrf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1764206691997085696/pu/pl/Jq-ScnT4M-CN5V2V.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1764206691997085696"
+          ]
+        },
+        "author_id": "1544904381593632773",
+        "conversation_id": "1764206726453272871",
+        "created_at": "2024-03-03T08:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-03T09:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1764206726453272871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkOoGKWfD2",
+              "end": 23,
+              "expanded_url": "https://x.com/NexxxkooO/status/1764206726453272871/video/1",
+              "media_key": "7_1764206691997085696",
+              "start": 0,
+              "url": "https://t.co/pkOoGKWfD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1764206726453272871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 31937,
+          "like_count": 1241,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pkOoGKWfD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 682,
+          "like_count": 741,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T04:41:36.000Z",
+        "description": "世界で一番猫お姫様ですわ！！！\n骑士@milkmie9\n🚪52r 过门可以免费塔罗占卜一次",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "milkmie9"
+              }
+            ]
+          }
+        },
+        "id": "1544904381593632773",
+        "location": "無断転載&無断使用×",
+        "name": "无人在意的角落里我悄悄死去了",
+        "pinned_tweet_id": "1762775884908659097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031869937208455168/WZHHWdtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8446,
+          "following_count": 638,
+          "like_count": 41667,
+          "listed_count": 21,
+          "media_count": 506,
+          "tweet_count": 4258
+        },
+        "username": "NexxxkooO",
+        "verified": false
+      }
+    ]
+  }
+}

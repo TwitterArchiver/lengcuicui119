@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1948751273131737092"
+      ],
+      "media_source_tweet_id": [
+        "1948751832936775778"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1951390475551907855",
+    "created_at": "2025-08-01T21:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T22:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951390475551907855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1648895707687051264",
+          "start": 3,
+          "username": "C1oh_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVx4wbyVg3",
+          "end": 70,
+          "expanded_url": "https://x.com/C1oh_1/status/1948751832936775778/video/1",
+          "media_key": "13_1948751273131737092",
+          "start": 47,
+          "url": "https://t.co/MVx4wbyVg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951390475551907855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948751832936775778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C1oh_1: 小狗文学4.0\n\n总时长：27分59秒\n\n⚠️到底是he还是be呢？ https://t.co/MVx4wbyVg3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951390475551907855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951390475551907855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951390475551907855"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1679216,
+        "height": 600,
+        "media_key": "13_1948751273131737092",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948751273131737092/img/9TrLOg4ArQkSC-9t.jpg",
+        "public_metrics": {
+          "view_count": 24960
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948751273131737092/vid/avc1/320x400/ZTagunnRQht-xnJq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948751273131737092/vid/avc1/480x600/OQm7cPAqabsD1J0V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948751273131737092/pl/_O0qlZb_-CYOeW76.m3u8?v=da9"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948751273131737092"
+          ]
+        },
+        "author_id": "1648895707687051264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1948751832936775778",
+        "created_at": "2025-07-25T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948751832936775778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVx4wbyVg3",
+              "end": 58,
+              "expanded_url": "https://x.com/C1oh_1/status/1948751832936775778/video/1",
+              "media_key": "13_1948751273131737092",
+              "start": 35,
+              "url": "https://t.co/MVx4wbyVg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948751832936775778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 69826,
+          "like_count": 784,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "小狗文学4.0\n\n总时长：27分59秒\n\n⚠️到底是he还是be呢？ https://t.co/MVx4wbyVg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "灰毂",
+        "id": "1455784742922555395",
+        "name": "冷萃萃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455784948250542086/8_-BVqx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 311,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:55.000Z",
+        "description": "某不知名男喘兼助眠博主 希望在我这里可以给你带来开心 后续视频版本的均已在饭盒发布",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "C1oh.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://C1oh.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/6XZOqkiUwN"
+              }
+            ]
+          }
+        },
+        "id": "1648895707687051264",
+        "location": "饭盒➡️",
+        "name": "C1oh",
+        "pinned_tweet_id": "1781352580972757167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752602776738340864/rx9f3itE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69490,
+          "following_count": 4,
+          "like_count": 56,
+          "listed_count": 97,
+          "media_count": 140,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/6XZOqkiUwN",
+        "username": "C1oh_1",
+        "verified": true
+      }
+    ]
+  }
+}

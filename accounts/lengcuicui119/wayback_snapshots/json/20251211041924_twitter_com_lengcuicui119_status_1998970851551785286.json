@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996480054206111744"
+      ],
+      "media_source_tweet_id": [
+        "1996481081013600541"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "1998970851551785286",
+    "created_at": "2025-12-11T04:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998970851551785286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794529612606869504",
+          "start": 3,
+          "username": "QingYun5097"
+        },
+        {
+          "end": 44,
+          "id": "3085975273",
+          "start": 28,
+          "username": "John_Andy_Adele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iRk4Aoznh3",
+          "end": 104,
+          "expanded_url": "https://x.com/QingYun5097/status/1996481081013600541/video/1",
+          "media_key": "13_1996480054206111744",
+          "start": 81,
+          "url": "https://t.co/iRk4Aoznh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998970851551785286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3507
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996481081013600541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QingYun5097: 被宽肩窄腰的纹身🍑0 @John_Andy_Adele 带回家坐奸\n随着音乐的律动我的上翘🍆顶到骚0狂喷不止 全身颤抖停不下来 https://t.co/iRk4Aoznh3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998970851551785286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998970851551785286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998970851551785286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 275900,
+        "height": 1280,
+        "media_key": "13_1996480054206111744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996480054206111744/img/ii8zlFJ-Ewc23joz.jpg",
+        "public_metrics": {
+          "view_count": 231637
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996480054206111744/vid/avc1/320x568/8N6RWl274ermnd9A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996480054206111744/vid/avc1/480x852/gl89vNmH-cyJy9eQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996480054206111744/vid/avc1/720x1280/9iLQ4iJh9QOP7v__.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996480054206111744/pl/E13GIuNXamJUg8lr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996480054206111744"
+          ]
+        },
+        "author_id": "1794529612606869504",
+        "conversation_id": "1996481081013600541",
+        "created_at": "2025-12-04T07:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996481081013600541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "3085975273",
+              "start": 11,
+              "username": "John_Andy_Adele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRk4Aoznh3",
+              "end": 87,
+              "expanded_url": "https://x.com/QingYun5097/status/1996481081013600541/video/1",
+              "media_key": "13_1996480054206111744",
+              "start": 64,
+              "url": "https://t.co/iRk4Aoznh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996481081013600541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4152,
+          "impression_count": 739445,
+          "like_count": 26649,
+          "quote_count": 12,
+          "reply_count": 44,
+          "retweet_count": 3507
+        },
+        "reply_settings": "everyone",
+        "text": "被宽肩窄腰的纹身🍑0 @John_Andy_Adele 带回家坐奸\n随着音乐的律动我的上翘🍆顶到骚0狂喷不止 全身颤抖停不下来 https://t.co/iRk4Aoznh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "被气荼毒过的小孩（已戒）/微od/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/爱分享点sex内容，二三涉，请自行避雷🥰/fo看成分会回关",
+        "id": "1455784742922555395",
+        "name": "C2371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995882446358020103/ZFnU3-Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 395,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T00:43:06.000Z",
+        "description": "视频本人小号@QingYun279｜178-60kg-17🍆｜➕V🚪互关免｜【推止于推】视频需要的➕QQ3925163565（不买的别➕)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QingYun279"
+              }
+            ]
+          }
+        },
+        "id": "1794529612606869504",
+        "location": "武汉",
+        "name": "青云",
+        "pinned_tweet_id": "1998651569949290625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794529882652934144/BX70o8Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70503,
+          "following_count": 665,
+          "like_count": 27,
+          "listed_count": 106,
+          "media_count": 24,
+          "tweet_count": 296
+        },
+        "username": "QingYun5097",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-15T16:05:09.000Z",
+        "description": "武汉，176-60-0.5 上翘打桩➕无毛水🍑 | 喜奶狗，薄肌，瘦猴 🍆 | V门槛🚪 | 可联名 可互推 | 打招呼🈷️直接发脸和私，其他不回，不是卖的，推止于推",
+        "id": "3085975273",
+        "name": "安旼赫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997565739008757760/eYC0X_5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20958,
+          "following_count": 262,
+          "like_count": 21,
+          "listed_count": 39,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "username": "John_Andy_Adele",
+        "verified": false
+      }
+    ]
+  }
+}

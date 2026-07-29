@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2043885123339436523",
+    "created_at": "2026-04-14T02:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043885123339436523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853967550381445127",
+          "start": 3,
+          "username": "Ahalfhediboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043885123339436523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043875735530557519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ahalfhediboy: 我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2043885123339436523",
+        "created_at": "2026-04-14T02:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043885123339436523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853967550381445127",
+              "start": 3,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043885123339436523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043875735530557519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ahalfhediboy: 我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043875735530557519",
+        "created_at": "2026-04-14T02:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043875735530557519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043875735530557519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三 Apr 15 开奖 多多参与呀！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 758,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 220,
+          "like_count": 2952,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

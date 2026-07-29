@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2010282965004394574",
+    "created_at": "2026-01-11T09:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T10:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010282965004394574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010282965004394574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010198984573260083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告连载之《甲卡西酮计划》\n\n“我”用伪麻黄碱片剂制作甲卡西酮，好吸爱吸天天吸，成功让自己成瘾🤓最后原料被禁，“我”惨淡收场😭\n\n⚠️文中包含制毒描写，仅供教育用途，请勿模仿\n\n这你们谁，好难猜啊，自己站出来承认吧😆\n\n话说psywiki上的甲…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2771,
+        "media_key": "3_2010083951784681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VAtErW4AAfWAf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2459,
+        "media_key": "3_2010083955966361600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VAtUQWQAAeabC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2125,
+        "media_key": "3_2010083961486168064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VAto0X0AA-RCO.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3002,
+        "media_key": "3_2010083965462306817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VAt3oW4AEg4zP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2010282965004394574",
+        "created_at": "2026-01-11T09:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010282965004394574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010282965004394574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010198984573260083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告连载之《甲卡西酮计划》\n\n“我”用伪麻黄碱片剂制作甲卡西酮，好吸爱吸天天吸，成功让自己成瘾🤓最后原料被禁，“我”惨淡收场😭\n\n⚠️文中包含制毒描写，仅供教育用途，请勿模仿\n\n这你们谁，好难猜啊，自己站出来承认吧😆\n\n话说psywiki上的甲…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010083951784681472",
+            "3_2010083955966361600",
+            "3_2010083961486168064",
+            "3_2010083965462306817"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2010198984573260083",
+        "created_at": "2026-01-11T03:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010198984573260083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6u60irySCO",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2010198984573260083/photo/1",
+              "media_key": "3_2010083951784681472",
+              "start": 152,
+              "url": "https://t.co/6u60irySCO"
+            },
+            {
+              "display_url": "pic.x.com/6u60irySCO",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2010198984573260083/photo/1",
+              "media_key": "3_2010083955966361600",
+              "start": 152,
+              "url": "https://t.co/6u60irySCO"
+            },
+            {
+              "display_url": "pic.x.com/6u60irySCO",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2010198984573260083/photo/1",
+              "media_key": "3_2010083961486168064",
+              "start": 152,
+              "url": "https://t.co/6u60irySCO"
+            },
+            {
+              "display_url": "pic.x.com/6u60irySCO",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/2010198984573260083/photo/1",
+              "media_key": "3_2010083965462306817",
+              "start": 152,
+              "url": "https://t.co/6u60irySCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010198984573260083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1366,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告连载之《甲卡西酮计划》\n\n“我”用伪麻黄碱片剂制作甲卡西酮，好吸爱吸天天吸，成功让自己成瘾🤓最后原料被禁，“我”惨淡收场😭\n\n⚠️文中包含制毒描写，仅供教育用途，请勿模仿\n\n这你们谁，好难猜啊，自己站出来承认吧😆\n\n话说psywiki上的甲卡西酮剂量几乎是冰的10倍，不知道为啥这里写老鼠会痉挛 https://t.co/6u60irySCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/互fo私信/欢迎找我聊天",
+        "id": "1455784742922555395",
+        "name": "想死就o百草枯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 355,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 183
+        },
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 739,
+          "like_count": 17611,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 4785
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

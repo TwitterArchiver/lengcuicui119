@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044284287080640512"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2044253351236513846",
+    "created_at": "2026-04-15T05:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044284295041429712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560991861413933056",
+          "start": 0,
+          "username": "belovedquarry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCFiFft4Jd",
+          "end": 70,
+          "expanded_url": "https://x.com/lengcuicui119/status/2044284295041429712/photo/1",
+          "media_key": "3_2044284287080640512",
+          "start": 47,
+          "url": "https://t.co/gCFiFft4Jd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044284295041429712",
+    "in_reply_to_user_id": "1560991861413933056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044283713207558246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belovedquarry 或许可以试试安非他酮（看你戒烟需求🤔我吃了抽一根觉得有点恶心🤧 https://t.co/gCFiFft4Jd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044284287080640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7Bul9asAAylHG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044284287080640512"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2044253351236513846",
+        "created_at": "2026-04-15T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044284295041429712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560991861413933056",
+              "start": 0,
+              "username": "belovedquarry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCFiFft4Jd",
+              "end": 70,
+              "expanded_url": "https://x.com/lengcuicui119/status/2044284295041429712/photo/1",
+              "media_key": "3_2044284287080640512",
+              "start": 47,
+              "url": "https://t.co/gCFiFft4Jd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044284295041429712",
+        "in_reply_to_user_id": "1560991861413933056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044283713207558246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belovedquarry 或许可以试试安非他酮（看你戒烟需求🤔我吃了抽一根觉得有点恶心🤧 https://t.co/gCFiFft4Jd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560991861413933056",
+        "conversation_id": "2044253351236513846",
+        "created_at": "2026-04-15T05:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044283713207558246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044283713207558246",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044283166601716065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 是啊超级不喜欢烟让我的味道变得难闻，对其他人的影响我也很愧疚，最近早上起来嗓子还不舒服😭我之前买了尼古丁口香糖想辅助戒烟来着但是那个真的超级难吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 775,
+          "like_count": 2338,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜精神病转健全｜lesbian｜devil cry｜本质是高压电有机玻璃｜药物滥用、烟、酒｜文豪鬣犬，掏肛门抠人肠子吃｜关取随意｜小摩尔恋爱中！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 142,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1406
+        },
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}
