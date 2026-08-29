@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088963527025606656",
+        "3_2088963527042306048",
+        "3_2088963526987763713"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088963564728193365",
+    "created_at": "2026-08-16T12:18:19.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088963564728193365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sk8ZSmSwTn",
+          "end": 38,
+          "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+          "media_key": "3_2088963527025606656",
+          "start": 15,
+          "url": "https://t.co/sk8ZSmSwTn"
+        },
+        {
+          "display_url": "pic.x.com/sk8ZSmSwTn",
+          "end": 38,
+          "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+          "media_key": "3_2088963527042306048",
+          "start": 15,
+          "url": "https://t.co/sk8ZSmSwTn"
+        },
+        {
+          "display_url": "pic.x.com/sk8ZSmSwTn",
+          "end": 38,
+          "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+          "media_key": "3_2088963526987763713",
+          "start": 15,
+          "url": "https://t.co/sk8ZSmSwTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088963564728193365",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088963527025606656"
+      },
+      {
+        "media_key": "3_2088963527042306048"
+      },
+      {
+        "media_key": "3_2088963526987763713"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "获取成功！！！薄荷味我好爱！ https://t.co/sk8ZSmSwTn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2011,
+        "media_key": "3_2088963527025606656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP19QpEbwAAZOrZ.jpg",
+        "width": 1320
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2088963527042306048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP19QpIakAAbmJ1.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2088963526987763713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP19Qo7aUAEKokc.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088963527025606656",
+            "3_2088963527042306048",
+            "3_2088963526987763713"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088963564728193365",
+        "created_at": "2026-08-16T12:18:19.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088963564728193365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sk8ZSmSwTn",
+              "end": 38,
+              "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+              "media_key": "3_2088963527025606656",
+              "start": 15,
+              "url": "https://t.co/sk8ZSmSwTn"
+            },
+            {
+              "display_url": "pic.x.com/sk8ZSmSwTn",
+              "end": 38,
+              "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+              "media_key": "3_2088963527042306048",
+              "start": 15,
+              "url": "https://t.co/sk8ZSmSwTn"
+            },
+            {
+              "display_url": "pic.x.com/sk8ZSmSwTn",
+              "end": 38,
+              "expanded_url": "https://x.com/lengcuicui119/status/2088963564728193365/photo/1",
+              "media_key": "3_2088963526987763713",
+              "start": 15,
+              "url": "https://t.co/sk8ZSmSwTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088963564728193365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088963527025606656"
+          },
+          {
+            "media_key": "3_2088963527042306048"
+          },
+          {
+            "media_key": "3_2088963526987763713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获取成功！！！薄荷味我好爱！ https://t.co/sk8ZSmSwTn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77（防扰）\n出自用神秘物质/需要请私信\n可以叫小杀（🦋同名只发drug）\n不🩸🔪日本語🇯🇵简繁中🇨🇳Eng🇬🇧药理学习中💊\n关于个人trip报告👇🏻\nhttps://t.co/3xwxv2BHZw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 100,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 77,
+                "url": "https://t.co/3xwxv2BHZw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHhDy"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2088963564728193365",
+        "name": "山·本·殺·し",
+        "pinned_tweet_id": "2087080365672509806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 421,
+          "like_count": 3137,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/1yoxxnHhDy",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

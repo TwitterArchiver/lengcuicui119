@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087777439217049600"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2087777448092139954",
+    "created_at": "2026-08-13T05:45:07.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087777448092139954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxFxIXjude",
+          "end": 30,
+          "expanded_url": "https://x.com/lengcuicui119/status/2087777448092139954/photo/1",
+          "media_key": "3_2087777439217049600",
+          "start": 7,
+          "url": "https://t.co/UxFxIXjude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087777448092139954",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087777439217049600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收藏夹... https://t.co/UxFxIXjude"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2087777439217049600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlGhPqbYAAerpM.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087777439217049600"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2087777448092139954",
+        "created_at": "2026-08-13T05:45:07.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087777448092139954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxFxIXjude",
+              "end": 30,
+              "expanded_url": "https://x.com/lengcuicui119/status/2087777448092139954/photo/1",
+              "media_key": "3_2087777439217049600",
+              "start": 7,
+              "url": "https://t.co/UxFxIXjude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087777448092139954",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087777439217049600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收藏夹... https://t.co/UxFxIXjude"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77（防扰）\n出自用神秘物质/需要请私信\n可以叫小杀（🦋同名只发drug）\n不🩸🔪日本語🇯🇵简繁中🇨🇳Eng🇬🇧药理学习中💊\n关于个人trip报告👇🏻\nhttps://t.co/3xwxv2BHZw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 100,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 77,
+                "url": "https://t.co/3xwxv2BHZw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHhDy"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2087777448092139954",
+        "name": "山·本·殺·し",
+        "pinned_tweet_id": "2087080365672509806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 415,
+          "like_count": 3038,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/1yoxxnHhDy",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
