@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      }
+    ],
+    "conversation_id": "2100396136670597623",
+    "created_at": "2026-09-17T01:27:17.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100396136670597623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ewi_ike29765/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ewi_ike29765/status/2100001797116920277",
+          "start": 7,
+          "url": "https://t.co/usgJAdYx2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100396136670597623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100001797116920277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好牛逼！！！ https://t.co/usgJAdYx2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2100001767614205953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSS0ezpWUAE8pmd.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "2100396136670597623",
+        "created_at": "2026-09-17T01:27:17.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100396136670597623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ewi_ike29765/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ewi_ike29765/status/2100001797116920277",
+              "start": 7,
+              "url": "https://t.co/usgJAdYx2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100396136670597623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100001797116920277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好牛逼！！！ https://t.co/usgJAdYx2g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100001767614205953"
+          ]
+        },
+        "author_id": "1971530046776201216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "2100001797116920277",
+        "created_at": "2026-09-15T23:20:19.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100001797116920277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkQXEM1ml4",
+              "end": 277,
+              "expanded_url": "https://x.com/ewi_ike29765/status/2100001797116920277/photo/1",
+              "media_key": "3_2100001767614205953",
+              "start": 254,
+              "url": "https://t.co/SkQXEM1ml4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100001797116920277",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100001767614205953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 20573,
+          "like_count": 821,
+          "quote_count": 3,
+          "reply_count": 54,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "When you said “I’ll just grow one plant” and Mother Nature took it personally. 😂🌿 This absolute unit has officially outgrown the greenhouse and is about to start paying rent. Bro’s standing there like a proud dad while the roof is fighting for its life. https://t.co/SkQXEM1ml4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJazxYY"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2100396136670597623",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 461,
+          "like_count": 3503,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/zGLTJazxYY",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T11:00:13.000Z",
+        "description": "Y'all join my group where I do most of the posting and also gives tips on growing...https://t.co/BZj6W0w4V3\nfor inquiries contact me at: liamsrovet@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+q0QimOFllW8zN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+q0QimOFllW8zN2E0",
+                "start": 84,
+                "url": "https://t.co/BZj6W0w4V3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smokystallion.com",
+                "end": 23,
+                "expanded_url": "https://smokystallion.com/",
+                "start": 0,
+                "url": "https://t.co/zYG23RaEud"
+              }
+            ]
+          }
+        },
+        "id": "1971530046776201216",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2100384527575105579",
+        "name": "smokystallion",
+        "pinned_tweet_id": "2093519037229576426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971530046776201216/1778597973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056532729869504512/rHrVWMSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 7500,
+          "like_count": 1665,
+          "listed_count": 2,
+          "media_count": 735,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/zYG23RaEud",
+        "username": "ewi_ike29765",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

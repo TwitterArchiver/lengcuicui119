@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2096762854242390486",
+    "created_at": "2026-09-07T01:29:48.000Z",
+    "display_text_range": [
+      12,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096772894009479277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ],
+      "urls": [
+        {
+          "description": "最宜居城市旁边，竟然藏着一条毒品地狱街, 视频播放量 479507、弹幕量 2936、点赞数 31351、投硬币枚数 3480、收藏人数 8724、转发人数 921, 视频作者 查叔Charles, 作者简介 探索世界禁区与硬核人文❗️ 走，我们一起去看看世界的背面，相关视频：我来到了美国街头，和毒贩聊天是种什么体验，我来到了东南亚动物黑市，濒危物种随便买？，探秘美国最危险城市！$5一份毒品，到底有多危险？，15岁染上毒瘾，50岁还在街头挣扎…我闯进美国“僵尸之城”，这里3美元就能买到毒品？，我在纽约体验0元购，黑哥货品都保真么？，女性禁区！男扮女装去印度是什么体验？一路疯狂被骚扰，这真不是人待的地方…（仅供娱乐），韩国贫富差距！到底有多大？住房食物有多大区别？，我13岁开始吸毒，吸了26年，其中有20年时间在戒毒所度过，要不是国家帮我强制戒毒，我早就死了，黑帮街道vs 2亿顶级公寓，纽约的生活环境有多割裂？！，【芬太尼】千万不要吸最强毒品诞生：芬太尼如何通过科学，彻底摧毁人类的中枢神经。",
+          "display_url": "b23.tv/3mq9nYV",
+          "end": 62,
+          "expanded_url": "https://b23.tv/3mq9nYV",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2096772904646287361/tGBzrKOK?format=jpg&name=orig",
+              "width": 1120
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096772904646287361/tGBzrKOK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 39,
+          "status": 200,
+          "title": "最宜居城市旁边，竟然藏着一条毒品地狱街_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1eVgA64EpH/?buvid=YB47EBBDEEC16D9D4ACC9AA8867A739C120F&from_spmid=main.my-history.0.0&is_story_h5=false&mid=5rLCKeFvx0Sk%2BPc5KafyOA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CE351E7E-83BA-4107-B2DE-1FF6D463AAD9&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1788744583&unique_k=3mq9nYV&up_id=30079180",
+          "url": "https://t.co/kHv7j8o2gL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096772894009479277",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096766911015194632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 【最宜居城市旁边，竟然藏着一条毒品地狱街-哔哩哔哩】 https://t.co/kHv7j8o2gL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2096762854242390486",
+        "created_at": "2026-09-07T01:29:48.000Z",
+        "display_text_range": [
+          12,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096772894009479277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ],
+          "urls": [
+            {
+              "description": "最宜居城市旁边，竟然藏着一条毒品地狱街, 视频播放量 479507、弹幕量 2936、点赞数 31351、投硬币枚数 3480、收藏人数 8724、转发人数 921, 视频作者 查叔Charles, 作者简介 探索世界禁区与硬核人文❗️ 走，我们一起去看看世界的背面，相关视频：我来到了美国街头，和毒贩聊天是种什么体验，我来到了东南亚动物黑市，濒危物种随便买？，探秘美国最危险城市！$5一份毒品，到底有多危险？，15岁染上毒瘾，50岁还在街头挣扎…我闯进美国“僵尸之城”，这里3美元就能买到毒品？，我在纽约体验0元购，黑哥货品都保真么？，女性禁区！男扮女装去印度是什么体验？一路疯狂被骚扰，这真不是人待的地方…（仅供娱乐），韩国贫富差距！到底有多大？住房食物有多大区别？，我13岁开始吸毒，吸了26年，其中有20年时间在戒毒所度过，要不是国家帮我强制戒毒，我早就死了，黑帮街道vs 2亿顶级公寓，纽约的生活环境有多割裂？！，【芬太尼】千万不要吸最强毒品诞生：芬太尼如何通过科学，彻底摧毁人类的中枢神经。",
+              "display_url": "b23.tv/3mq9nYV",
+              "end": 62,
+              "expanded_url": "https://b23.tv/3mq9nYV",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2096772904646287361/tGBzrKOK?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096772904646287361/tGBzrKOK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "最宜居城市旁边，竟然藏着一条毒品地狱街_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1eVgA64EpH/?buvid=YB47EBBDEEC16D9D4ACC9AA8867A739C120F&from_spmid=main.my-history.0.0&is_story_h5=false&mid=5rLCKeFvx0Sk%2BPc5KafyOA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CE351E7E-83BA-4107-B2DE-1FF6D463AAD9&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1788744583&unique_k=3mq9nYV&up_id=30079180",
+              "url": "https://t.co/kHv7j8o2gL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096772894009479277",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096766911015194632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 【最宜居城市旁边，竟然藏着一条毒品地狱街-哔哩哔哩】 https://t.co/kHv7j8o2gL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096762854242390486",
+        "created_at": "2026-09-07T01:06:02.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096766911015194632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455784742922555395",
+              "start": 0,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096766911015194632",
+        "in_reply_to_user_id": "1455784742922555395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096762854242390486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcuicui119 还有这种好事？\n其实我一直幻想政府提供一个专卖的，磕芬太尼的地方，然后这里准备好纳洛酮这种反制剂（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n不出物了\n淡推...",
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2096772894009479277",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 412,
+          "like_count": 3286,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1853
+        },
+        "url": "",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096770864524194272",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 308,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

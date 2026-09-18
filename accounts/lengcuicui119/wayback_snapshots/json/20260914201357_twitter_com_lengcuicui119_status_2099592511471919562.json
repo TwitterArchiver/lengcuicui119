@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099481560139653120"
+      ],
+      "media_source_tweet_id": [
+        "2099481590531567961"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2099592511471919562",
+    "created_at": "2026-09-14T20:13:57.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099592511471919562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096605025653186560",
+          "start": 3,
+          "username": "ylgmxcb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N8Im2TOR9O",
+          "end": 93,
+          "expanded_url": "https://x.com/ylgmxcb/status/2099481590531567961/photo/1",
+          "media_key": "3_2099481560139653120",
+          "start": 70,
+          "url": "https://t.co/N8Im2TOR9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099592511471919562",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099481560139653120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099481590531567961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ylgmxcb: 近期争议事件一图流省流，相关证据将在该推文评论区发布。\n感谢所有相关人士的热心帮助。\n“迟到的正义将不再是正义” https://t.co/N8Im2TOR9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_2099481560139653120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLbWvybYAAUoo8.png",
+        "width": 3249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099481560139653120"
+          ],
+          "media_source_tweet_id": [
+            "2099481590531567961"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2099592511471919562",
+        "created_at": "2026-09-14T20:13:57.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099592511471919562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096605025653186560",
+              "start": 3,
+              "username": "ylgmxcb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8Im2TOR9O",
+              "end": 93,
+              "expanded_url": "https://x.com/ylgmxcb/status/2099481590531567961/photo/1",
+              "media_key": "3_2099481560139653120",
+              "start": 70,
+              "url": "https://t.co/N8Im2TOR9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099592511471919562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099481560139653120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099481590531567961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ylgmxcb: 近期争议事件一图流省流，相关证据将在该推文评论区发布。\n感谢所有相关人士的热心帮助。\n“迟到的正义将不再是正义” https://t.co/N8Im2TOR9O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099481560139653120"
+          ]
+        },
+        "author_id": "2096605025653186560",
+        "conversation_id": "2099481590531567961",
+        "created_at": "2026-09-14T12:53:12.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099481590531567961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8Im2TOR9O",
+              "end": 80,
+              "expanded_url": "https://x.com/ylgmxcb/status/2099481590531567961/photo/1",
+              "media_key": "3_2099481560139653120",
+              "start": 57,
+              "url": "https://t.co/N8Im2TOR9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099481590531567961",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099481560139653120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1197,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "近期争议事件一图流省流，相关证据将在该推文评论区发布。\n感谢所有相关人士的热心帮助。\n“迟到的正义将不再是正义” https://t.co/N8Im2TOR9O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77\n可以叫小杀\n需💊私信\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2099592511471919562",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 444,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T14:23:43.000Z",
+        "description": "原料革命是一个致力于提供药物信息，消除信息差所导致的不平等的在药圈活动的组织。\n本账号即代表，为原料革命的最重要一环——宣传，所兢兢业业的人们。\n原料革命下属低价药商：@freepgbplz\n原料革命自由宣传部：@freedogdrum\n原料革命最锋利的剑：@UWATCHLIFE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "freepgbplz"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "freedogdrum"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "UWATCHLIFE"
+              }
+            ]
+          }
+        },
+        "id": "2096605025653186560",
+        "is_identity_verified": false,
+        "location": "OD圈",
+        "most_recent_tweet_id": "2099481923420914067",
+        "name": "原料革命宣传部",
+        "pinned_tweet_id": "2096964371150999637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096605025653186560/1788779650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 6,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "ylgmxcb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

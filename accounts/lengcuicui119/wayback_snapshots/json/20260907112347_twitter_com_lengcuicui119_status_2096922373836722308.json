@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2096762854242390486",
+    "created_at": "2026-09-07T11:23:47.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096922373836722308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827754267551395840",
+          "start": 0,
+          "username": "MosaicIceRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096922373836722308",
+    "in_reply_to_user_id": "1827754267551395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096914175465533727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosaicIceRoll 搁加拿大😗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096914175465533727].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096914175465533727",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096914175465533727"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2096762854242390486",
+        "created_at": "2026-09-07T11:23:47.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096922373836722308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827754267551395840",
+              "start": 0,
+              "username": "MosaicIceRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096922373836722308",
+        "in_reply_to_user_id": "1827754267551395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096914175465533727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosaicIceRoll 搁加拿大😗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n私信问物\n淡推...",
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2096922373836722308",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 413,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1859
+        },
+        "url": "",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "我是冰卷，叫我冰就行，\n避难二号机@IcyRoll777\nshtwt/overdosetwt/edtwt,\n（但是msk一个都不让发。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "IcyRoll777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/cCCiMfEPE4"
+              }
+            ]
+          }
+        },
+        "id": "1827754267551395840",
+        "is_identity_verified": false,
+        "location": "大电池鲶鱼保护中心",
+        "most_recent_tweet_id": "2083942596913877050",
+        "name": "_(:3」∠)_",
+        "pinned_tweet_id": "2086087877658816560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827754267551395840/1779860360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 240,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/cCCiMfEPE4",
+        "username": "MosaicIceRoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

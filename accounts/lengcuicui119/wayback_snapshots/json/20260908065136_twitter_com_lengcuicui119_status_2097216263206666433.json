@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097216235511615488"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2097216263206666433",
+    "created_at": "2026-09-08T06:51:36.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097216263206666433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/69cQwDr8Wy",
+          "end": 31,
+          "expanded_url": "https://x.com/lengcuicui119/status/2097216263206666433/photo/1",
+          "media_key": "3_2097216235511615488",
+          "start": 8,
+          "url": "https://t.co/69cQwDr8Wy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097216263206666433",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097216235511615488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黄金巨蟒制作中 https://t.co/69cQwDr8Wy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097216235511615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrPDf7aEAAgt91.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097216235511615488"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097216263206666433",
+        "created_at": "2026-09-08T06:51:36.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097216263206666433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69cQwDr8Wy",
+              "end": 31,
+              "expanded_url": "https://x.com/lengcuicui119/status/2097216263206666433/photo/1",
+              "media_key": "3_2097216235511615488",
+              "start": 8,
+              "url": "https://t.co/69cQwDr8Wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097216263206666433",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097216235511615488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄金巨蟒制作中 https://t.co/69cQwDr8Wy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n淡推...",
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2097216263206666433",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 417,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

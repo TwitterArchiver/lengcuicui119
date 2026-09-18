@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097762651350704133"
+      ],
+      "media_source_tweet_id": [
+        "2097762659911258359"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2098153539893887313",
+    "created_at": "2026-09-10T20:56:00.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T21:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098153539893887313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3xskEzhVN",
+          "end": 64,
+          "expanded_url": "https://x.com/APsychedelics/status/2097762659911258359/photo/1",
+          "media_key": "3_2097762651350704133",
+          "start": 41,
+          "url": "https://t.co/F3xskEzhVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098153539893887313",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097762651350704133"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097762659911258359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: Canada, here I come 🍁 https://t.co/F3xskEzhVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2097762651350704133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzABFjXIAUSyr4.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097762651350704133"
+          ],
+          "media_source_tweet_id": [
+            "2097762659911258359"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2098153539893887313",
+        "created_at": "2026-09-10T20:56:00.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T21:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098153539893887313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3xskEzhVN",
+              "end": 64,
+              "expanded_url": "https://x.com/APsychedelics/status/2097762659911258359/photo/1",
+              "media_key": "3_2097762651350704133",
+              "start": 41,
+              "url": "https://t.co/F3xskEzhVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098153539893887313",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097762651350704133"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097762659911258359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: Canada, here I come 🍁 https://t.co/F3xskEzhVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097762651350704133"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "conversation_id": "2097762659911258359",
+        "created_at": "2026-09-09T19:02:47.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097762659911258359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3xskEzhVN",
+              "end": 45,
+              "expanded_url": "https://x.com/APsychedelics/status/2097762659911258359/photo/1",
+              "media_key": "3_2097762651350704133",
+              "start": 22,
+              "url": "https://t.co/F3xskEzhVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097762659911258359",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097762651350704133"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 135703,
+          "like_count": 1430,
+          "quote_count": 19,
+          "reply_count": 67,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "Canada, here I come 🍁 https://t.co/F3xskEzhVN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n私信问物\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2098153539893887313",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 427,
+          "like_count": 3396,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "**NOTHING FOR SALE**",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/psychhaeven",
+                "end": 23,
+                "expanded_url": "https://t.me/psychhaeven",
+                "start": 0,
+                "url": "https://t.co/UnANRzz82J"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "is_identity_verified": false,
+        "location": "Spaceship Earth",
+        "most_recent_tweet_id": "2098125898247479607",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309708058239684608/1603127013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15043,
+          "following_count": 711,
+          "like_count": 49118,
+          "listed_count": 68,
+          "media_count": 32668,
+          "tweet_count": 43418
+        },
+        "url": "https://t.co/UnANRzz82J",
+        "username": "APsychedelics",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

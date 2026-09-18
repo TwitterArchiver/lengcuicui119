@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098861152985853964"
+      ],
+      "media_source_tweet_id": [
+        "2098861194014593074"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099220427214348444",
+    "created_at": "2026-09-13T19:35:26.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099220427214348444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "856204597706321922",
+          "start": 3,
+          "username": "GunsFanatics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J1mJjl231F",
+          "end": 60,
+          "expanded_url": "https://x.com/GunsFanatics/status/2098861194014593074/video/1",
+          "media_key": "13_2098861152985853964",
+          "start": 37,
+          "url": "https://t.co/J1mJjl231F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099220427214348444",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2098861152985853964"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098861194014593074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GunsFanatics: Glock 22 full-auto https://t.co/J1mJjl231F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11366,
+        "height": 1280,
+        "media_key": "13_2098861152985853964",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098861152985853964/img/2yjx9K9yNmeHPgA_.jpg",
+        "public_metrics": {
+          "view_count": 82254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098861152985853964/vid/avc1/320x568/TPF_1mydxK9pOTKG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098861152985853964/vid/avc1/480x852/wbKrr_sPf3CH2QET.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098861152985853964/vid/avc1/720x1280/kftB199EvVP3EHIT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098861152985853964/pl/E0y_KxGjUSt86l8O.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098861152985853964"
+          ],
+          "media_source_tweet_id": [
+            "2098861194014593074"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099220427214348444",
+        "created_at": "2026-09-13T19:35:26.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099220427214348444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "856204597706321922",
+              "start": 3,
+              "username": "GunsFanatics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1mJjl231F",
+              "end": 60,
+              "expanded_url": "https://x.com/GunsFanatics/status/2098861194014593074/video/1",
+              "media_key": "13_2098861152985853964",
+              "start": 37,
+              "url": "https://t.co/J1mJjl231F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099220427214348444",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098861152985853964"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098861194014593074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GunsFanatics: Glock 22 full-auto https://t.co/J1mJjl231F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098861152985853964"
+          ]
+        },
+        "author_id": "856204597706321922",
+        "conversation_id": "2098861194014593074",
+        "created_at": "2026-09-12T19:47:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098861194014593074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1mJjl231F",
+              "end": 42,
+              "expanded_url": "https://x.com/GunsFanatics/status/2098861194014593074/video/1",
+              "media_key": "13_2098861152985853964",
+              "start": 19,
+              "url": "https://t.co/J1mJjl231F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098861194014593074",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098861152985853964"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 863,
+          "impression_count": 215070,
+          "like_count": 5833,
+          "quote_count": 35,
+          "reply_count": 63,
+          "retweet_count": 524
+        },
+        "reply_settings": "everyone",
+        "text": "Glock 22 full-auto https://t.co/J1mJjl231F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n私信问物\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2099220427214348444",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 437,
+          "like_count": 3510,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-23T17:54:18.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4vD1zWu",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4vD1zWu",
+                "start": 0,
+                "url": "https://t.co/slwmCfh87o"
+              }
+            ]
+          }
+        },
+        "id": "856204597706321922",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099165384976805930",
+        "name": "Guns Fanatics",
+        "pinned_tweet_id": "2098400515755286927",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/856204597706321922/1745666123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916088443911778305/wpDNpFe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61910,
+          "following_count": 7485,
+          "like_count": 17395,
+          "listed_count": 67,
+          "media_count": 3214,
+          "tweet_count": 8408
+        },
+        "url": "https://t.co/slwmCfh87o",
+        "username": "GunsFanatics",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

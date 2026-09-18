@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      }
+    ],
+    "conversation_id": "2098666771415023694",
+    "created_at": "2026-09-12T06:55:24.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098666771415023694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "52663254",
+          "start": 3,
+          "username": "Eternally_Jaded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098666771415023694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098390917128286223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eternally_Jaded: Durban Poison is a pure sativa from South Africa. The plants can grow up to 30 feet tall &amp; contain THC-V, a stimulatin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2098390899386728448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR77Z73bwAADt2W.jpg",
+        "width": 720
+      },
+      {
+        "height": 600,
+        "media_key": "3_2098390899449585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR77Z8Ga4AAvs40.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "2098666771415023694",
+        "created_at": "2026-09-12T06:55:24.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098666771415023694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "52663254",
+              "start": 3,
+              "username": "Eternally_Jaded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098666771415023694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098390917128286223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eternally_Jaded: Durban Poison is a pure sativa from South Africa. The plants can grow up to 30 feet tall &amp; contain THC-V, a stimulatin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098390899386728448",
+            "3_2098390899449585664"
+          ]
+        },
+        "author_id": "52663254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "2098390917128286223",
+        "created_at": "2026-09-11T12:39:15.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098390917128286223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QKVRA8Jor",
+              "end": 220,
+              "expanded_url": "https://x.com/Eternally_Jaded/status/2098390917128286223/photo/1",
+              "media_key": "3_2098390899386728448",
+              "start": 197,
+              "url": "https://t.co/0QKVRA8Jor"
+            },
+            {
+              "display_url": "pic.x.com/0QKVRA8Jor",
+              "end": 220,
+              "expanded_url": "https://x.com/Eternally_Jaded/status/2098390917128286223/photo/1",
+              "media_key": "3_2098390899449585664",
+              "start": 197,
+              "url": "https://t.co/0QKVRA8Jor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098390917128286223",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098390899386728448"
+          },
+          {
+            "media_key": "3_2098390899449585664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 802,
+          "impression_count": 167067,
+          "like_count": 4221,
+          "quote_count": 35,
+          "reply_count": 117,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "Durban Poison is a pure sativa from South Africa. The plants can grow up to 30 feet tall &amp; contain THC-V, a stimulating cannabinoid that reduces appetite, increases energy, and improves focus. https://t.co/0QKVRA8Jor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n私信问物\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2098666771415023694",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 430,
+          "like_count": 3460,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-01T07:33:09.000Z",
+        "description": "Tap the link below to Join my psychedelics shop https://t.co/kporVmZdgj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKIGbRmZsmr…",
+                "end": 71,
+                "expanded_url": "https://signal.group/#CjQKIGbRmZsmrMORIgcfOoXGnM6PAqWhgqShFEqatHD4jf80EhCX7a7xLLNy0C7gT4RmOuY1",
+                "start": 48,
+                "url": "https://t.co/kporVmZdgj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signal.me/#eu/KGhsIZBLUP…",
+                "end": 23,
+                "expanded_url": "https://signal.me/#eu/KGhsIZBLUPhn8UudSiElobqcckhbAeBAey4dSYcKxq9Gdc3Wl_ZLjLK6fBrNnLlu",
+                "start": 0,
+                "url": "https://t.co/1xjUr9dXci"
+              }
+            ]
+          }
+        },
+        "id": "52663254",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098650736947048459",
+        "name": "Justin Flynn",
+        "pinned_tweet_id": "2046405509863907539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52663254/1774980151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039040572183531520/D-_H3iNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4144,
+          "following_count": 7486,
+          "like_count": 53856,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/1xjUr9dXci",
+        "username": "Eternally_Jaded",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
