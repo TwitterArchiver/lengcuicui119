@@ -89,3 +89,13 @@ https://video.twimg.com/amplify_video/2098861152985853964/vid/avc1/720x1280/kftB
 https://video.twimg.com/ext_tw_video/2097268706485428224/pu/vid/avc1/960x720/NbqMqXE11_wqk5WV.mp4?tag=12
 https://video.twimg.com/amplify_video/2096142000575954944/vid/avc1/1080x1920/t8f4DNJw0NpTo-w5.mp4
 https://video.twimg.com/amplify_video/1862732043135733760/vid/avc1/1920x1080/tvWM649eq5f_fLkg.mp4?tag=16
+https://video.twimg.com/ext_tw_video/1764206691997085696/pu/vid/avc1/720x1280/4MEZB3E2Opo4Qbrf.mp4?tag=12
+https://video.twimg.com/amplify_video/1804315821776187392/vid/avc1/720x1280/DCPvki35K1W83Tin.mp4?tag=16
+https://video.twimg.com/amplify_video/2106503966830059520/vid/avc1/1080x1920/AnzyPrWQSunG3Y10.mp4
+https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/720x1280/_sFGXTabkLoAiJmD.mp4?tag=12
+https://video.twimg.com/amplify_video/2105797496622739456/vid/avc1/1920x1080/ubKBnjVtQ71dns80.mp4
+https://video.twimg.com/amplify_video/2107055255036825601/vid/avc1/720x1280/V0QpDIGEUe1SCErQ.mp4
+https://video.twimg.com/amplify_video/2106728221807083520/vid/avc1/1920x1080/zCUV1OBAjCFElHkU.mp4
+https://video.twimg.com/amplify_video/2107410250030792704/vid/avc1/884x1920/jSSZ9TlveJEpZp02.mp4
+https://video.twimg.com/amplify_video/2104824878289518592/vid/avc1/2160x3840/_E6kbjcdDMtr0SOR.mp4
+https://video.twimg.com/tweet_video/HUFAoGGaEAAlSGk.mp4
