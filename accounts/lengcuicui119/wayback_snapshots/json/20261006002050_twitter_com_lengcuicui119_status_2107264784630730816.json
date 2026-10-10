@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2107051396608741845",
+    "created_at": "2026-10-06T00:20:50.000Z",
+    "display_text_range": [
+      25,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T01:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107264784630730816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2085173242814451712",
+          "start": 0,
+          "username": "yuda4_8964"
+        },
+        {
+          "end": 24,
+          "id": "1492068366731059203",
+          "start": 12,
+          "username": "Yuki3Mepcpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107264784630730816",
+    "in_reply_to_user_id": "2085173242814451712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107051396608741845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda4_8964 @Yuki3Mepcpy 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2107051396608741845",
+        "created_at": "2026-10-06T00:20:50.000Z",
+        "display_text_range": [
+          25,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107264784630730816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            },
+            {
+              "end": 24,
+              "id": "1492068366731059203",
+              "start": 12,
+              "username": "Yuki3Mepcpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107264784630730816",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107051396608741845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 @Yuki3Mepcpy 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085173242814451712",
+        "conversation_id": "2107051396608741845",
+        "created_at": "2026-10-05T10:12:54.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107051396608741845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107051396608741845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9477,
+          "like_count": 243,
+          "quote_count": 9,
+          "reply_count": 44,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林有个坏处就是在药效中会做出一些很豪的事情，药效过了之后会想砍死自己"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2107264784630730816",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 501,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "💊 @yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2107140775930991042",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️(4.0)",
+        "pinned_tweet_id": "2105276718181179901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1790836439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 148,
+          "like_count": 10915,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "7.0 依旧被永封啊啊淡推淡推\n早已逝去之人 早已宽恕之罪 \n和小策宝宝 @Cecey33 共号不定时出没\n逃生仓@Yuki114514_DXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "Cecey33"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "Yuki114514_DXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2107250277103341698",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1790852745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106795808087523329/yikCw85f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 230,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

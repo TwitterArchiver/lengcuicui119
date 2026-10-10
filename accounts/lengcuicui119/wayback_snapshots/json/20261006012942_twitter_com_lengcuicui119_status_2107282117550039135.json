@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107055255036825601"
+      ],
+      "media_source_tweet_id": [
+        "2107055474126340591"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2107282117550039135",
+    "created_at": "2026-10-06T01:29:42.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T02:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107282117550039135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1584905109888180225",
+          "start": 3,
+          "username": "hi_amhigh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uBoVBjXTBp",
+          "end": 84,
+          "expanded_url": "https://x.com/hi_amhigh/status/2107055474126340591/video/1",
+          "media_key": "13_2107055255036825601",
+          "start": 61,
+          "url": "https://t.co/uBoVBjXTBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107282117550039135",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2107055255036825601"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107055474126340591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hi_amhigh: Name that one strain you can never forget 😉 🍃 https://t.co/uBoVBjXTBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28166,
+        "height": 1280,
+        "media_key": "13_2107055255036825601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107055255036825601/img/_7eOkGhS99N5dZH7.jpg",
+        "public_metrics": {
+          "view_count": 1287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107055255036825601/vid/avc1/320x568/-RRn9Ege-xTEr9fr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107055255036825601/vid/avc1/480x852/12jmdn_ozVgW79Rz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107055255036825601/vid/avc1/720x1280/V0QpDIGEUe1SCErQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107055255036825601/pl/fOHttT7yFuzXFHpM.m3u8?v=76c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107055255036825601"
+          ],
+          "media_source_tweet_id": [
+            "2107055474126340591"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2107282117550039135",
+        "created_at": "2026-10-06T01:29:42.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107282117550039135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1584905109888180225",
+              "start": 3,
+              "username": "hi_amhigh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBoVBjXTBp",
+              "end": 84,
+              "expanded_url": "https://x.com/hi_amhigh/status/2107055474126340591/video/1",
+              "media_key": "13_2107055255036825601",
+              "start": 61,
+              "url": "https://t.co/uBoVBjXTBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107282117550039135",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2107055255036825601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107055474126340591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hi_amhigh: Name that one strain you can never forget 😉 🍃 https://t.co/uBoVBjXTBp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107055255036825601"
+          ]
+        },
+        "author_id": "1584905109888180225",
+        "conversation_id": "2107055474126340591",
+        "created_at": "2026-10-05T10:29:06.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107055474126340591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBoVBjXTBp",
+              "end": 69,
+              "expanded_url": "https://x.com/hi_amhigh/status/2107055474126340591/video/1",
+              "media_key": "13_2107055255036825601",
+              "start": 46,
+              "url": "https://t.co/uBoVBjXTBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107055474126340591",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2107055255036825601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3147,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Name that one strain you can never forget 😉 🍃 https://t.co/uBoVBjXTBp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2107282117550039135",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 501,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-25T13:50:14.000Z",
+        "description": "I'M THE BRAND (life is for living) FREE THE WEED",
+        "id": "1584905109888180225",
+        "is_identity_verified": false,
+        "location": "Where the money at",
+        "most_recent_tweet_id": "2107257937232109681",
+        "name": "HIAMHIGH",
+        "pinned_tweet_id": "2044671461881770063",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584905109888180225/1776013809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007554197265215488/VbKJa_2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24182,
+          "following_count": 2088,
+          "like_count": 40323,
+          "listed_count": 12,
+          "media_count": 6753,
+          "tweet_count": 46864
+        },
+        "url": "",
+        "username": "hi_amhigh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

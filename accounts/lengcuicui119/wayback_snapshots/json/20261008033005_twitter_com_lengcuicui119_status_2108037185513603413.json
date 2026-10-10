@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2108037158162534400"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2108037185513603413",
+    "created_at": "2026-10-08T03:30:05.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T04:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108037185513603413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Q8z1n6D3j",
+          "end": 27,
+          "expanded_url": "https://x.com/lengcuicui119/status/2108037185513603413/photo/1",
+          "media_key": "16_2108037158162534400",
+          "start": 4,
+          "url": "https://t.co/5Q8z1n6D3j"
+        },
+        {
+          "display_url": "x.com/lengcuicui119/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/lengcuicui119/status/2107408138874093649",
+          "start": 28,
+          "url": "https://t.co/OoOGoZCgJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108037185513603413",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2108037158162534400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107408138874093649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤯🤯🤯 https://t.co/5Q8z1n6D3j https://t.co/OoOGoZCgJJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2108037158162534400",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HUFAoGGaEAAlSGk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HUFAoGGaEAAlSGk.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2316,
+        "media_key": "3_2107408114991677440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8Eg9rawAAHdXD.jpg",
+        "width": 2316
+      },
+      {
+        "height": 2876,
+        "media_key": "3_2107408114962292736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8Eg9kaYAAguc3.jpg",
+        "width": 2869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2108037158162534400"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2108037185513603413",
+        "created_at": "2026-10-08T03:30:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108037185513603413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Q8z1n6D3j",
+              "end": 27,
+              "expanded_url": "https://x.com/lengcuicui119/status/2108037185513603413/photo/1",
+              "media_key": "16_2108037158162534400",
+              "start": 4,
+              "url": "https://t.co/5Q8z1n6D3j"
+            },
+            {
+              "display_url": "x.com/lengcuicui119/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/lengcuicui119/status/2107408138874093649",
+              "start": 28,
+              "url": "https://t.co/OoOGoZCgJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108037185513603413",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2108037158162534400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107408138874093649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤯🤯🤯 https://t.co/5Q8z1n6D3j https://t.co/OoOGoZCgJJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107408114991677440",
+            "3_2107408114962292736"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2107408138874093649",
+        "created_at": "2026-10-06T09:50:28.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107408138874093649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/or4QyeUFCN",
+              "end": 128,
+              "expanded_url": "https://x.com/lengcuicui119/status/2107408138874093649/photo/1",
+              "media_key": "3_2107408114991677440",
+              "start": 105,
+              "url": "https://t.co/or4QyeUFCN"
+            },
+            {
+              "display_url": "pic.x.com/or4QyeUFCN",
+              "end": 128,
+              "expanded_url": "https://x.com/lengcuicui119/status/2107408138874093649/photo/1",
+              "media_key": "3_2107408114962292736",
+              "start": 105,
+              "url": "https://t.co/or4QyeUFCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107408138874093649",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107408114991677440"
+          },
+          {
+            "media_key": "3_2107408114962292736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天膜摔碎了，还好有备用的，但是我贴了一张发现是17的膜...虽然大小是一样的... 但是我失去了前置摄像头...但我发现！拍东西很梦核！！！这可能就是，别人想用iPhone7.8拍出来的效果...吧... https://t.co/or4QyeUFCN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2108037185513603413",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 506,
+          "like_count": 3836,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

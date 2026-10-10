@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104124879721443328",
+        "3_2104124879666905089"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104124885786374187",
+    "created_at": "2026-09-27T08:24:00.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104124885786374187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/427REjkk8B",
+          "end": 53,
+          "expanded_url": "https://x.com/lengcuicui119/status/2104124885786374187/photo/1",
+          "media_key": "3_2104124879721443328",
+          "start": 30,
+          "url": "https://t.co/427REjkk8B"
+        },
+        {
+          "display_url": "pic.x.com/427REjkk8B",
+          "end": 53,
+          "expanded_url": "https://x.com/lengcuicui119/status/2104124885786374187/photo/1",
+          "media_key": "3_2104124879666905089",
+          "start": 30,
+          "url": "https://t.co/427REjkk8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104124885786374187",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104124879721443328"
+      },
+      {
+        "media_key": "3_2104124879666905089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "燥期...第二人格又把我控制了...好想一头扎进斐济... https://t.co/427REjkk8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2104124879721443328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNabhLbsAAJ0hT.jpg",
+        "width": 1159
+      },
+      {
+        "height": 2185,
+        "media_key": "3_2104124879666905089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNabg-bgAEw7Ps.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104124879721443328",
+            "3_2104124879666905089"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104124885786374187",
+        "created_at": "2026-09-27T08:24:00.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104124885786374187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/427REjkk8B",
+              "end": 53,
+              "expanded_url": "https://x.com/lengcuicui119/status/2104124885786374187/photo/1",
+              "media_key": "3_2104124879721443328",
+              "start": 30,
+              "url": "https://t.co/427REjkk8B"
+            },
+            {
+              "display_url": "pic.x.com/427REjkk8B",
+              "end": 53,
+              "expanded_url": "https://x.com/lengcuicui119/status/2104124885786374187/photo/1",
+              "media_key": "3_2104124879666905089",
+              "start": 30,
+              "url": "https://t.co/427REjkk8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104124885786374187",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104124879721443328"
+          },
+          {
+            "media_key": "3_2104124879666905089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燥期...第二人格又把我控制了...好想一头扎进斐济... https://t.co/427REjkk8B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii（💊）\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2104124885786374187",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 480,
+          "like_count": 3717,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

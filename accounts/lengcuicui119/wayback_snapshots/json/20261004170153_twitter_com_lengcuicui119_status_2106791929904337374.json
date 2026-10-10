@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2106644554741076331",
+    "created_at": "2026-10-04T17:01:53.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106791929904337374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066928700562784256",
+          "start": 0,
+          "username": "kkkkkkpro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106791929904337374",
+    "in_reply_to_user_id": "2066928700562784256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106644554741076331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkkpro 别墅！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2106644554741076331",
+        "created_at": "2026-10-04T17:01:53.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106791929904337374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066928700562784256",
+              "start": 0,
+              "username": "kkkkkkpro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106791929904337374",
+        "in_reply_to_user_id": "2066928700562784256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106644554741076331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkkpro 别墅！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066928700562784256",
+        "conversation_id": "2106644554741076331",
+        "created_at": "2026-10-04T07:16:16.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106644554741076331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106644554741076331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3007,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概10号吧，10号就吞药死，死亡概率百分99吧，我独居，所以大概率会死，7号开奖o！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2106791929904337374",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 503,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2040
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T17:00:10.000Z",
+        "description": "09/男/od/🚬/🍷/187cm70kg（增长中）\n药物重度依赖，分享一些日常和负面信息。pr！pr！ym！ym！†升天† †升天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k25547",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k25547",
+                "start": 0,
+                "url": "https://t.co/uT9Gd62vsP"
+              }
+            ]
+          }
+        },
+        "id": "2066928700562784256",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2106764234973741337",
+        "name": "k！",
+        "pinned_tweet_id": "2106424202568122609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066928700562784256/1788984992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096291987662286849/8PtG3_T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 88,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/uT9Gd62vsP",
+        "username": "kkkkkkpro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

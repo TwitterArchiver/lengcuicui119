@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104573836733878272",
+        "3_2104573836742230016",
+        "3_2104573836717154304",
+        "3_2104573836712927232"
+      ],
+      "media_source_tweet_id": [
+        "2104573846045213030",
+        "2104573846045213030",
+        "2104573846045213030",
+        "2104573846045213030"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2104872937665016056",
+    "created_at": "2026-09-29T09:56:29.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104872937665016056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1611723030195232768",
+          "start": 3,
+          "username": "ranta_09"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9VqaPy2h1I",
+          "end": 44,
+          "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+          "media_key": "3_2104573836733878272",
+          "start": 21,
+          "url": "https://t.co/9VqaPy2h1I"
+        },
+        {
+          "display_url": "pic.x.com/9VqaPy2h1I",
+          "end": 44,
+          "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+          "media_key": "3_2104573836742230016",
+          "start": 21,
+          "url": "https://t.co/9VqaPy2h1I"
+        },
+        {
+          "display_url": "pic.x.com/9VqaPy2h1I",
+          "end": 44,
+          "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+          "media_key": "3_2104573836717154304",
+          "start": 21,
+          "url": "https://t.co/9VqaPy2h1I"
+        },
+        {
+          "display_url": "pic.x.com/9VqaPy2h1I",
+          "end": 44,
+          "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+          "media_key": "3_2104573836712927232",
+          "start": 21,
+          "url": "https://t.co/9VqaPy2h1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104872937665016056",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104573836733878272"
+      },
+      {
+        "media_key": "3_2104573836742230016"
+      },
+      {
+        "media_key": "3_2104573836717154304"
+      },
+      {
+        "media_key": "3_2104573836712927232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 774
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104573846045213030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ranta_09: 足とか手とか https://t.co/9VqaPy2h1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104573836733878272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTywQYakAAnk7V.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104573836742230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTywQaaAAA1CFL.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104573836717154304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTywQUbYAAEXt6.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104573836712927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTywQTa4AAtw1Y.jpg",
+        "width": 1321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104573836733878272",
+            "3_2104573836742230016",
+            "3_2104573836717154304",
+            "3_2104573836712927232"
+          ],
+          "media_source_tweet_id": [
+            "2104573846045213030",
+            "2104573846045213030",
+            "2104573846045213030",
+            "2104573846045213030"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2104872937665016056",
+        "created_at": "2026-09-29T09:56:29.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104872937665016056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1611723030195232768",
+              "start": 3,
+              "username": "ranta_09"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 44,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836733878272",
+              "start": 21,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 44,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836742230016",
+              "start": 21,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 44,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836717154304",
+              "start": 21,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 44,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836712927232",
+              "start": 21,
+              "url": "https://t.co/9VqaPy2h1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104872937665016056",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104573836733878272"
+          },
+          {
+            "media_key": "3_2104573836742230016"
+          },
+          {
+            "media_key": "3_2104573836717154304"
+          },
+          {
+            "media_key": "3_2104573836712927232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 774
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104573846045213030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ranta_09: 足とか手とか https://t.co/9VqaPy2h1I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104573836733878272",
+            "3_2104573836742230016",
+            "3_2104573836717154304",
+            "3_2104573836712927232"
+          ]
+        },
+        "author_id": "1611723030195232768",
+        "conversation_id": "2104573846045213030",
+        "created_at": "2026-09-28T14:08:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104573846045213030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 30,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836733878272",
+              "start": 7,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 30,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836742230016",
+              "start": 7,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 30,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836717154304",
+              "start": 7,
+              "url": "https://t.co/9VqaPy2h1I"
+            },
+            {
+              "display_url": "pic.x.com/9VqaPy2h1I",
+              "end": 30,
+              "expanded_url": "https://x.com/ranta_09/status/2104573846045213030/photo/1",
+              "media_key": "3_2104573836712927232",
+              "start": 7,
+              "url": "https://t.co/9VqaPy2h1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104573846045213030",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104573836733878272"
+          },
+          {
+            "media_key": "3_2104573836742230016"
+          },
+          {
+            "media_key": "3_2104573836717154304"
+          },
+          {
+            "media_key": "3_2104573836712927232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1493,
+          "impression_count": 138016,
+          "like_count": 12031,
+          "quote_count": 57,
+          "reply_count": 6,
+          "retweet_count": 774
+        },
+        "reply_settings": "everyone",
+        "text": "足とか手とか https://t.co/9VqaPy2h1I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2104872937665016056",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 482,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-07T13:55:01.000Z",
+        "description": "ピアスが好き\n@ranta_00 |🗝️@ranta_000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "ranta_00"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "ranta_000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ranta09",
+                "end": 23,
+                "expanded_url": "https://lit.link/ranta09",
+                "start": 0,
+                "url": "https://t.co/TF7RR6EcoK"
+              }
+            ]
+          }
+        },
+        "id": "1611723030195232768",
+        "is_identity_verified": false,
+        "location": "無断転載/使用、AI学習等禁止",
+        "most_recent_tweet_id": "2104768461310419451",
+        "name": "らんた￤関西コミティア77【B-84】",
+        "pinned_tweet_id": "2072731994077987218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611723030195232768/1724977081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690318305482113024/FibXRBaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 399,
+          "like_count": 11908,
+          "listed_count": 9,
+          "media_count": 163,
+          "tweet_count": 4357
+        },
+        "url": "https://t.co/TF7RR6EcoK",
+        "username": "ranta_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2104191797530706064",
+    "created_at": "2026-09-27T12:49:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104191797530706064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050049924008660992",
+          "start": 3,
+          "username": "OD4UFML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104191797530706064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103902786119495897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OD4UFML: 好多人不知道3mepcpy的副作用。以下仅是其他社区和论坛的讨论总结，不一定完全可靠。\n1.这和其他解离剂不同，它同时是多巴胺血清素去甲肾上腺素再摄取抑制剂，这意味它不单是解离效果，一些人表示它的兴奋作用相当强，解离持续时间反而短，很容易强迫性重复给药…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2104191797530706064",
+        "created_at": "2026-09-27T12:49:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104191797530706064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050049924008660992",
+              "start": 3,
+              "username": "OD4UFML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104191797530706064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103902786119495897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OD4UFML: 好多人不知道3mepcpy的副作用。以下仅是其他社区和论坛的讨论总结，不一定完全可靠。\n1.这和其他解离剂不同，它同时是多巴胺血清素去甲肾上腺素再摄取抑制剂，这意味它不单是解离效果，一些人表示它的兴奋作用相当强，解离持续时间反而短，很容易强迫性重复给药…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050049924008660992",
+        "conversation_id": "2103902786119495897",
+        "created_at": "2026-09-26T17:41:27.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103902786119495897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103902786119495897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2101,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好多人不知道3mepcpy的副作用。以下仅是其他社区和论坛的讨论总结，不一定完全可靠。\n1.这和其他解离剂不同，它同时是多巴胺血清素去甲肾上腺素再摄取抑制剂，这意味它不单是解离效果，一些人表示它的兴奋作用相当强，解离持续时间反而短，很容易强迫性重复给药，累计到一定程度产生明显的神经毒性。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii（💊）\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2104191797530706064",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 480,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T03:09:38.000Z",
+        "description": "千行皆心腑，三年空负春",
+        "id": "2050049924008660992",
+        "is_identity_verified": false,
+        "location": "自深深处",
+        "most_recent_tweet_id": "2104190149928399027",
+        "name": "不挽春",
+        "pinned_tweet_id": "2102885685699182896",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050049924008660992/1790227189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 109,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "OD4UFML",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

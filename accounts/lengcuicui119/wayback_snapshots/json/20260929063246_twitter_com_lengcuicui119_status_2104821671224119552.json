@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104821625640321024",
+        "3_2104821625648754688"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104821671224119552",
+    "created_at": "2026-09-29T06:32:46.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104821671224119552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOjU0HsHm8",
+          "end": 33,
+          "expanded_url": "https://x.com/lengcuicui119/status/2104821671224119552/photo/1",
+          "media_key": "3_2104821625640321024",
+          "start": 10,
+          "url": "https://t.co/bOjU0HsHm8"
+        },
+        {
+          "display_url": "pic.x.com/bOjU0HsHm8",
+          "end": 33,
+          "expanded_url": "https://x.com/lengcuicui119/status/2104821671224119552/photo/1",
+          "media_key": "3_2104821625648754688",
+          "start": 10,
+          "url": "https://t.co/bOjU0HsHm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104821671224119552",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104821625640321024"
+      },
+      {
+        "media_key": "3_2104821625648754688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好吃好好吃好好吃 https://t.co/bOjU0HsHm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104821625640321024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXUHd_aAAAOjj7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2104821625648754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXUHeBasAADrZS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104821625640321024",
+            "3_2104821625648754688"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104821671224119552",
+        "created_at": "2026-09-29T06:32:46.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104821671224119552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOjU0HsHm8",
+              "end": 33,
+              "expanded_url": "https://x.com/lengcuicui119/status/2104821671224119552/photo/1",
+              "media_key": "3_2104821625640321024",
+              "start": 10,
+              "url": "https://t.co/bOjU0HsHm8"
+            },
+            {
+              "display_url": "pic.x.com/bOjU0HsHm8",
+              "end": 33,
+              "expanded_url": "https://x.com/lengcuicui119/status/2104821671224119552/photo/1",
+              "media_key": "3_2104821625648754688",
+              "start": 10,
+              "url": "https://t.co/bOjU0HsHm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104821671224119552",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104821625640321024"
+          },
+          {
+            "media_key": "3_2104821625648754688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好吃好好吃好好吃 https://t.co/bOjU0HsHm8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2104821671224119552",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 482,
+          "like_count": 3738,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

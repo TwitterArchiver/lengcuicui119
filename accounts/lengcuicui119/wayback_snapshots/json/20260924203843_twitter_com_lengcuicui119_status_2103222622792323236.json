@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103007235354054656",
+        "3_2103007235333046272",
+        "3_2103007235337310208",
+        "3_2103007235362398210"
+      ],
+      "media_source_tweet_id": [
+        "2103007244317257809",
+        "2103007244317257809",
+        "2103007244317257809",
+        "2103007244317257809"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2103222622792323236",
+    "created_at": "2026-09-24T20:38:43.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T21:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103222622792323236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1437776919890731008",
+          "start": 3,
+          "username": "dodo_o_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxF5rGhrSP",
+          "end": 41,
+          "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+          "media_key": "3_2103007235354054656",
+          "start": 18,
+          "url": "https://t.co/LxF5rGhrSP"
+        },
+        {
+          "display_url": "pic.x.com/LxF5rGhrSP",
+          "end": 41,
+          "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+          "media_key": "3_2103007235333046272",
+          "start": 18,
+          "url": "https://t.co/LxF5rGhrSP"
+        },
+        {
+          "display_url": "pic.x.com/LxF5rGhrSP",
+          "end": 41,
+          "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+          "media_key": "3_2103007235337310208",
+          "start": 18,
+          "url": "https://t.co/LxF5rGhrSP"
+        },
+        {
+          "display_url": "pic.x.com/LxF5rGhrSP",
+          "end": 41,
+          "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+          "media_key": "3_2103007235362398210",
+          "start": 18,
+          "url": "https://t.co/LxF5rGhrSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103222622792323236",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103007235354054656"
+      },
+      {
+        "media_key": "3_2103007235333046272"
+      },
+      {
+        "media_key": "3_2103007235337310208"
+      },
+      {
+        "media_key": "3_2103007235362398210"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103007244317257809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dodo_o_u: 人気順 https://t.co/LxF5rGhrSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2103007235354054656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9h8Dda0AAB3AU.jpg",
+        "width": 1136
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103007235333046272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9h8DYaQAAqxmN.jpg",
+        "width": 1550
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103007235337310208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9h8DZbUAATUDY.jpg",
+        "width": 1431
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103007235362398210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9h8DfaIAIaVQR.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103007235354054656",
+            "3_2103007235333046272",
+            "3_2103007235337310208",
+            "3_2103007235362398210"
+          ],
+          "media_source_tweet_id": [
+            "2103007244317257809",
+            "2103007244317257809",
+            "2103007244317257809",
+            "2103007244317257809"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2103222622792323236",
+        "created_at": "2026-09-24T20:38:43.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103222622792323236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1437776919890731008",
+              "start": 3,
+              "username": "dodo_o_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 41,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235354054656",
+              "start": 18,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 41,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235333046272",
+              "start": 18,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 41,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235337310208",
+              "start": 18,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 41,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235362398210",
+              "start": 18,
+              "url": "https://t.co/LxF5rGhrSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103222622792323236",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103007235354054656"
+          },
+          {
+            "media_key": "3_2103007235333046272"
+          },
+          {
+            "media_key": "3_2103007235337310208"
+          },
+          {
+            "media_key": "3_2103007235362398210"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 284
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103007244317257809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dodo_o_u: 人気順 https://t.co/LxF5rGhrSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103007235354054656",
+            "3_2103007235333046272",
+            "3_2103007235337310208",
+            "3_2103007235362398210"
+          ]
+        },
+        "author_id": "1437776919890731008",
+        "conversation_id": "2103007244317257809",
+        "created_at": "2026-09-24T06:22:53.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103007244317257809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 27,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235354054656",
+              "start": 4,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 27,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235333046272",
+              "start": 4,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 27,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235337310208",
+              "start": 4,
+              "url": "https://t.co/LxF5rGhrSP"
+            },
+            {
+              "display_url": "pic.x.com/LxF5rGhrSP",
+              "end": 27,
+              "expanded_url": "https://x.com/dodo_o_u/status/2103007244317257809/photo/1",
+              "media_key": "3_2103007235362398210",
+              "start": 4,
+              "url": "https://t.co/LxF5rGhrSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103007244317257809",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103007235354054656"
+          },
+          {
+            "media_key": "3_2103007235333046272"
+          },
+          {
+            "media_key": "3_2103007235337310208"
+          },
+          {
+            "media_key": "3_2103007235362398210"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 46031,
+          "like_count": 4295,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "人気順 https://t.co/LxF5rGhrSP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77\n可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/7VZbtQ1SFP"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2103222622792323236",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 481,
+          "like_count": 3669,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/7VZbtQ1SFP",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-14T13:55:15.000Z",
+        "description": "ni~と申します。illustration 𓈒𓏸𓂋 🖱️ ★ 〰︎ б",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nini0o0o",
+                "end": 23,
+                "expanded_url": "https://lit.link/nini0o0o",
+                "start": 0,
+                "url": "https://t.co/K8cMTj5T7G"
+              }
+            ]
+          }
+        },
+        "id": "1437776919890731008",
+        "is_identity_verified": false,
+        "location": "無断転載、編集×",
+        "most_recent_tweet_id": "2103007244317257809",
+        "name": "ni~ / に〜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437776919890731008/1708597645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890243010203684864/G8H-aacL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44277,
+          "following_count": 222,
+          "like_count": 23969,
+          "listed_count": 235,
+          "media_count": 363,
+          "tweet_count": 8710
+        },
+        "url": "https://t.co/K8cMTj5T7G",
+        "username": "dodo_o_u",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

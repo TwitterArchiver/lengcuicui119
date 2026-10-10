@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105197559467974656"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2105197587334930943",
+    "created_at": "2026-09-30T07:26:32.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105197587334930943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3oMX4QMrO1",
+          "end": 35,
+          "expanded_url": "https://x.com/lengcuicui119/status/2105197587334930943/video/1",
+          "media_key": "13_2105197559467974656",
+          "start": 12,
+          "url": "https://t.co/3oMX4QMrO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105197587334930943",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2105197559467974656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sub是这样玩的吗？？ https://t.co/3oMX4QMrO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5225,
+        "height": 930,
+        "media_key": "13_2105197559467974656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105197559467974656/img/mFLHas5CBDzNgEMW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105197559467974656/pl/4oAj4IVV3UkVgKgS.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197559467974656/vid/avc1/452x360/6MYxEAi9QhoI0VDm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197559467974656/vid/avc1/1168x930/cDt1vjHbgfRcsQ-k.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197559467974656/vid/avc1/338x270/EgbTZStQRGt2oygI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197559467974656/vid/avc1/904x720/guok4xf4A78OBxzY.mp4"
+          }
+        ],
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105197559467974656"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2105197587334930943",
+        "created_at": "2026-09-30T07:26:32.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105197587334930943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3oMX4QMrO1",
+              "end": 35,
+              "expanded_url": "https://x.com/lengcuicui119/status/2105197587334930943/video/1",
+              "media_key": "13_2105197559467974656",
+              "start": 12,
+              "url": "https://t.co/3oMX4QMrO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105197587334930943",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105197559467974656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sub是这样玩的吗？？ https://t.co/3oMX4QMrO1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2105197587334930943",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 483,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

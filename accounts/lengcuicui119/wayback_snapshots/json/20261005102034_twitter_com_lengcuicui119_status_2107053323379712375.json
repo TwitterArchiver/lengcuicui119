@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2107053323379712375",
+    "created_at": "2026-10-05T10:20:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107053323379712375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971530046776201216",
+          "start": 3,
+          "username": "ewi_ike29765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107053323379712375",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106880142568271996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ewi_ike29765: Autumn really knows how to put on a show! 🍂💗🧡💜 Just look at those incredible seasonal colors—hot pink, golden yellow, fie…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2106880133285969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0kUYjWgAAJXvK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2107053323379712375",
+        "created_at": "2026-10-05T10:20:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107053323379712375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971530046776201216",
+              "start": 3,
+              "username": "ewi_ike29765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107053323379712375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106880142568271996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ewi_ike29765: Autumn really knows how to put on a show! 🍂💗🧡💜 Just look at those incredible seasonal colors—hot pink, golden yellow, fie…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106880133285969920"
+          ]
+        },
+        "author_id": "1971530046776201216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Deep Purple",
+              "id": "917860735031447557",
+              "name": "Deep Purple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Deep Purple",
+              "id": "917860735031447557",
+              "name": "Deep Purple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Deep Purple",
+              "id": "917860735031447557",
+              "name": "Deep Purple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291812963314098176",
+              "name": "Hard rock"
+            }
+          }
+        ],
+        "conversation_id": "2106880142568271996",
+        "created_at": "2026-10-04T22:52:24.000Z",
+        "display_text_range": [
+          0,
+          199
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T23:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106880142568271996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HA2jRoRgl0",
+              "end": 223,
+              "expanded_url": "https://x.com/ewi_ike29765/status/2106880142568271996/photo/1",
+              "media_key": "3_2106880133285969920",
+              "start": 200,
+              "url": "https://t.co/HA2jRoRgl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106880142568271996",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106880133285969920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 12715,
+          "like_count": 981,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Autumn really knows how to put on a show! 🍂💗🧡💜 Just look at those incredible seasonal colors—hot pink, golden yellow, fiery orange, and deep purple all on one plant. Nature never stops surprising me. https://t.co/HA2jRoRgl0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2107053323379712375",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 500,
+          "like_count": 3833,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T11:00:13.000Z",
+        "description": "You'll check out my group where I do most of the posting and also gives tips on growing https://t.co/OcokYpm6WR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/smokystalliong…",
+                "end": 111,
+                "expanded_url": "https://t.me/smokystalliongrow",
+                "start": 88,
+                "url": "https://t.co/OcokYpm6WR"
+              }
+            ]
+          }
+        },
+        "id": "1971530046776201216",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2107047479615140063",
+        "name": "smokystallion",
+        "pinned_tweet_id": "2105315506601206051",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971530046776201216/1790945539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056532729869504512/rHrVWMSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 7500,
+          "like_count": 4496,
+          "listed_count": 4,
+          "media_count": 873,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "ewi_ike29765",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

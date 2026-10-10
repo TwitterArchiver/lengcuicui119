@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1455784742922555395",
+    "conversation_id": "2106775044999536993",
+    "created_at": "2026-10-04T15:54:47.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106775044999536993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seki808808/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/seki808808/status/2106741787897553112",
+          "start": 46,
+          "url": "https://t.co/Ks3jG50o8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106775044999536993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106741787897553112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确诊了，有痛苦压力才会有会想写东西的...脑子好像如有神助般，做完了以前做不到的事情... https://t.co/Ks3jG50o8m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2106775044999536993",
+        "created_at": "2026-10-04T15:54:47.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106775044999536993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seki808808/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/seki808808/status/2106741787897553112",
+              "start": 46,
+              "url": "https://t.co/Ks3jG50o8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106775044999536993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106741787897553112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确诊了，有痛苦压力才会有会想写东西的...脑子好像如有神助般，做完了以前做不到的事情... https://t.co/Ks3jG50o8m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619739297518862336",
+        "conversation_id": "2106741787897553112",
+        "created_at": "2026-10-04T13:42:38.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106741787897553112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106741787897553112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1229,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我只有过得特别痛苦的时候才想创作，才能画好。幸福的时候，做艺术完全没有动力啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ck8FK6qyzSlm…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
+                "start": 0,
+                "url": "https://t.co/QLgIvx1c5w"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2106775044999536993",
+        "name": "山本殺し（日常版）",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 502,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/QLgIvx1c5w",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T16:48:45.000Z",
+        "description": "",
+        "id": "1619739297518862336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106741787897553112",
+        "name": "808",
+        "pinned_tweet_id": "2080651104111730937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619739297518862336/1738601589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886457724575322112/3b_FbZrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 1555,
+          "like_count": 16817,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "seki808808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

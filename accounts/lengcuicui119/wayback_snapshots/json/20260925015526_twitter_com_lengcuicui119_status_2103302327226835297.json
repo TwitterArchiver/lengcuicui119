@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103302320889200640"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2103302327226835297",
+    "created_at": "2026-09-25T01:55:26.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T02:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103302327226835297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6FuneIFxp",
+          "end": 23,
+          "expanded_url": "https://x.com/lengcuicui119/status/2103302327226835297/photo/1",
+          "media_key": "3_2103302320889200640",
+          "start": 0,
+          "url": "https://t.co/G6FuneIFxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103302327226835297",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2103302320889200640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/G6FuneIFxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_2103302320889200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBuUSvbAAAAgFx.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103302320889200640"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2103302327226835297",
+        "created_at": "2026-09-25T01:55:26.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103302327226835297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6FuneIFxp",
+              "end": 23,
+              "expanded_url": "https://x.com/lengcuicui119/status/2103302327226835297/photo/1",
+              "media_key": "3_2103302320889200640",
+              "start": 0,
+              "url": "https://t.co/G6FuneIFxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103302327226835297",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103302320889200640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G6FuneIFxp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77\n可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/7VZbtQ1SFP"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2103302327226835297",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 482,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/7VZbtQ1SFP",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

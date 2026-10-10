@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103505222861766656"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "conversation_id": "2103505231493644688",
+    "created_at": "2026-09-25T15:21:43.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103505231493644688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zL9VgN0NVW",
+          "end": 75,
+          "expanded_url": "https://x.com/lengcuicui119/status/2103505231493644688/photo/1",
+          "media_key": "3_2103505222861766656",
+          "start": 52,
+          "url": "https://t.co/zL9VgN0NVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103505231493644688",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103505222861766656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了几颗键帽替换，我刚刚收纳手抖写的标签，我妈说，还以为是人家打印发过来的...（我在说什么啊...） https://t.co/zL9VgN0NVW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2103505222861766656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEm2vfawAAn5eJ.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103505222861766656"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "conversation_id": "2103505231493644688",
+        "created_at": "2026-09-25T15:21:43.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103505231493644688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zL9VgN0NVW",
+              "end": 75,
+              "expanded_url": "https://x.com/lengcuicui119/status/2103505231493644688/photo/1",
+              "media_key": "3_2103505222861766656",
+              "start": 52,
+              "url": "https://t.co/zL9VgN0NVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103505231493644688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103505222861766656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了几颗键帽替换，我刚刚收纳手抖写的标签，我妈说，还以为是人家打印发过来的...（我在说什么啊...） https://t.co/zL9VgN0NVW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2103505231493644688",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 481,
+          "like_count": 3690,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

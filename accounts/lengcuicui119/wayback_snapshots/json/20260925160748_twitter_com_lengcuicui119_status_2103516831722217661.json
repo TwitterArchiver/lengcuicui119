@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103173013869088768",
+        "3_2103173071297540096",
+        "3_2103173143561162752",
+        "3_2103173244090208256"
+      ],
+      "media_source_tweet_id": [
+        "2103173252701155601",
+        "2103173252701155601",
+        "2103173252701155601",
+        "2103173252701155601"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2103516831722217661",
+    "created_at": "2026-09-25T16:07:48.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103516831722217661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQWTgWQl4g",
+          "end": 85,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+          "media_key": "3_2103173013869088768",
+          "start": 62,
+          "url": "https://t.co/tQWTgWQl4g"
+        },
+        {
+          "display_url": "pic.x.com/tQWTgWQl4g",
+          "end": 85,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+          "media_key": "3_2103173071297540096",
+          "start": 62,
+          "url": "https://t.co/tQWTgWQl4g"
+        },
+        {
+          "display_url": "pic.x.com/tQWTgWQl4g",
+          "end": 85,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+          "media_key": "3_2103173143561162752",
+          "start": 62,
+          "url": "https://t.co/tQWTgWQl4g"
+        },
+        {
+          "display_url": "pic.x.com/tQWTgWQl4g",
+          "end": 85,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+          "media_key": "3_2103173244090208256",
+          "start": 62,
+          "url": "https://t.co/tQWTgWQl4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103516831722217661",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103173013869088768"
+      },
+      {
+        "media_key": "3_2103173071297540096"
+      },
+      {
+        "media_key": "3_2103173143561162752"
+      },
+      {
+        "media_key": "3_2103173244090208256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 683
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103173252701155601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 二流一流：在今天的中国，有两门学科是禁忌，除了大家都懂的逻辑学，还有一门是心理学。 https://t.co/tQWTgWQl4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2266,
+        "media_key": "3_2103173013869088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_4toja0AA-Hes.jpg",
+        "width": 744
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2103173071297540096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_4w-fbcAAOXr7.jpg",
+        "width": 744
+      },
+      {
+        "height": 2218,
+        "media_key": "3_2103173143561162752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_41Lsa0AA9V-E.jpg",
+        "width": 744
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2103173244090208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_47CMaUAAeJkW.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103173013869088768",
+            "3_2103173071297540096",
+            "3_2103173143561162752",
+            "3_2103173244090208256"
+          ],
+          "media_source_tweet_id": [
+            "2103173252701155601",
+            "2103173252701155601",
+            "2103173252701155601",
+            "2103173252701155601"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2103516831722217661",
+        "created_at": "2026-09-25T16:07:48.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103516831722217661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173013869088768",
+              "start": 62,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173071297540096",
+              "start": 62,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173143561162752",
+              "start": 62,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173244090208256",
+              "start": 62,
+              "url": "https://t.co/tQWTgWQl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103516831722217661",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103173013869088768"
+          },
+          {
+            "media_key": "3_2103173071297540096"
+          },
+          {
+            "media_key": "3_2103173143561162752"
+          },
+          {
+            "media_key": "3_2103173244090208256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 683
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103173252701155601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 二流一流：在今天的中国，有两门学科是禁忌，除了大家都懂的逻辑学，还有一门是心理学。 https://t.co/tQWTgWQl4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103173013869088768",
+            "3_2103173071297540096",
+            "3_2103173143561162752",
+            "3_2103173244090208256"
+          ]
+        },
+        "author_id": "44186175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2103173252701155601",
+        "created_at": "2026-09-24T17:22:33.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103173252701155601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173013869088768",
+              "start": 42,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173071297540096",
+              "start": 42,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173143561162752",
+              "start": 42,
+              "url": "https://t.co/tQWTgWQl4g"
+            },
+            {
+              "display_url": "pic.x.com/tQWTgWQl4g",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2103173252701155601/photo/1",
+              "media_key": "3_2103173244090208256",
+              "start": 42,
+              "url": "https://t.co/tQWTgWQl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103173252701155601",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103173013869088768"
+          },
+          {
+            "media_key": "3_2103173071297540096"
+          },
+          {
+            "media_key": "3_2103173143561162752"
+          },
+          {
+            "media_key": "3_2103173244090208256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1992,
+          "impression_count": 187365,
+          "like_count": 3413,
+          "quote_count": 24,
+          "reply_count": 79,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "二流一流：在今天的中国，有两门学科是禁忌，除了大家都懂的逻辑学，还有一门是心理学。 https://t.co/tQWTgWQl4g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2103516831722217661",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 483,
+          "like_count": 3693,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号，内容均可去掉id随意转载。错漏、传谣处欢迎指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表认同。请怀抱乐子人心态，太较真则可能严重抑郁。认知失调时请先反思自己是否3D人士。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教",
+        "id": "44186175",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2103192211945070738",
+        "name": "小径残雪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238834,
+          "following_count": 1866,
+          "like_count": 190,
+          "listed_count": 1277,
+          "media_count": 29629,
+          "tweet_count": 38010
+        },
+        "url": "",
+        "username": "xiaojingcanxue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103724931687337984"
+      ],
+      "media_source_tweet_id": [
+        "2103724938427339049"
+      ]
+    },
+    "author_id": "1455784742922555395",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103761609760104853",
+    "created_at": "2026-09-26T08:20:28.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103761609760104853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754774517594181632",
+          "start": 3,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "valence.top",
+          "end": 44,
+          "expanded_url": "https://valence.top",
+          "start": 21,
+          "unwound_url": "https://valence.top",
+          "url": "https://t.co/1egz4P6m1L"
+        },
+        {
+          "display_url": "pic.x.com/z8i7oDHU8h",
+          "end": 97,
+          "expanded_url": "https://x.com/ValenceLab/status/2103724938427339049/photo/1",
+          "media_key": "3_2103724931687337984",
+          "start": 74,
+          "url": "https://t.co/z8i7oDHU8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103761609760104853",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103724931687337984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103724938427339049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValenceLab: 欢迎来到 https://t.co/1egz4P6m1L。\n\n这里刚刚开始。\n\n谢谢你，愿意成为第一批看见它的人。 https://t.co/z8i7oDHU8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2103724931687337984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHurepbUAAJU_N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103724931687337984"
+          ],
+          "media_source_tweet_id": [
+            "2103724938427339049"
+          ]
+        },
+        "author_id": "1455784742922555395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103761609760104853",
+        "created_at": "2026-09-26T08:20:28.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103761609760104853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754774517594181632",
+              "start": 3,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "valence.top",
+              "end": 44,
+              "expanded_url": "https://valence.top",
+              "start": 21,
+              "unwound_url": "https://valence.top",
+              "url": "https://t.co/1egz4P6m1L"
+            },
+            {
+              "display_url": "pic.x.com/z8i7oDHU8h",
+              "end": 97,
+              "expanded_url": "https://x.com/ValenceLab/status/2103724938427339049/photo/1",
+              "media_key": "3_2103724931687337984",
+              "start": 74,
+              "url": "https://t.co/z8i7oDHU8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103761609760104853",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103724931687337984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103724938427339049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValenceLab: 欢迎来到 https://t.co/1egz4P6m1L。\n\n这里刚刚开始。\n\n谢谢你，愿意成为第一批看见它的人。 https://t.co/z8i7oDHU8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103724931687337984"
+          ]
+        },
+        "author_id": "1754774517594181632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103724938427339049",
+        "created_at": "2026-09-26T05:54:45.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103724938427339049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "valence.top",
+              "end": 28,
+              "expanded_url": "https://valence.top",
+              "start": 5,
+              "unwound_url": "https://valence.top",
+              "url": "https://t.co/1egz4P6m1L"
+            },
+            {
+              "display_url": "pic.x.com/z8i7oDHU8h",
+              "end": 81,
+              "expanded_url": "https://x.com/ValenceLab/status/2103724938427339049/photo/1",
+              "media_key": "3_2103724931687337984",
+              "start": 58,
+              "url": "https://t.co/z8i7oDHU8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103724938427339049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103724931687337984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 835,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到 https://t.co/1egz4P6m1L。\n\n这里刚刚开始。\n\n谢谢你，愿意成为第一批看见它的人。 https://t.co/z8i7oDHU8h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "可以叫小杀\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJaA5Ow"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2103761609760104853",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 482,
+          "like_count": 3706,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/zGLTJaA5Ow",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥官方论坛 https://t.co/I7gx0T63Cd∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "valence.top",
+                "end": 39,
+                "expanded_url": "http://valence.top",
+                "start": 16,
+                "url": "https://t.co/I7gx0T63Cd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2103757749058478564",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2103724938427339049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 236,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
