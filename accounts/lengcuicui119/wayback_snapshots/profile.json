@@ -1,12 +1,20 @@
 {
-  "name": "山本殺し",
+  "name": "山本殺し（日常版）",
   "username": "@lengcuicui119",
-  "bio": "🚪77\n可以叫小杀\n需药私信\n我的旅行报告👇🏻",
+  "bio": "可以叫小杀\n@Koroshiiiiiii\n我的旅行报告👇🏻",
   "location": "✟升天✟",
-  "link": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+  "link": "https://www.kdocs.cn/l/ck8FK6qyzSlm?f=301",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {},
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 20,
+        "start": 6,
+        "username": "Koroshiiiiiii"
+      }
+    ]
+  },
   "_avatar_source": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg"
 }
